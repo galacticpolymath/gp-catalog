@@ -1,7 +1,7 @@
 # README
 build.py - Netlify runs this to crawl the repo and generate an index.html file browser
 
-Auto-pushing:
+### Auto-pushing:
 
 build.yml - template. place in a new repo's /.github/workflows/build.yml and edit src and dst directories as necessary. enables auto-pushes
 
