@@ -11,4 +11,4 @@ jobs:
     name: Index the folders
     steps:
       - name: Index
-        uses: rune/indexer-github-action
+        uses: rune/indexer-github-action@v1
