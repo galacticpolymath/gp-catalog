@@ -1,4 +1,4 @@
-#README
+# README
 build.py - Netlify runs this to crawl the repo and generate an index.html file browser
 
 Auto-pushing:
