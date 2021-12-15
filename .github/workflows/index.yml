@@ -1,14 +1,20 @@
-name: Copy published files
-
+name: py
+  
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "0 0 * * *" #runs at 00:00 UTC everyday
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # windows-latest | macos-latest
-    name: Index the folders
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Index
-        uses: rune/indexer-github-action@v1
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner.
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8 #install the python needed
+      - name: execute py script # run the run.py to get the latest data
+        run: |
+          python index.py
