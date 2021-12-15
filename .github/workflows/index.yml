@@ -1,0 +1,14 @@
+name: Copy published files
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # windows-latest | macos-latest
+    name: Index the folders
+    steps:
+      - name: Index
+        uses: rune/indexer-github-action
