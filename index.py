@@ -5,9 +5,10 @@ lessons = [f for f in listdir(mypath) if not isfile(join(mypath, f)) and f[0] !=
 
 for lesson in lessons:
     # permalink??
-    # crawl lesson-plans.json for Title, SponsoredBy, and Subtitle
+    # crawl lesson-plans.json for Title, SponsoredBy, and Subtitle, Date published
     # add each to a string if present
     # add string into dictionary?
     # include entire lesson plan?
     # include pics?
+    # you can use lists!
     pass
