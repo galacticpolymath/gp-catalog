@@ -1,0 +1,23 @@
+name: Copy published files
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # windows-latest | macos-latest
+    name: Test changed-files
+    steps:
+      - name: Copy
+        uses: andstor/copycat-action@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          src_path: /folderHere/.  # MAKE SURE ENDS IN /. OR WEIRD FOLDER REDUNDANCIES HAPPEN
+          dst_path: /destinationFolder
+          src_branch: main
+          dst_branch: main
+          dst_owner: galacticpolymath
+          dst_repo_name: gp-catalog
+          commit_message: Automated publishing commit
