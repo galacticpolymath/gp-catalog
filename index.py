@@ -3,7 +3,7 @@ from os.path import isfile, join, exists
 import json
 
 search_attributes = keys = ['ShortTitle', 'LastUpdated', 'PublishedOn', 'Title', 'Subtitle', 'SponsoredBy', 'Standards', 'Keywords']
-lessons = [f for f in listdir('./') if not isfile(join(mypath, f)) and f[0] != "."]
+lessons = [f for f in listdir('./') if not isfile(join('./', f)) and f[0] != "."]
 index = []
 
 assert len(lessons)!= 0, 'No lessons found...'
