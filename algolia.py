@@ -9,7 +9,7 @@ client = SearchClient.create(
 index = client.init_index('search_index')
 
 with open('./index.json', 'r') as file:
-    content = f.read()
+    content = file.read()
 
 data = json.loads(content)
 
