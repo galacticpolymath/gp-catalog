@@ -13,4 +13,4 @@ with open('./index.json', 'r') as file:
 
 data = json.loads(content)
 
-index.save_objects(data, {'autoGenerateObjectIDIfNotExist': True}
+index.save_objects(data, {'autoGenerateObjectIDIfNotExist': True})
