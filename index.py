@@ -21,6 +21,5 @@ for lesson in lessons:
     else:
         print("No LESSON.json found...")    
 
-print(index)
 with open('index.json', 'w') as json_file:
     json.dump(index, json_file)
