@@ -2,7 +2,7 @@ from os import listdir
 from os.path import isfile, join, exists
 import json
 
-search_attributes = keys = ['ShortTitle', 'LastUpdated', 'PublishedOn', 'Title', 'Subtitle', 'SponsoredBy', 'Standards', 'Keywords']
+search_attributes = keys = ['ShortTitle', 'LastUpdated', 'FirstPublicationDate', 'Title', 'Subtitle', 'SponsoredBy', 'Standards', 'Keywords']
 lessons = [f for f in listdir('./lessons') if not isfile(join('./lessons/', f)) and f[0] != "."]
 index = []
 
@@ -17,9 +17,10 @@ for lesson in lessons:
             filtered_attributes = [x for x in search_attributes if x in lesson_json.keys()]
             search_terms = {attribute: lesson_json[attribute] for attribute in filtered_attributes}
             index += search_terms
+            print(index)
 
     else:
-        print("No LESSON.json found...")
+        print("No LESSON.json found...")    
 
 with open('index.json', 'w') as json_file:
     json.dump(index, json_file)
