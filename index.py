@@ -10,6 +10,8 @@ assert len(lessons)!= 0, 'No lessons found...'
 
 for lesson in lessons:
     json_path = lesson + '/LESSON.json'
+    print(json_path)
+    print(listdir(lesson))
 
     if exists(json_path):
         with open(json_path) as file:
