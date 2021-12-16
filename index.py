@@ -15,7 +15,9 @@ for lesson in lessons:
         with open(json_path) as file:
             lesson_json = json.load(file)
             filtered_attributes = [x for x in search_attributes if x in lesson_json.keys()]
+            print(filtered_attributes)
             search_terms = {attribute: lesson_json[attribute] for attribute in filtered_attributes}
+            print(search_terms)
             index += search_terms
             print(index)
 
