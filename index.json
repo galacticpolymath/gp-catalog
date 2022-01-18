@@ -1,17 +1,5 @@
 [
   {
-    "id": "3",
-    "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/LESSON.json",
-    "ShortTitle": "geneticRescue",
-    "PublicationStatus": "Live",
-    "ReleaseDate": "2021-12-15",
-    "LastUpdated": "2021-12-16 18:02:20",
-    "FirstPublicationDate": "2021-12-15 17:06:16",
-    "Title": "Genetic Rescue to the Rescue",
-    "Subtitle": "Preventing extinction through gene flow",
-    "SponsoredBy": "- [Sarah Fitzpatrick, PhD](http://swfitz.com/index.php), Department of Integrative Biology at Michigan State University's W. K. Kellogg Biological Station\n- [National Science Foundation](https://www.nsf.gov/) Grant DEB 2016569"
-  },
-  {
     "id": "1",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json",
     "ShortTitle": "femalesSing",
@@ -22,5 +10,17 @@
     "Title": "Females singing to be heard",
     "Subtitle": "Challenging long-held assumptions about birdsong through data visualization",
     "SponsoredBy": "The [Animal Behaviour Society](https://www.animalbehaviorsociety.org/web/index.php), an international non-profit scientific society that encourages and promotes the professional study of animal behavior."
+  },
+  {
+    "id": "3",
+    "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/LESSON.json",
+    "ShortTitle": "geneticRescue",
+    "PublicationStatus": "Live",
+    "ReleaseDate": "2021-12-15",
+    "LastUpdated": "2021-12-16 18:02:20",
+    "FirstPublicationDate": "2021-12-15 17:06:16",
+    "Title": "Genetic Rescue to the Rescue",
+    "Subtitle": "Preventing extinction through gene flow",
+    "SponsoredBy": "- [Sarah Fitzpatrick, PhD](http://swfitz.com/index.php), Department of Integrative Biology at Michigan State University's W. K. Kellogg Biological Station\n- [National Science Foundation](https://www.nsf.gov/) Grant DEB 2016569"
   }
 ]
