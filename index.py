@@ -2,7 +2,7 @@ from os import listdir
 from os.path import isfile, join, exists
 import json
 
-search_attributes = keys = ['id','GPCatalogPath','ShortTitle','CoverImage','PublicationStatus','ReleaseDate', 'LastUpdated', 'FirstPublicationDate', 'Title', 'Subtitle', 'SponsoredBy', 'Tags','Description','Standards']
+search_attributes = keys = ['id','GPCatalogPath','ShortTitle','CoverImage','PublicationStatus','ReleaseDate', 'LastUpdated', 'FirstPublicationDate', 'Title', 'Subtitle', 'SponsoredBy', 'Tags','Description','Standards','Section']
 lessons = [f for f in listdir('./lessons') if not isfile(join('./lessons/', f)) and f[0] != "."]
 index = []
 
