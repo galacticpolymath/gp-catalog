@@ -14,9 +14,9 @@ for lesson in lessons:
     if exists(json_path):
         with open(json_path) as file:
             lesson_json = json.load(file)
-            filtered_attributes = [x for x in search_attributes if x in lesson_json.keys()]
-            search_terms = {attribute: lesson_json[attribute] for attribute in filtered_attributes}
-            index += [search_terms]
+            #filtered_attributes = [x for x in search_attributes if x in lesson_json.keys()]
+            #search_terms = {attribute: lesson_json[attribute] for attribute in filtered_attributes}
+            index += [lesson_json]
 
     else:
         print("No LESSON.json found...")    
