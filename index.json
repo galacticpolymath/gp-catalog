@@ -491,9 +491,9 @@
     "lng": "eng",
     "locale": "en-US",
     "TemplateVer": "0.3.3",
-    "galacticPubsVer": "0.7.8",
+    "galacticPubsVer": "0.8.0",
     "FirstPublicationDate": "2021-12-16 16:03:12",
-    "LastUpdated": "2022-06-28 16:32:56",
+    "LastUpdated": "2022-06-28 17:03:40",
     "URL": "https://galacticpolymath.com/lessons/1",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/lesson_femalesSing_math.git",
@@ -505,10 +505,10 @@
     "SponsorName": "Animal Behaviour Society",
     "SponsoredBy": "The [Animal Behaviour Society](https://www.animalbehaviorsociety.org/web/index.php), an international non-profit scientific society that encourages and promotes the professional study of animal behavior.",
     "SponsorImage": {
-      "url": "https://catalog.galacticpolymath.com/lessons/galacticPubs/sponsor_logo_41be63750b.png"
+      "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/sponsor_logo_41be63750b.png"
     },
     "CoverImage": {
-      "url": "https://catalog.galacticpolymath.com/lessons/galacticPubs/banner.png"
+      "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/banner.png"
     },
     "Section": {
       "overview": {
@@ -552,10 +552,10 @@
         ],
         "LearningObj": "- Solve a cipher (a type of secret message)\n- Learn and use new vocabulary\n- Interpret a scatter plot\n- Create a histogram from raw data\n- Compare and contrast scatter plots and histograms\n- Persevere, even when a task seems too hard",
         "SteamEpaulette": {
-          "url": "https://catalog.galacticpolymath.com/lessons/galacticPubs/GP-Learning-Epaulette.png"
+          "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/GP-Learning-Epaulette.png"
         },
         "SteamEpaulette_vert": {
-          "url": "https://catalog.galacticpolymath.com/lessons/galacticPubs/GP-Learning-Epaulette_vert.png"
+          "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/GP-Learning-Epaulette_vert.png"
         },
         "Description": "This lesson teaches students about data visualization (how to read and interpret scatter plots, dot plots, and histograms), and connects to a broader theme of how our assumptions affect our conclusions. Students learn how scientists and birders alike have assumed for decades that most female birds don't sing. As students explore real data from a recent study, they will learn how this assumption could be reinforced by the fact that females sing much less than males, and further, how this biased oversight has limited our understanding of bird research from its very beginnings. <AnchorLink href=\"#background\"> See Scientific Background </AnchorLink> for details.\n\nThe lesson will take 3 class periods for most learners. Students dive in with a data literacy puzzle, which we call a \u201cPolymath Puzzle.\u201d Students are given a figure from a current scientific study on barn swallows (a common bird across the world), but with text elements coded with an alphabetic shift (e.g. each letter is shifted: A to B, B to C, and so on). They have to work in teams (or individually) to decipher the messages, and then try to understand the figure. This is a high-level data literacy task that piques students\u2019 natural love of puzzle-solving, while working on GRIT/grappling and the [21st Century Skills (4 Cs)](https://www.aeseducation.com/blog/four-cs-21st-century-skills). Videos guide students through each stage of the Polymath Puzzle. In Parts 2 and 3, students create and interpret histograms from the same data, allowing for a deeper understanding of the pros and cons of scatter plots and histograms for visualizing data patterns. The culminating task is for students to synthesize the conclusions from the two types of graph, along with additional background information to hypothesize a reason for why female song has been missed until 2020 in this widely studied species."
       },
@@ -793,7 +793,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -828,7 +828,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -842,7 +842,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -905,7 +905,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -950,7 +950,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -999,7 +999,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1013,7 +1013,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1048,7 +1048,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1062,7 +1062,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1076,7 +1076,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1219,7 +1219,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1233,7 +1233,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1442,11 +1442,11 @@
                         "links": [
                           {
                             "linkText": "Preview Now with Nearpod",
-                            "url": "https://share.nearpod.com/eQE8Trfo5eb"
+                            "url": "https://share.nearpod.com/mr7irtNkMib"
                           },
                           {
                             "linkText": "Add to My Nearpod Library",
-                            "url": "https://share.nearpod.com/e/uXzKfufo5eb"
+                            "url": "https://share.nearpod.com/e/wFap6uNkMib"
                           },
                           {
                             "linkText": "Edit in My Google Drive",
@@ -1492,11 +1492,11 @@
                         "links": [
                           {
                             "linkText": "Preview Now with Nearpod",
-                            "url": "https://share.nearpod.com/mr7irtNkMib"
+                            "url": "https://share.nearpod.com/eQE8Trfo5eb"
                           },
                           {
                             "linkText": "Add to My Nearpod Library",
-                            "url": "https://share.nearpod.com/e/wFap6uNkMib"
+                            "url": "https://share.nearpod.com/e/uXzKfufo5eb"
                           },
                           {
                             "linkText": "Edit in My Google Drive",
@@ -1539,11 +1539,11 @@
                         "links": [
                           {
                             "linkText": "Preview Now with Nearpod",
-                            "url": "https://share.nearpod.com/duGJQiMkMib"
+                            "url": "https://app.nearpod.com/?pin=7C9BF1D556205AC0C2765427F7780375-1"
                           },
                           {
                             "linkText": "Add to My Nearpod Library",
-                            "url": "https://share.nearpod.com/e/R8QpZjMkMib"
+                            "url": "https://share.nearpod.com/e/MiDfMP0kMib"
                           },
                           {
                             "linkText": "Edit in My Google Drive",
@@ -1564,11 +1564,11 @@
                         "links": [
                           {
                             "linkText": "Preview Now with Nearpod",
-                            "url": "https://app.nearpod.com/?pin=7C9BF1D556205AC0C2765427F7780375-1"
+                            "url": "https://share.nearpod.com/duGJQiMkMib"
                           },
                           {
                             "linkText": "Add to My Nearpod Library",
-                            "url": "https://share.nearpod.com/e/MiDfMP0kMib"
+                            "url": "https://share.nearpod.com/e/R8QpZjMkMib"
                           },
                           {
                             "linkText": "Edit in My Google Drive",
@@ -2050,7 +2050,7 @@
         "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Math, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 25 standards across US grade band(s): 5-6, 7-8, 9-12.",
         "Footnote": "**Notes on Standards**\n\n*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
         "Badge": {
-          "url": "https://catalog.galacticpolymath.com/lessons/galacticPubs/GP-Learning-Chart.png"
+          "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/GP-Learning-Chart.png"
         }
       },
       "standards": {
@@ -2512,10 +2512,16 @@
   {
     "id": "3",
     "ShortTitle": "geneticRescue",
-    "TemplateVer": "0.2.7",
-    "galacticPubsVer": "0.6.6",
+    "Language": "English",
+    "Country": "United States",
+    "lang": "en",
+    "lng": "eng",
+    "locale": "en-US",
+    "TemplateVer": "0.3.3",
+    "galacticPubsVer": "0.8.0",
     "FirstPublicationDate": "2021-12-15 17:06:16",
-    "LastUpdated": "2022-03-15 18:24:06",
+    "LastUpdated": "2022-06-28 17:03:48",
+    "URL": "https://galacticpolymath.com/lessons/3",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/geneticRescue_sci.git",
     "PublicationStatus": "Live",
@@ -2542,9 +2548,10 @@
       "overview": {
         "__component": "lesson-plan.overview",
         "EstLessonTime": "5 x 45 min",
+        "GradesOrYears": "Grades",
         "ForGrades": "9-12",
         "TargetSubject": "Science",
-        "Text": "#### Driving Question(s):\nCan genetic rescue succeed in bringing a population back from the verge of extinction?\n#### Essential Question(s):\nHow do we use scientific methods to measure and develop solutions for our negative impacts on the world?\n#### Learning Objective(s):\n1. Provide examples of variation in genes, traits, and individual survival, and why each is important for a species to persist and evolve.\n2. Summarize how human activities fragment animal populations and how habitat fragmentation limits gene flow, reducing genetic variation.\n3. Predict how increasing genetic variation by introducing new individuals (i.e. by conducting genetic rescue) will impact population size.\n4. Create a logic model showing how genetic rescue occurs; i.e. how the introduction of new individuals to a small, inbred population on the verge of extinction provides needed genetic variation for the population to survive and recover.\n5. Demonstrate understanding of how reduction in both population size and genetic variation in endangered species lead to the \"extinction vortex\"\u2014the increasing likelihood of small populations to blink out due to low population size and recessive genetics from inbreeding.\n6. Propose a model organism to use for research on species that are endangered or infeasible to study.\n7. Interpret scatter plot data from a model organism (Trinidadian guppies) and compare to related data in an endangered species (Florida panthers) to draw broader conclusions about the effectiveness of genetic rescue.\n8. Assess the potential risks and benefits of genetic rescue for a particular species, and propose a course of action.\n#### Hook:\n- Students are drawn into rigorous activities on genetics, ecology, and human-wildlife interactions through the narrative of real, ongoing conservation challenges of this charismatic big cat.",
+        "Text": "#### Driving Question(s):\nCan genetic rescue succeed in bringing a population back from the verge of extinction?\n#### Essential Question(s):\nHow do we use scientific methods to measure and develop solutions for our negative impacts on the world?\n#### Hook:\n- Students are drawn into rigorous activities on genetics, ecology, and human-wildlife interactions through the narrative of real, ongoing conservation challenges of this charismatic big cat.",
         "Tags": [
           {
             "Value": "genetic rescue"
@@ -2574,6 +2581,7 @@
             "Value": "extinction"
           }
         ],
+        "LearningObj": "1. Provide examples of variation in genes, traits, and individual survival, and why each is important for a species to persist and evolve.\n2. Summarize how human activities fragment animal populations and how habitat fragmentation limits gene flow, reducing genetic variation.\n3. Predict how increasing genetic variation by introducing new individuals (i.e. by conducting genetic rescue) will impact population size.\n4. Create a logic model showing how genetic rescue occurs; i.e. how the introduction of new individuals to a small, inbred population on the verge of extinction provides needed genetic variation for the population to survive and recover.\n5. Demonstrate understanding of how reduction in both population size and genetic variation in endangered species lead to the \"extinction vortex\"\u2014the increasing likelihood of small populations to blink out due to low population size and recessive genetics from inbreeding.\n6. Propose a model organism to use for research on species that are endangered or infeasible to study.\n7. Interpret scatter plot data from a model organism (Trinidadian guppies) and compare to related data in an endangered species (Florida panthers) to draw broader conclusions about the effectiveness of genetic rescue.\n8. Assess the potential risks and benefits of genetic rescue for a particular species, and propose a course of action.",
         "SteamEpaulette": {
           "url": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/GP-Learning-Epaulette.png"
         },
@@ -2741,7 +2749,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 1 Student Worksheet",
+                        "itemTitle": "Part 1 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2755,7 +2763,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 1 Teacher Worksheet",
+                        "itemTitle": "Part 3 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2818,7 +2826,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 2 Panther Genotype Cards for Hands On Simulation of Genetics of Inbreeding in Panthers",
+                        "itemTitle": "Part 5 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2853,7 +2861,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 3 Student Worksheet",
+                        "itemTitle": "Part 5 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2867,7 +2875,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 3 Teacher Worksheet",
+                        "itemTitle": "Part 1 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2902,7 +2910,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 4 Student Worksheet",
+                        "itemTitle": "Part 2 Panther Genotype Cards for Hands On Simulation of Genetics of Inbreeding in Panthers",
                         "itemCat": null,
                         "links": [
                           {
@@ -2916,7 +2924,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 4 Teacher Worksheet",
+                        "itemTitle": "Part 3 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2951,7 +2959,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 5 Student Worksheet",
+                        "itemTitle": "Part 4 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2965,7 +2973,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 5 Teacher Worksheet",
+                        "itemTitle": "Part 4 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -3025,7 +3033,7 @@
                       "StepTitle": "Scientific vs. Common Names",
                       "StepQuickDescription": "Brief intro to Genus and species and why scientific names avoid confusion around common names.",
                       "StepDetails": "What we call a \"panther\" actually means a lot of different,  very distinct types of cat. ",
-                      "Vocab": "- **scientific name:** the *Genus* + *species* of an organism\n- **common name:** a local name for an organism\n- **panther:** can refer to 1) a dark variety of a jaguar or leopard  or 2) the Florida subspecies of the Puma or mountain lion",
+                      "Vocab": "- **scientific name:**  the *Genus* + *species* of an organism\n- **common name:**   a local name for an organism\n- **panther:**  can refer to 1) a dark variety of a jaguar or leopard  or 2) the Florida subspecies of the Puma or mountain lion",
                       "VariantNotes": null,
                       "TeachingTips": null
                     },
@@ -3049,7 +3057,7 @@
                       "Step": 4,
                       "StepTitle": "Watch Video 1",
                       "StepQuickDescription": "How do people feel about the Florida Panther?",
-                      "StepDetails": "[\u25b6\"The Return of The Florida Panther\"](https://www.youtube.com/watch?v=Xr1SstxYW8w) explores the plight of the panther through the lens of different stakeholders (e.g. urbanites, ranchers, and Native Americans).",
+                      "StepDetails": "[\u25b6'The Return of The Florida Panther'](https://www.youtube.com/watch?v=Xr1SstxYW8w) explores the plight of the panther through the lens of different stakeholders (e.g. urbanites, ranchers, and Native Americans).",
                       "Vocab": null,
                       "VariantNotes": null,
                       "TeachingTips": null
@@ -3207,7 +3215,7 @@
                     {
                       "Step": 1,
                       "StepTitle": "Watch Video",
-                      "StepQuickDescription": "Students watch [\u25b6\"Are endangered species worth saving?\"](https://www.youtube.com/watch?v=h5eTqjzQZDY) to get them thinking about what is at stake.",
+                      "StepQuickDescription": "Students watch [\u25b6'Are endangered species worth saving?'](https://www.youtube.com/watch?v=h5eTqjzQZDY) to get them thinking about what is at stake.",
                       "StepDetails": null,
                       "Vocab": null,
                       "VariantNotes": null,
@@ -3299,7 +3307,7 @@
                     {
                       "Step": 1,
                       "StepTitle": "Overview",
-                      "StepQuickDescription": "Students watch part of [\u25b6\"What is genetic rescue, and can we use it to save endangered species?\"](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) to review and go deeper into what genetic rescue is and why it is so important for a population to have genetic variation. ",
+                      "StepQuickDescription": "Students watch part of [\u25b6'What is genetic rescue, and can we use it to save endangered species?'](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) to review and go deeper into what genetic rescue is and why it is so important for a population to have genetic variation. ",
                       "StepDetails": null,
                       "Vocab": "- **habitat fragmentation:** the process of breaking a habitat up into disconnected pieces",
                       "VariantNotes": null,
@@ -3315,7 +3323,7 @@
                     {
                       "Step": 2,
                       "StepTitle": "The Extinction Vortex",
-                      "StepQuickDescription": "Students continue watching [\u25b6\"What is genetic rescue, and can we use it to save endangered species?\"](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) to learn more about what an extinction vortex is and how populations can be saved from this circumstance.",
+                      "StepQuickDescription": "Students continue watching [\u25b6'What is genetic rescue, and can we use it to save endangered species?'](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) to learn more about what an extinction vortex is and how populations can be saved from this circumstance.",
                       "StepDetails": "They are then asked to fill out a concept map to demonstrate understanding of the Extinction Vortex. The slides then walk through a discussion of the logic behind the correct concept map.",
                       "Vocab": "- **extinction:** the dying out of a species due to environmental or evolutionary changes\n- **concept map:** a diagram that shows how different inputs or parts of a system affect each other",
                       "VariantNotes": null,
@@ -3373,7 +3381,7 @@
                     {
                       "Step": 1,
                       "StepTitle": "Genetic Rescue in Action",
-                      "StepQuickDescription": "Students review the end of [\u25b6\"What is genetic rescue, and can we use it to save endangered species?\"](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) and go over the previous day's worksheet.",
+                      "StepQuickDescription": "Students review the end of [\u25b6'What is genetic rescue, and can we use it to save endangered species?'](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) and go over the previous day's worksheet.",
                       "StepDetails": "Tortoises are the only bad option listed, as they have a slow generation time and are not common. The other species are all actual models for genetic rescue research.",
                       "Vocab": null,
                       "VariantNotes": null,
@@ -3389,7 +3397,7 @@
                     {
                       "Step": 2,
                       "StepTitle": "Hear it from a Scientist!",
-                      "StepQuickDescription": "Dr. Fitzpatrick, whose research forms the basis of this lesson, discusses how she has studied genetic rescue using Trinidadian Guppies (fish) in [\u25b6\"Saving a species through genetic rescue: Why we need model organisms\"](https://www.youtube.com/watch?v=AiXyHxv4Sx4&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=3).",
+                      "StepQuickDescription": "Dr. Fitzpatrick, whose research forms the basis of this lesson, discusses how she has studied genetic rescue using Trinidadian Guppies (fish) in [\u25b6'Saving a species through genetic rescue: Why we need model organisms'](https://www.youtube.com/watch?v=AiXyHxv4Sx4&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=3).",
                       "StepDetails": null,
                       "Vocab": null,
                       "VariantNotes": null,
@@ -3464,7 +3472,7 @@
       "background": {
         "__component": "lesson-plan.collapsible-text-section",
         "SectionTitle": "Background",
-        "Content": "#### Connection to Research\n How do we save endangered species? This lesson deals with one option called *genetic rescue*\u2014a conservation strategy that involves moving individuals from one population into an endangered population that is highly inbred in order to add genetic variation to enable population recovery. Students learn about two distinct lines of research: one measuring the success of an attempt to save endangered Florida panthers; the other using wild Trinidadian guppies as a model of endangered species in order to better understand details of how genetic rescue can succeed or fail. \n#### Research Background\n Watch this video for a lot of panther background: [\u25b6\"What is genetic rescue, and can we use it to save endangered species?\"](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2)  \n\nThe Florida panther is a unique subspecies (*Puma concolor coryi*) of the American puma (*Puma concolor*). It's not to be confused with black panthers, which are the dark (melanistic) forms of leopards or jaguars. The Florida panther was nearly driven to extinction by habitat loss, fragmentation, and targeted hunting. In the mid-1990s, there remained only a tiny ~20 individual population of panthers in south Florida, and they were highly inbred. They had a lot of recessive genetic abnormalities, including visible, superficial traits like: kinked tails and cowlicks in their fur, to more significant problems like: cryptorchidism (undescended testicles, causing infertility in males) and heart defects. Wildlife managers decided to relocate 8 female pumas from Texas (*Puma concolor couguar*) into Florida to introduce needed genetic variation.  \n\nStudents will get to analyze 20 years worth of monitoring data to assess whether genetic rescue was successful (it was! There are now over 200 Florida panthers). At the same time, students will compare these results to a paired data set in Trinidadian guppies to understand how model organisms can be used to answer scientific questions that are difficult to answer in an endangered or difficult-to-study species.\n\n#### Related Florida Panther Paper:\n![screenshot of panther study paper](https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/VanDeKerk_paper_screenshot.png)\n[Link to study](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wmon.1041)\n\n\nThis video connects genetic rescue research on Florida panthers to the Trinidadian guppy model species: [\u25b6\"Saving a species through genetic rescue: Why we need model organisms\"](https://www.youtube.com/watch?v=AiXyHxv4Sx4&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=3)\nTo study many details of genetic rescue in a model system where we don't have to worry about inadvertently driving a species extinct, Dr. Sarah Fitzpatrick and colleagues went to Trinidad. They took advantage of previous experiments that had moved guppies from a downstream population that had lots of genetic variation into upstream pools with only a few, highly inbred fish. \n\nThis genetic rescue experiment was indeed successful, and after only a few months, genetic variation increased and the population rebounded from around 20 individuals to over 1,000.\n\n\n#### Related Guppy Paper:\n![screenshot of Scientific Study](https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/fitzpatrick_paper_screenshot.png)\n[Link to study](https://onlinelibrary.wiley.com/doi/10.1111/eva.12356)\n\n#### Further Reading\n- [USFWS Florida Panther Profile](https://www.fws.gov/refuge/florida_panther/wah/panther.html)\n- [Nat Geo: Planned roads could imperil Florida's panthers\u2014and last remaining wilderness](https://www.nationalgeographic.com/animals/article/florida-toll-road-threatens-wildlife-panthers?loggedin=true)\n- [The Florida Panther: Past, Present and Future](https://edis.ifas.ufl.edu/publication/UW402)\n- [America\u2019s cat is on the comeback](https://www.americanscientist.org/article/americas-cat-is-on-the-comeback)\n- [Of kings and Alpine Ibex: the amazing resurrection of a species from near-extinction](https://natureecoevocommunity.nature.com/posts/59792-of-kings-and-alpine-ibex-the-amazing-resurrection-of-a-species-from-near-extinction)\n",
+        "Content": "#### Connection to Research\n How do we save endangered species? This lesson deals with one option called *genetic rescue*\u2014a conservation strategy that involves moving individuals from one population into an endangered population that is highly inbred in order to add genetic variation to enable population recovery. Students learn about two distinct lines of research: one measuring the success of an attempt to save endangered Florida panthers; the other using wild Trinidadian guppies as a model of endangered species in order to better understand details of how genetic rescue can succeed or fail. \n#### Research Background\n Watch this video for a lot of panther background: [\u25b6'What is genetic rescue, and can we use it to save endangered species?'](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2)  \n\nThe Florida panther is a unique subspecies (*Puma concolor coryi*) of the American puma (*Puma concolor*). It's not to be confused with black panthers, which are the dark (melanistic) forms of leopards or jaguars. The Florida panther was nearly driven to extinction by habitat loss, fragmentation, and targeted hunting. In the mid-1990s, there remained only a tiny ~20 individual population of panthers in south Florida, and they were highly inbred. They had a lot of recessive genetic abnormalities, including visible, superficial traits like: kinked tails and cowlicks in their fur, to more significant problems like: cryptorchidism (undescended testicles, causing infertility in males) and heart defects. Wildlife managers decided to relocate 8 female pumas from Texas (*Puma concolor couguar*) into Florida to introduce needed genetic variation.  \n\nStudents will get to analyze 20 years worth of monitoring data to assess whether genetic rescue was successful (it was! There are now over 200 Florida panthers). At the same time, students will compare these results to a paired data set in Trinidadian guppies to understand how model organisms can be used to answer scientific questions that are difficult to answer in an endangered or difficult-to-study species.\n\n#### Related Florida Panther Paper:\n![screenshot of panther study paper](VanDeKerk_paper_screenshot.png)\n[Link to study](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wmon.1041)\n\n\nThis video connects genetic rescue research on Florida panthers to the Trinidadian guppy model species: [\u25b6'Saving a species through genetic rescue: Why we need model organisms'](https://www.youtube.com/watch?v=AiXyHxv4Sx4&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=3)\n\nTo study many details of genetic rescue in a model system where we don't have to worry about inadvertently driving a species extinct, Dr. Sarah Fitzpatrick and colleagues went to Trinidad. They took advantage of previous experiments that had moved guppies from a downstream population that had lots of genetic variation into upstream pools with only a few, highly inbred fish. \n\nThis genetic rescue experiment was indeed successful, and after only a few months, genetic variation increased and the population rebounded from around 20 individuals to over 1,000.\n\n\n#### Related Guppy Paper:\n![screenshot of Scientific Study](fitzpatrick_paper_screenshot.png)\n[Link to study](https://onlinelibrary.wiley.com/doi/10.1111/eva.12356)\n\n#### Further Reading\n- [USFWS Florida Panther Profile](https://www.fws.gov/refuge/florida_panther/wah/panther.html)\n- [Nat Geo: Planned roads could imperil Florida's panthers\u2014and last remaining wilderness](https://www.nationalgeographic.com/animals/article/florida-toll-road-threatens-wildlife-panthers?loggedin=true)\n- [The Florida Panther: Past, Present and Future](https://edis.ifas.ufl.edu/publication/UW402)\n- [America\u2019s cat is on the comeback](https://www.americanscientist.org/article/americas-cat-is-on-the-comeback)\n- [Of kings and Alpine Ibex: the amazing resurrection of a species from near-extinction](https://natureecoevocommunity.nature.com/posts/59792-of-kings-and-alpine-ibex-the-amazing-resurrection-of-a-species-from-near-extinction)\n",
         "InitiallyExpanded": true
       },
       "standards-header": {
@@ -3897,15 +3905,15 @@
     "lang": "en",
     "lng": "eng",
     "locale": "en-US",
-    "TemplateVer": "0.3.1",
-    "galacticPubsVer": "0.7.4",
+    "TemplateVer": "0.3.3",
+    "galacticPubsVer": "0.8.0",
     "FirstPublicationDate": "2022-04-01 15:16:29",
-    "LastUpdated": "2022-06-15 20:03:36",
+    "LastUpdated": "2022-06-28 17:04:00",
     "URL": "https://galacticpolymath.com/lessons/2",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/guardianFrogs_sci.git",
     "PublicationStatus": "Live",
-    "RebuildAllMaterials": true,
+    "RebuildAllMaterials": false,
     "ReleaseDate": "2022-04-22",
     "Title": "The Guardian Frogs of Borneo",
     "Subtitle": "Why Exceptions Matter in Biology and Everyday Life",
@@ -3921,9 +3929,10 @@
       "overview": {
         "__component": "lesson-plan.overview",
         "EstLessonTime": "150 min. (~3 classes)",
+        "GradesOrYears": "Grades",
         "ForGrades": "5-9",
         "TargetSubject": "Science",
-        "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are \u201ccompetitive,\u201d while females are \u201ccaring\u201d, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with \u201ccompetitive females\u201d and \u201ccaring males\u201d?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Learning Objective(s):\n1. Explain how animal behavior facilitates survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n4. Understand that there is always variability in scientific data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.\n\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist + use of authentic data \n",
+        "Text": "#### Driving Question(s):\n- Across animal species, is there truth to the stereotype that males are \u201ccompetitive,\u201d while females are \u201ccaring\u201d, or is this an oversimplification?\n- Are the smooth guardian frogs of Borneo the first known species of frog with \u201ccompetitive females\u201d and \u201ccaring males\u201d?\n#### Essential Question(s):\n- How can we use scientific methods to identify a general pattern?\n- Why do exceptions matter in science and in life?\n#### Hooks\n- Part 1: Highly interactive card-based activity that simulates data collection + amazing animal videos\n- Part 2: Atmospheric videos of Borneo, first person narrative of an early career Latina scientist + use of authentic data \n",
         "Tags": [
           {
             "Value": "sex differences"
@@ -3944,6 +3953,7 @@
             "Value": "sexual selection"
           }
         ],
+        "LearningObj": "1. Explain how animal behavior facilitates survival and reproduction.\n2. Collect, reorganize, and analyze data to identify a pattern (that males tend to have adaptations to compete for mates, while females provide more parental care), and interpret exceptions to that pattern.\n3. Learn to test hypotheses by interpreting authentic scientific graphs and data.\n4. Understand that there is always variability in scientific data.\n5. Cite evidence to support explanatory claims.\n6. Integrate multiple lines of evidence to explain why biological exceptions matter to science and society.\n",
         "SteamEpaulette": {
           "url": "https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/GP-Learning-Epaulette.png"
         },
@@ -4107,34 +4117,6 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet for Parts 1 & 2",
-                        "itemCat": null,
-                        "links": [
-                          {
-                            "linkText": "PDF",
-                            "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/export?format=pdf"
-                          },
-                          {
-                            "linkText": "Copy to My Google Drive",
-                            "url": "https://docs.google.com/document/d/19keieRWuq3pJS_zOyp9hTqrGTC7z-vJzge7FF3y-64o/"
-                          }
-                        ]
-                      },
-                      {
-                        "itemTitle": "Teacher Worksheet for Parts 1 & 2",
-                        "itemCat": null,
-                        "links": [
-                          {
-                            "linkText": "PDF",
-                            "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/export?format=pdf"
-                          },
-                          {
-                            "linkText": "Copy to My Google Drive",
-                            "url": "https://docs.google.com/document/d/1E8l-8u2hFaSfvsr4ebQk4BZyPxjzr8nz6z8-hKXHGYA/"
-                          }
-                        ]
-                      },
-                      {
                         "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
                         "itemCat": null,
                         "links": [
@@ -4176,7 +4158,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": null,
                         "itemCat": null,
                         "links": [
                           {
@@ -4190,7 +4172,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": null,
                         "itemCat": null,
                         "links": [
                           {
@@ -4462,7 +4444,7 @@
       "background": {
         "__component": "lesson-plan.collapsible-text-section",
         "SectionTitle": "Background",
-        "Content": "#### Connection to Research\n Instead of telling students that a pattern exists, we have them discover it for themselves. That is, rather than telling them, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this rule, and have \"caring males\" and \"competitive females.\" \n\nIn part 2, students follow in the footsteps of an early career Latina scientist, Dr. Johana Goyes Vallejos, testing the same hypotheses she did during her PhD research. Students analyze a real graph and table she collected on the island of Borneo to determine if the Smooth Guardian Frog (*Limnonectes palavanensis*) is the first sex-role-reversed frog species known to science. (It is!) \n#### Research Background\n Watch [\u25b6'Do Female Frogs Call?'](https://www.youtube.com/watch?v=eX5abcrmE7g&t=170s) to get a nice summary of Dr. Johana Goyes Vallejos\u2019 scientific journey.\n\nWhile pursuing a PhD in ecology and evolutionary biology at the University of Connecticut, Johana heard about a poorly studied frog called the Smooth Guardian Frog (*Limnonectes palavanensis*), found only on the island of Borneo in Southeast Asia. In a couple of scientific papers in the 1980s, a researcher had described a highly unusual behavior--the males guard eggs hidden under the leaf litter (thus, the common name of the species). When the eggs hatch, the male then carries the tadpoles (on his back!) to small pools of water where they can develop into adult frogs.\nJohana, who was deeply interested in parental care behavior decided to fly to the tiny sultanate of Brunei (ruled by a sultan, rather than a king) and learn about this frog herself. She established a study population, tracking individuals and recording audio of frog calls, often on her own at night, wading through thick mud and fording streams. During her observations, she noticed a tiny peep. It sounded very different from the male calls she had been used to hearing. After careful observation, she confirmed that indeed, these were female calls, which had never been described before by anyone. (See [\u25b6'Calling behavior of male and female Guardian Frogs'](https://www.youtube.com/watch?v=LAqSHDdTKMw))\n\nOut of 8,000+ known frog species, Johana had found one of only a couple that are known to have calling females. Previously, scientists had thought females might be physiologically incapable of producing calls. In contrast, when she started focusing on female calling behavior, she found that they were actually calling *more* than males! Students will recapitulate this finding by analyzing a figure showing male and female calling rates.\n\nAs [Borneo is now being heavily deforested](https://en.wikipedia.org/wiki/Deforestation_in_Borneo), populations of Guardian Frogs are declining. In the final assignment, students are asked to synthesize everything they\u2019ve learned to write a persuasive paragraph about why these exceptional frogs matter and what we stand to lose if they are lost. \n\n#### Researcher Bio\nDr. Johana Goyes Vallejos is a Preparing Future Faculty for Faculty Diversity Postdoctoral Fellow in the Division of Biological Sciences at the University of Missouri, Columbia. She graduated with a B.Sc. in Biology with a minor in Genetics from the Universidad del Valle in Cali, Colombia. She received her Ph.D. in Ecology and Evolutionary Biology from the\nUniversity of Connecticut, studying mating systems, parental care behavior, and acoustic\ncommunication in frogs. Her research has taken her to many tropical forests across the\nworld, including Panama, Costa Rica, Guyana, the Philippines, Malaysia and Brunei\nDarussalam. \n\nAt the University of Missouri, Dr. Goyes Vallejos continues her research on\nmating behavior and parental care strategies using frogs with elaborate parental behaviors\nas study systems. In addition, since 2018, she serves as a research mentor for an NSF-\nfunded Research Experience for Undergraduates program in Costa Rica, providing\nhands-on training in animal behavior and field research to undergraduate students\nbelonging to minoritized groups in STEM. She is passionate about sharing her research findings with scientific and non-scientific audiences through various media outlets. When not chasing frogs in remote forests around the world Dr. Goyes Vallejos enjoys salsa dancing, storytelling and crocheting amigurumis. \n\n[Learn more about Johana at her website](https://jogoyesvallejos.weebly.com/)\n\n#### Further Reading and Listening\n- [The Shape of The World Podcast: When the girl frog sings](https://shapeoftheworldshow.com/2019/05/04/episode-10-when-the-girl-frog-sings/) (May 2019)\n- [FrogLife.org| Female communication in anurans: duets, ultrasonic calls and sex-role reversal](http://www.froglife.org/2019/08/29/croaking-science-female-communication-in-anurans-duets-ultrasonic-calls-and-sex-role-reversal/) (August 2019)\n- [National Geographic Espa\u00f1a| Los padrazos del mundo de los anfibios](https://www.nationalgeographic.com.es/ciencia/grandes-reportajes/padrazos-mundo-anfibios_13763) (March 2019)\n- [The New York Times| \u200bDevoted Dads of the Amphibian World](https://www.nytimes.com/2018/12/04/science/frogs-parenting-reproduction.html) (December 2018)\n- [KU Today| Extraordinary 'faithful father' revealed by study of smooth guardian frog of Borneo](https://today.ku.edu/2018/12/13/research-smooth-guardian-frog-borneo-details-extraordinary-faithful-father) (December 2018)\n- [Science Magazine: These female frogs are the first of their kind to croon to their guys](http://www.sciencemag.org/news/2017/06/these-female-frogs-are-first-their-kind-croon-their-guys)\u200b (June 2017)\n- [Science & Vie| Chez la grenouille de Born\u00e9o, c'est madame qui chante](https://www.science-et-vie.com/nature-et-enviro/chez-la-grenouille-de-borneo-c-est-madame-qui-chante-8925) (June 2017)\n\n#### Related Scientific Paper\n![Screenshot of scientific journal article](https://catalog.galacticpolymath.com/lessons/guardianFrogs_sci/goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=Calling+behavior+of+males+and+females+of+a+Bornean+frog+with+male+parental+care+and+possible+sex-role+reversal&btnG=)\n",
+        "Content": "#### Connection to Research\n Instead of telling students that a pattern exists, we have them discover it for themselves. That is, rather than telling them, \"In animal species with *conventional sex roles,* males invest more in attracting and competing for mates, while females invest more in parental care,\" we have students collect data in a fun, interactive format and draw this conclusion from the data. They are then more invested in understanding cases of *sex role reversed species* that are the exceptions to this rule, and have \"caring males\" and \"competitive females.\" \n\nIn part 2, students follow in the footsteps of an early career Latina scientist, Dr. Johana Goyes Vallejos, testing the same hypotheses she did during her PhD research. Students analyze a real graph and table she collected on the island of Borneo to determine if the Smooth Guardian Frog (*Limnonectes palavanensis*) is the first sex-role-reversed frog species known to science. (It is!) \n#### Research Background\n Watch [\u25b6'Do Female Frogs Call?'](https://www.youtube.com/watch?v=eX5abcrmE7g&t=170s) to get a nice summary of Dr. Johana Goyes Vallejos\u2019 scientific journey.\n\nWhile pursuing a PhD in ecology and evolutionary biology at the University of Connecticut, Johana heard about a poorly studied frog called the Smooth Guardian Frog (*Limnonectes palavanensis*), found only on the island of Borneo in Southeast Asia. In a couple of scientific papers in the 1980s, a researcher had described a highly unusual behavior--the males guard eggs hidden under the leaf litter (thus, the common name of the species). When the eggs hatch, the male then carries the tadpoles (on his back!) to small pools of water where they can develop into adult frogs.\nJohana, who was deeply interested in parental care behavior decided to fly to the tiny sultanate of Brunei (ruled by a sultan, rather than a king) and learn about this frog herself. She established a study population, tracking individuals and recording audio of frog calls, often on her own at night, wading through thick mud and fording streams. During her observations, she noticed a tiny peep. It sounded very different from the male calls she had been used to hearing. After careful observation, she confirmed that indeed, these were female calls, which had never been described before by anyone. (See [\u25b6'Calling behavior of male and female Guardian Frogs'](https://www.youtube.com/watch?v=LAqSHDdTKMw))\n\nOut of 8,000+ known frog species, Johana had found one of only a couple that are known to have calling females. Previously, scientists had thought females might be physiologically incapable of producing calls. In contrast, when she started focusing on female calling behavior, she found that they were actually calling *more* than males! Students will recapitulate this finding by analyzing a figure showing male and female calling rates.\n\nAs [Borneo is now being heavily deforested](https://en.wikipedia.org/wiki/Deforestation_in_Borneo), populations of Guardian Frogs are declining. In the final assignment, students are asked to synthesize everything they\u2019ve learned to write a persuasive paragraph about why these exceptional frogs matter and what we stand to lose if they are lost. \n\n#### Researcher Bio\nDr. Johana Goyes Vallejos is a Preparing Future Faculty for Faculty Diversity Postdoctoral Fellow in the Division of Biological Sciences at the University of Missouri, Columbia. She graduated with a B.Sc. in Biology with a minor in Genetics from the Universidad del Valle in Cali, Colombia. She received her Ph.D. in Ecology and Evolutionary Biology from the\nUniversity of Connecticut, studying mating systems, parental care behavior, and acoustic\ncommunication in frogs. Her research has taken her to many tropical forests across the\nworld, including Panama, Costa Rica, Guyana, the Philippines, Malaysia and Brunei\nDarussalam. \n\nAt the University of Missouri, Dr. Goyes Vallejos continues her research on\nmating behavior and parental care strategies using frogs with elaborate parental behaviors\nas study systems. In addition, since 2018, she serves as a research mentor for an NSF-\nfunded Research Experience for Undergraduates program in Costa Rica, providing\nhands-on training in animal behavior and field research to undergraduate students\nbelonging to minoritized groups in STEM. She is passionate about sharing her research findings with scientific and non-scientific audiences through various media outlets. When not chasing frogs in remote forests around the world Dr. Goyes Vallejos enjoys salsa dancing, storytelling and crocheting amigurumis. \n\n[Learn more about Johana at her website](https://jogoyesvallejos.weebly.com/)\n\n#### Further Reading and Listening\n- [The Shape of The World Podcast: When the girl frog sings](https://shapeoftheworldshow.com/2019/05/04/episode-10-when-the-girl-frog-sings/) (May 2019)\n- [FrogLife.org| Female communication in anurans: duets, ultrasonic calls and sex-role reversal](http://www.froglife.org/2019/08/29/croaking-science-female-communication-in-anurans-duets-ultrasonic-calls-and-sex-role-reversal/) (August 2019)\n- [National Geographic Espa\u00f1a| Los padrazos del mundo de los anfibios](https://www.nationalgeographic.com.es/ciencia/grandes-reportajes/padrazos-mundo-anfibios_13763) (March 2019)\n- [The New York Times| \u200bDevoted Dads of the Amphibian World](https://www.nytimes.com/2018/12/04/science/frogs-parenting-reproduction.html) (December 2018)\n- [KU Today| Extraordinary 'faithful father' revealed by study of smooth guardian frog of Borneo](https://today.ku.edu/2018/12/13/research-smooth-guardian-frog-borneo-details-extraordinary-faithful-father) (December 2018)\n- [Science Magazine: These female frogs are the first of their kind to croon to their guys](http://www.sciencemag.org/news/2017/06/these-female-frogs-are-first-their-kind-croon-their-guys)\u200b (June 2017)\n- [Science & Vie| Chez la grenouille de Born\u00e9o, c'est madame qui chante](https://www.science-et-vie.com/nature-et-enviro/chez-la-grenouille-de-borneo-c-est-madame-qui-chante-8925) (June 2017)\n\n#### Related Scientific Paper\n![Screenshot of scientific journal article](goyespaper.png)\n[Link to study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C43&q=Calling+behavior+of+males+and+females+of+a+Bornean+frog+with+male+parental+care+and+possible+sex-role+reversal&btnG=)\n",
         "InitiallyExpanded": true
       },
       "standards-header": {
