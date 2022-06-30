@@ -10,7 +10,7 @@
     "TemplateVer": "0.3.3",
     "galacticPubsVer": "0.8.1",
     "FirstPublicationDate": "2022-06-26 20:30:21",
-    "LastUpdated": "2022-06-29 21:03:06",
+    "LastUpdated": "2022-06-30 11:50:01",
     "URL": "https://galacticpolymath.com/lessons/4",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
@@ -59,11 +59,12 @@
         "SteamEpaulette_vert": {
           "url": null
         },
-        "Description": "Students will gain a deep appreciation for the technology behind the colours we use to express ourselves in our everyday dress. This lesson offers a brief, but deep dive into chemical engineering through the lens of dye technology. There are 3 parts, which can typically be taught in three 45-minute class periods. \n\nPart 1 is a \u201cstudent expert\u201d or \u201cjigsaw\u201d activity, where student groups number off into 3 subgroups. Each subgroup will read an article about a dye technology, fill out a concept map to understand the chemical process described, and teach this process to their group mates. The three technologies students will learn about are: Tyrian Purple (a 4,000 year old dye created from sea snails); T\u0101nekaha Red (a traditional M\u0101ori dye derived from tree bark); and mauveine (the first synthetic dye, created from fossil fuels, and invented by a teenager in the 19th Century).\n\nPart 2 builds on student understanding of these three dye technologies by challenging them to work together in groups to solve an engineering puzzle. They are given a set of 18 cards and asked to organise them into three correctly ordered sequences of steps. Each step also has an associated cost, and students will add up the costs, calculate a starting price, and begin to reflect on the pros and cons of each technology. \n\nPart 3 puts students in the position of a chemical engineer who has to choose one of these technologies, taking into account a wide variety of factors. The presentation walks students through the interpretation of a graph showing how price scales with how many dyed items are being produced. They will develop data literacy, critical thinking, and communication skills as they interpret and discuss the various tradeoffs of each technology in terms of price, sustainability, cultural significance, and the ability to serve the demands of everyone. Ultimately, this lesson aims to broaden students\u2019 conception of what technology is and to better understand the value of engineering, whether or not they decide to pursue it as a career.\n"
+        "Description": "Students will gain a deep appreciation for the technology behind the colours we use to express ourselves in our everyday dress. This lesson offers a brief, but deep dive into chemical engineering through the lens of dye technology. There are 3 parts, each expected to take about one 45-minute class period. \n\nPart 1 is a \u201cstudent expert\u201d or [\u201cjigsaw\u201d activity](https://en.wikipedia.org/wiki/Jigsaw_(teaching_technique)), where student groups number off into 3 subgroups. Each subgroup will read an article about a dye technology, fill out a concept map to understand the chemical process described, and teach this process to their group mates. The three technologies students will learn about are: Tyrian Purple (a 4,000 year old dye created from sea snails); T\u0101nekaha Red (a traditional M\u0101ori dye derived from tree bark); and mauveine (the first synthetic dye\u2014created from fossil fuels\u2014and invented by a teenager in the 19th Century).\n\nPart 2 builds on student understanding of these three dye technologies by challenging them to work together in groups to solve an engineering puzzle. They are given a set of 18 cards representing steps in a dyeing process. Students will figure out the correct sequence for all three dye technologies. Each step also has an associated cost, and students will add up the costs, calculate a starting price, and begin to reflect on the pros and cons of each technology. \n\nPart 3 puts students in the position of a chemical engineer who has to choose one of these technologies, taking into account a wide variety of factors. The presentation walks students through the interpretation of a graph showing how price scales with how many dyed items are being produced. They will develop data literacy, critical thinking, and communication skills as they interpret and discuss the various tradeoffs of each technology in terms of price, sustainability, cultural significance, and the ability to serve the demands of everyone. Ultimately, this lesson aims to broaden students\u2019 conception of what technology is and to better understand the value of engineering, whether or not they decide to pursue it as a career.\n"
       },
       "preview": {
         "__component": "lesson-plan.lesson-preview",
         "SectionTitle": "Lesson Preview",
+        "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials </AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure </AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! </AnchorLink>",
         "Multimedia": [
           {
             "order": 1,
@@ -108,7 +109,6 @@
             "otherLink": null
           }
         ],
-        "QuickPrep": "1. Check out lesson multimedia above\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials </AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure </AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! </AnchorLink>\n",
         "InitiallyExpanded": true
       },
       "teaching-materials": {
@@ -206,7 +206,7 @@
                         ]
                       },
                       {
-                        "itemTitle": null,
+                        "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
                         "itemCat": null,
                         "links": [
                           {
@@ -220,7 +220,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Dye Technology Readings",
                         "itemCat": null,
                         "links": [
                           {
@@ -234,7 +234,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Dye Technology Readings",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -283,7 +283,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -297,7 +297,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "\"Cost Cards\" Chemical Engineering Puzzle Activity",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -332,7 +332,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": null,
                         "itemCat": null,
                         "links": [
                           {
@@ -346,7 +346,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -388,7 +388,7 @@
                       "Step": 1,
                       "StepTitle": "Clothing Colour Audit",
                       "StepQuickDescription": "Start by figuring out how many dye colours we brought with us today. Using a worksheet, students calculate their \"dye-versity index\".",
-                      "StepDetails": "Using a worksheet, students calculate their \"dye-versity index\". This number represents the total number of colours a student has on them, and therefore the number of dye processes that had to be invented. ",
+                      "StepDetails": "The \"dye-versity index\" represents the total number of colours a student has on them, and therefore the number of dye processes that had to be invented. ",
                       "Vocab": null,
                       "VariantNotes": null,
                       "TeachingTips": null
@@ -396,7 +396,7 @@
                     {
                       "Step": 2,
                       "StepTitle": "Share Out",
-                      "StepQuickDescription": "Students share their \"dye-versity index\" and reflect on whether colour helps express their personality or mood. They will also begin to think about natural vs dyed colours.",
+                      "StepQuickDescription": "Students share their \"dye-versity index\" and reflect on whether colour helps express their personality or mood.",
                       "StepDetails": null,
                       "Vocab": null,
                       "VariantNotes": null,
@@ -527,7 +527,7 @@
                     {
                       "Step": 4,
                       "StepTitle": "Activity instructions",
-                      "StepQuickDescription": "To help students think about initial costs of each dye technology, they are given a set of Cost Cards [\u279a'Dye Technology \"Cost Card\" Puzzle Activity'](https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/edit#slide=id.p) with the steps of each process. ",
+                      "StepQuickDescription": "[\u279a'Dye Technology \"Cost Card\" Puzzle Activity'](https://docs.google.com/presentation/d/12JrjYbvNHOcNcGZGZ-idt4KLE3j8nW8qdNXzc8px9pI/edit#slide=id.p)  \nTo help students think about initial costs of each dye technology, they are given a set of Cost Cards with the steps of each process. ",
                       "StepDetails": "Each group of students will receive a set of 18 Cost Cards that contain the steps in each of the three dyeing technologies (six steps per process). The presentation will break the activity into substages and guide the students through an analysis of the processes.\nBy referring to the concept maps from yesterday's lesson, students sort the process cards into the correct order and record the sequences on their worksheets. \nOnce the cards have been sorted into the correct order, students add up the prices of each step listed on the Cost Cards to find the Total Cost of the process. The Total Cost is then multiplied by 1.2 (to include a 20% profit) to find the Starting Price of the respective dye technology. \nThroughout the worksheet students are prompted to reflect on the major expenses of the process and predict how the price per item might change as the *scale* of production increases.",
                       "Vocab": null,
                       "VariantNotes": null,
@@ -592,7 +592,7 @@
                     {
                       "Step": 2,
                       "StepTitle": "Introducing Price Curves",
-                      "StepQuickDescription": "The presentation guides the introduction of producing items at various scales and discusses how the price per unit changes accordingly.",
+                      "StepQuickDescription": "The presentation introduces the idea of producing items at various scales and discusses how the price per unit changes accordingly.",
                       "StepDetails": "Students use their worksheets to follow the discussion of Price Curves and answer questions throughout the presentation. ",
                       "Vocab": null,
                       "VariantNotes": null,
@@ -610,8 +610,8 @@
                     {
                       "Step": 4,
                       "StepTitle": "Watch Video",
-                      "StepQuickDescription": "Watch True Blues: Textiles Water Pollution Problem [\u25b6'True Blues: Textiles Water Pollution Problem'](https://www.youtube.com/watch?v=Bk2APxqIhbk&t=1s) to learn about some of the environmental impacts of synthetic dyes made from fossil fuels.",
-                      "StepDetails": "Throughout the presentation, synthetic dyes produced from fossil fuels become an increasingly attractive dye technology. Despite their range of colours and low costs, dyes produced from fossil fuels also cause a lot of problems. In this video students learn about the many sustainability issues tied to the dye and fashion industries (particularly with fossil-fuel-derived synthetic dyes). This prepares students to reflect on and analyse the consequences of dye technologies as they perform a cost-benefit analysis of the available dye technologies to make a recommendation for *Galactic Tees*.",
+                      "StepQuickDescription": "[\u25b6'True Blues: Textiles Water Pollution Problem'](https://www.youtube.com/watch?v=Bk2APxqIhbk&t=1s) Learn about some of the environmental impacts of synthetic dyes made from fossil fuels.",
+                      "StepDetails": "Throughout the presentation, synthetic dyes produced from fossil fuels are shown to be a competitive and attractive dye technology. Despite their range of colours and low costs, dyes produced from fossil fuels also cause a lot of problems. In this video students learn about the many sustainability issues tied to the dye and fashion industries (particularly with fossil-fuel-derived synthetic dyes). This prepares students to reflect on and analyse the consequences of dye technologies as they perform a cost-benefit analysis of the available dye technologies to make a recommendation for *Galactic Tees*.",
                       "Vocab": null,
                       "VariantNotes": null,
                       "TeachingTips": null
@@ -737,9 +737,9 @@
     "lng": "eng",
     "locale": "en-US",
     "TemplateVer": "0.3.3",
-    "galacticPubsVer": "0.8.0",
+    "galacticPubsVer": "0.8.1",
     "FirstPublicationDate": "2021-12-16 16:03:12",
-    "LastUpdated": "2022-06-29 15:32:45",
+    "LastUpdated": "2022-06-30 11:49:57",
     "URL": "https://galacticpolymath.com/lessons/1",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/lesson_femalesSing_math.git",
@@ -808,6 +808,7 @@
       "preview": {
         "__component": "lesson-plan.lesson-preview",
         "SectionTitle": "Lesson Preview",
+        "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials </AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure </AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! </AnchorLink>",
         "Multimedia": [
           {
             "order": 1,
@@ -922,7 +923,6 @@
             "otherLink": null
           }
         ],
-        "QuickPrep": "1. Watch Video(s) for Part 1\n2. Look over <AnchorLink href=\"#background\"> Background </AnchorLink>\n3. Look over <AnchorLink href=\"#procedure\"> Procedure </AnchorLink>\n4. <AnchorLink href=\"#teaching_materials\"> Teach it! </AnchorLink>\n5. Repeat for each part and <AnchorLink href=\"#feedback\"> tell us what you think. </AnchorLink>\n",
         "InitiallyExpanded": true
       },
       "teaching-materials": {
@@ -1025,7 +1025,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1039,7 +1039,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1123,7 +1123,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1137,7 +1137,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1196,7 +1196,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1210,7 +1210,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1245,7 +1245,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1259,7 +1259,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1294,7 +1294,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1308,7 +1308,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1381,7 +1381,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Student Worksheet",
+                        "itemTitle": "Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -1416,7 +1416,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Teacher Worksheet",
+                        "itemTitle": "Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2286,299 +2286,10 @@
         "Content": "#### Connection to Research\n This lesson allows students to explore the actual data from [the study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf) and to hear from the study\u2019s lead author to deepen data literacy and understanding of the scientific method. Students explore one of the primary figures in the study, a scatter plot (graph) showing different patterns of male and female singing output over the breeding season. Importantly, males sang much more than females and for a longer time (May-Aug, rather than just May). Thus, because males sing more frequently, if we assume (as has been common for birders and scientists until recently) that only males sing, your assumptions are reinforced more easily, because you are less likely to see a female sing.\n\nDuring the peer review process, an anonymous scientist suggested that the scatter plot was not a good way to represent the data, instead suggesting that the authors should have displayed a histogram. In Parts 2 and 3 of the lesson, students aggregate (combine) the authentic study data in order to create a histogram. They must then interpret the data in both formats (deepening their understanding of how histograms and scatter plots relate to each other), and conclude which is a better way to demonstrate the study\u2019s findings, explaining why.\n\nFor further reflection, students are then asked to synthesize what they have learned, along with new information presented to them. Why has female song been missed? Partially because of a pre-existing assumption that females don't sing, along with less common singing behavior in females. Why do females sing less? Because natural selection favors females who sing less. Females must sit on eggs for around 2 weeks, leaving them open to predation. If they were to sing as loudly and provocatively as males, they would attract predators which would eat them or their eggs, passing on no genes. Thus, natural selection has likely caused female song to be lost, simplified, or to be produced for short time periods during establishment of the breeding season in many species around the world. \n#### Research Background\n ![studyThumbnail.png](https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/study-paper.png)\n[Link to the scientific study](https://www.unco.edu/nhs/biology/about-us/benedict-lauryn/documents/publications/Wilkins_et_al_2020.pdf)\n\nThis lesson is based on a recent study that describes female song in barn swallows for the first time. Barn swallows are one of the most common birds in the world and have been the subject of more than 1000 studies, yet published birding field guides and scientific papers have all failed to describe female song or they describe it incorrectly as being the same as male song (females have their own song type). This is an important oversight, because research on male bird song has informed a lot of theory in biology about how populations evolve through mate choice and competition involving vocal communication, and how new species form. \n\nIgnoring the sounds females make may result from inherent biases. Since bird song became an area of scientific study in the 1800s, it was almost exclusively researched by white males in the Northern Hemisphere. Since women have become welcomed into all areas of science, and research institutions have focused more intent study in tropical regions of the world, studies have discovered that female song is the ancestral state (i.e. the ancestor of all living song birds had both singing males and females). Moreover, female song has not been entirely lost in most species. As in the barn swallow, natural selection has favored females that sing less often, and to have more concise songs that are often restricted to the pre-egg-laying part of the breeding season. This drop in female singing after egg-laying is thought to stem from trying not to draw predators to nests. Due to lack of study, the full function of song in competition among females, male mate choice, or other functions is not well understood in most species.\n\nFurther Reading: \n- [Why We Didn't Know That Female Birds Sing](https://www.scientificamerican.com/article/why-it-took-so-long-to-appreciate-female-birds-songs/): Two authors of the study this lesson is based on discuss its broader implications for society and K-12 education.\n- [Female birds sing. These biologists want you to listen.](https://www.washingtonpost.com/news/speaking-of-science/wp/2018/03/14/female-birds-sing-these-biologists-want-you-to-listen/) (features Drs. Karan Odom and Lauryn Benedict who worked on the study this lesson is based on).\n    - If you're getting paywalled, try clearing your cache or opening the article in an incognito window.\n- [Female bird song ignored by science, researchers say](https://www.australiangeographic.com.au/topics/science-environment/2019/04/female-bird-song-ignored-by-science-researchers-say/) (features Dr. Karan Odom and Dr. Naomi Langmore, who was influential in shifting scientists' thinking about female song)\n- [Study reveals gender bias in bird song research and impact of women on science](https://phys.org/news/2020-08-reveals-gender-bias-bird-song.html) (features Dr. Karan Odom)",
         "InitiallyExpanded": true
       },
-      "standards-header": {
-        "__component": "lesson-plan.section-heading",
-        "SectionTitle": "Learning Standards"
-      },
-      "learning-chart": {
-        "__component": "lesson-plan.learning-chart",
-        "Title": "About the GP Learning Chart",
-        "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Math, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 25 standards across US grade band(s): 5-6, 7-8, 9-12.",
-        "Footnote": "**Notes on Standards**\n\n*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
-        "Badge": {
-          "url": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/GP-Learning-Chart.png"
-        }
-      },
-      "standards": {
-        "__component": "lesson-plan.standards",
-        "Data": [
-          {
-            "subject": "Math",
-            "target": true,
-            "sets": [
-              {
-                "slug": "CCM",
-                "name": "Common Core Math",
-                "dimensions": [
-                  {
-                    "slug": "MDP&S",
-                    "name": "Measurement, Data, Probability & Statistics",
-                    "standardsGroup": [
-                      {
-                        "codes": "6.SP.A.2",
-                        "grades": "06",
-                        "statements": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
-                        "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "8.SP.A.1",
-                        "grades": "08",
-                        "statements": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
-                        "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "HSS-ID.B.6",
-                        "grades": "9,10,11,12",
-                        "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
-                        "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "HSS-ID.A.1",
-                        "grades": "9,10,11,12",
-                        "statements": "Represent data with plots on the real number line (dot plots, histograms, and box plots).",
-                        "alignmentNotes": "- Students create a histogram using raw data from a published research study",
-                        "subcat": null
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Math",
-            "target": false,
-            "sets": [
-              {
-                "slug": "CCM",
-                "name": "Common Core Math",
-                "dimensions": [
-                  {
-                    "slug": "MDP&S",
-                    "name": "Measurement, Data, Probability & Statistics",
-                    "standardsGroup": [
-                      {
-                        "codes": "6.SP.B.4",
-                        "grades": "06",
-                        "statements": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
-                        "alignmentNotes": "- Students create a histogram from raw data        ",
-                        "subcat": null
-                      },
-                      {
-                        "codes": [
-                          "6.SP.B.5",
-                          "6.SP.B.5a",
-                          "6.SP.B.5c"
-                        ],
-                        "grades": "06",
-                        "statements": [
-                          "Summarize numerical data sets in relation to their context, such as by:",
-                          "Reporting the number of observations.",
-                          "Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered."
-                        ],
-                        "alignmentNotes": "- Students compare the data in a scatter plot and a histogram, then determine the differences between the two graphs\n- NA",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "HSS-CP.A.4",
-                        "grades": "9,10,11,12",
-                        "statements": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities. *For example, collect data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results.*",
-                        "alignmentNotes": "- Students use real data to construct a frequency table, then use the data to create and compare the results in a scatter plot and histogram. \n  \n- Students evaluate the results of the two graphs, discuss how the two graphs provide similar and different information, and determine possible conditional probabilities with regard to female and male bird songs. ",
-                        "subcat": null
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "ELA",
-            "target": false,
-            "sets": [
-              {
-                "slug": "CCELA",
-                "name": "Common Core ELA",
-                "dimensions": [
-                  {
-                    "slug": "LS&L",
-                    "name": "Language, Speaking & Listening",
-                    "standardsGroup": [
-                      {
-                        "codes": "L.6.6",
-                        "grades": "06",
-                        "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-                        "alignmentNotes": "- Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use and reference the new words throughout the lesson",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "SL.6.2",
-                        "grades": "06",
-                        "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
-                        "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot that was created from raw data in a real research study",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "CCRA.L.4",
-                        "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
-                        "statements": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
-                        "alignmentNotes": "- Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use a real research article to read, interpret, and identify new/unknown words.",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "CCRA.SL.2",
-                        "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
-                        "statements": "Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.",
-                        "alignmentNotes": "- Students evaluate quantitative information by comparing the same data in the form of a scatter plot and a histogram",
-                        "subcat": null
-                      }
-                    ]
-                  },
-                  {
-                    "slug": "R",
-                    "name": "Reading",
-                    "standardsGroup": [
-                      {
-                        "codes": "RST.6-8.4",
-                        "grades": "6,7,8",
-                        "statements": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to *grades 6-8 texts and topics*.",
-                        "alignmentNotes": "- Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use and reference the new words throughout the lesson",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "RST.6-8.7",
-                        "grades": "6,7,8",
-                        "statements": "Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, model, graph, or table).",
-                        "alignmentNotes": "- Students practice making and reading a histogram from data provided in the lesson                                             - Students make a histogram from data they collect on their own",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "CCRA.R.7",
-                        "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
-                        "statements": "Integrate and evaluate content presented in diverse media and formats, including visually and quantitatively, as well as in words.",
-                        "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot that was created from raw data in a real research study",
-                        "subcat": null
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Science",
-            "target": false,
-            "sets": [
-              {
-                "slug": "NGSS",
-                "name": "NGSS",
-                "dimensions": [
-                  {
-                    "slug": "SEP",
-                    "name": "Science & Engineering Practices",
-                    "standardsGroup": [
-                      {
-                        "codes": "MATH-M3",
-                        "grades": "6,7,8",
-                        "statements": "Create algorithms (a series of ordered steps) to solve a problem.",
-                        "alignmentNotes": "- Students solve a series of ciphers using algorithms   \n- Students create their own algorithms and ciphers",
-                        "subcat": "Using Mathematics & Computational Thinking"
-                      },
-                      {
-                        "codes": "DATA-M1",
-                        "grades": "6,7,8",
-                        "statements": "Construct, analyze, and/or interpret graphical displays of data and/or large data sets to identify linear and nonlinear relationships.",
-                        "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot               \n- Students create a histogram using real data\n- Students analyze and compare the results of scatter plots and histograms",
-                        "subcat": "Analyzing Data"
-                      },
-                      {
-                        "codes": "MATH-M2",
-                        "grades": "6,7,8",
-                        "statements": "Use mathematical representations to describe and/or support scientific conclusions and design solutions.",
-                        "alignmentNotes": "- Students interpret a scatter plot based on real scientific data    \n- Students create a histogram using raw data         - Students draw conclusions based on the scatter plots and histograms",
-                        "subcat": "Using Mathematics & Computational Thinking"
-                      },
-                      {
-                        "codes": "ARG-M3",
-                        "grades": "6,7,8",
-                        "statements": "Construct, use, and/or present an oral and written argument supported by empirical evidence and scientific reasoning to support or refute an explanation or a model for a phenomenon or a solution to a problem.",
-                        "alignmentNotes": "- Students create and compare results of a scatter plot and histogram using real scientific data",
-                        "subcat": "Engaging in Argument from Evidence"
-                      },
-                      {
-                        "codes": "MATH-H2",
-                        "grades": "9,10,11,12",
-                        "statements": "Use mathematical, computational, and/or algorithmic representations of phenomena or design solutions to describe and/or support claims and/or explanations.",
-                        "alignmentNotes": "- Students use algorithms to solve a series of ciphers\n- Students construct a histogram using raw data from a real research study, interpret the results, and describe the findings",
-                        "subcat": "Using Mathematics & Computational Thinking"
-                      },
-                      {
-                        "codes": "DATA-H4",
-                        "grades": "9,10,11,12",
-                        "statements": "Compare and contrast various types of data sets (e.g., self-generated, archival) to examine consistency of measurements and observations.",
-                        "alignmentNotes": "- Students compare and contrast scatter plots and histograms created from empirical and self-generated data sets\n- Students examine the results and interpret their findings",
-                        "subcat": "Analyzing Data"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Social Studies",
-            "target": false,
-            "sets": [
-              {
-                "slug": "C3",
-                "name": "C3",
-                "dimensions": [
-                  {
-                    "slug": "ESCCTA",
-                    "name": "Evaluating Sources, Communicating Conclusions & Taking Action",
-                    "standardsGroup": [
-                      {
-                        "codes": "D4.2.6-8",
-                        "grades": "6,7,8",
-                        "statements": "Construct explanations using reasoning, correct sequence, examples, and details with relevant information and data, while acknowledging the strengths and weaknesses of the explanations.",
-                        "alignmentNotes": "- Students are introduced to Barn Swallow bird songs and historical scientific findings of female versus male bird calls; students interpret the data presented through scatter plots and histograms to construct explanations for the findings in a new research study",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "D4.1.6-8",
-                        "grades": "6,7,8",
-                        "statements": "Construct arguments using claims and evidence from multiple sources, while acknowledging the strengths and limitations of the arguments.",
-                        "alignmentNotes": "- Students are asked to compare the information provided in a scatter plot and a histogram   \n- Students discuss how the two graphs provide both similar and different information and how the differences may influence one's interpretation of the results",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "D4.2.9-12",
-                        "grades": "9,10,11,12",
-                        "statements": "Construct explanations using sound reasoning, correct sequence (linear or non-linear), examples, and details with significant and pertinent information and data, while acknowledging the strengths and weaknesses of the explanation given its purpose (e.g., cause and effect, chronological, procedural, technical).",
-                        "alignmentNotes": "- Students are introduced to a research study on female Barn Swallows and are asked to develop explanations for differences in male and female bird songs based on information in a scatter plot\n- Students compare the information provided in a scatter plot and a histogram\r\n- Students discuss the similarities and differences of the two graphs and construct explanations for the perceived differences in findings about female and male Barn Swallows",
-                        "subcat": null
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
       "bonus": {
         "__component": "lesson-plan.collapsible-text-section",
         "SectionTitle": "Bonus Content",
         "Content": "For students who finish early/ want to explore on their own at home, there is a code hidden in the lesson title. Decoding it will require them to gain new tech skills. It also gives them a glimpse at a huge realm of knowledge (binary and hexadecimal encoding of data), though they don\u2019t need to fully understand it to solve the problem.\n\nAt the end of the worksheet, students can optionally learn to translate a hexadecimal code into a web address. Hexadecimals (hex) are a system for encoding information in computers. Search for a \u201chex to text converter.\u201d Translate the Task # on the front page to get a secret web link.\n\nThis is a fun \u201ctech-savviness/independence\u201d growth activity. Students are asked to dive into a complex topic (hexadecimal encoding/decoding of text) without much support. But it\u2019s actually not that hard. The goal is to encourage all students to not shut down when something sounds complicated and to learn how to think creatively and use the power of the web to their benefit.\n\nThey should do a web search for \u201chex to text converter\u201d\n\n1. The first hit is likely: http://www.unit-conversion.info/texttools/hexadecimal/, but almost any will work\n2. They have to type or cut and paste \u201c6269742e6c792f6770686935\u201d from the title page into the \u201cInput Data\u201d field\n3. Choose \u201cHex to Text\u201d to decode (the example converter defaults to encoding Text to Hex)\n4. You \u201cmagically\u201d get bit.ly/gphi5\n5. If the student then copies/types that web address into the address bar, it will result in:\n6. ![a cat gif](https://bit.ly/gphi5)",
-        "InitiallyExpanded": true
-      },
-      "extensions": {
-        "__component": "lesson-plan.collapsible-text-section",
-        "SectionTitle": "Extensions",
-        "Content": "",
         "InitiallyExpanded": true
       },
       "feedback": {
@@ -2764,13 +2475,13 @@
     "lng": "eng",
     "locale": "en-US",
     "TemplateVer": "0.3.3",
-    "galacticPubsVer": "0.8.0",
+    "galacticPubsVer": "0.8.1",
     "FirstPublicationDate": "2021-12-15 17:06:16",
-    "LastUpdated": "2022-06-29 15:32:54",
+    "LastUpdated": "2022-06-30 11:50:05",
     "URL": "https://galacticpolymath.com/lessons/3",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/geneticRescue_sci.git",
-    "PublicationStatus": "Live",
+    "PublicationStatus": "Draft",
     "RebuildAllMaterials": false,
     "ReleaseDate": "2021-12-15",
     "PublicationDate": "2021-12-15",
@@ -2839,6 +2550,7 @@
       "preview": {
         "__component": "lesson-plan.lesson-preview",
         "SectionTitle": "Lesson Preview",
+        "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials </AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure </AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! </AnchorLink>",
         "Multimedia": [
           {
             "order": 1,
@@ -2897,7 +2609,6 @@
             "otherLink": null
           }
         ],
-        "QuickPrep": "1. Watch Video(s) for Part 1\n2. Look over the <AnchorLink href=\"#teaching_materials\"> Teaching Materials </AnchorLink>\n3. Get detailed, easy-to-follow instructions in <AnchorLink href=\"#procedure\"> Procedure </AnchorLink>\n4. Skim the <AnchorLink href=\"#background\"> Background </AnchorLink> to go a bit deeper\n5. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! </AnchorLink>",
         "InitiallyExpanded": true
       },
       "teaching-materials": {
@@ -2995,7 +2706,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 2 Panther Genotype Cards for Hands On Simulation of Genetics of Inbreeding in Panthers",
+                        "itemTitle": "Part 4 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -3009,7 +2720,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 5 Student Worksheet",
+                        "itemTitle": "Part 2 Panther Genotype Cards for Hands On Simulation of Genetics of Inbreeding in Panthers",
                         "itemCat": null,
                         "links": [
                           {
@@ -3072,7 +2783,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 1 Teacher Worksheet",
+                        "itemTitle": "Part 1 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -3107,7 +2818,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 4 Teacher Worksheet",
+                        "itemTitle": "Part 5 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -3121,7 +2832,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 4 Student Worksheet",
+                        "itemTitle": "Part 5 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -3156,7 +2867,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 1 Student Worksheet",
+                        "itemTitle": "Part 3 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -3170,7 +2881,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 5 Teacher Worksheet",
+                        "itemTitle": "Part 3 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -3205,7 +2916,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 3 Teacher Worksheet",
+                        "itemTitle": "Part 1 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -3219,7 +2930,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 3 Student Worksheet",
+                        "itemTitle": "Part 4 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -3720,291 +3431,6 @@
         "SectionTitle": "Background",
         "Content": "#### Connection to Research\n How do we save endangered species? This lesson deals with one option called *genetic rescue*\u2014a conservation strategy that involves moving individuals from one population into an endangered population that is highly inbred in order to add genetic variation to enable population recovery. Students learn about two distinct lines of research: one measuring the success of an attempt to save endangered Florida panthers; the other using wild Trinidadian guppies as a model of endangered species in order to better understand details of how genetic rescue can succeed or fail. \n#### Research Background\n Watch this video for a lot of panther background: [\u25b6'What is genetic rescue, and can we use it to save endangered species?'](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2)  \n\nThe Florida panther is a unique subspecies (*Puma concolor coryi*) of the American puma (*Puma concolor*). It's not to be confused with black panthers, which are the dark (melanistic) forms of leopards or jaguars. The Florida panther was nearly driven to extinction by habitat loss, fragmentation, and targeted hunting. In the mid-1990s, there remained only a tiny ~20 individual population of panthers in south Florida, and they were highly inbred. They had a lot of recessive genetic abnormalities, including visible, superficial traits like: kinked tails and cowlicks in their fur, to more significant problems like: cryptorchidism (undescended testicles, causing infertility in males) and heart defects. Wildlife managers decided to relocate 8 female pumas from Texas (*Puma concolor couguar*) into Florida to introduce needed genetic variation.  \n\nStudents will get to analyze 20 years worth of monitoring data to assess whether genetic rescue was successful (it was! There are now over 200 Florida panthers). At the same time, students will compare these results to a paired data set in Trinidadian guppies to understand how model organisms can be used to answer scientific questions that are difficult to answer in an endangered or difficult-to-study species.\n\n#### Related Florida Panther Paper:\n![screenshot of panther study paper](https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/VanDeKerk_paper_screenshot.png)\n[Link to study](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wmon.1041)\n\n\nThis video connects genetic rescue research on Florida panthers to the Trinidadian guppy model species: [\u25b6'Saving a species through genetic rescue: Why we need model organisms'](https://www.youtube.com/watch?v=AiXyHxv4Sx4&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=3)\n\nTo study many details of genetic rescue in a model system where we don't have to worry about inadvertently driving a species extinct, Dr. Sarah Fitzpatrick and colleagues went to Trinidad. They took advantage of previous experiments that had moved guppies from a downstream population that had lots of genetic variation into upstream pools with only a few, highly inbred fish. \n\nThis genetic rescue experiment was indeed successful, and after only a few months, genetic variation increased and the population rebounded from around 20 individuals to over 1,000.\n\n\n#### Related Guppy Paper:\n![screenshot of Scientific Study](https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/fitzpatrick_paper_screenshot.png)\n[Link to study](https://onlinelibrary.wiley.com/doi/10.1111/eva.12356)\n\n#### Further Reading\n- [USFWS Florida Panther Profile](https://www.fws.gov/refuge/florida_panther/wah/panther.html)\n- [Nat Geo: Planned roads could imperil Florida's panthers\u2014and last remaining wilderness](https://www.nationalgeographic.com/animals/article/florida-toll-road-threatens-wildlife-panthers?loggedin=true)\n- [The Florida Panther: Past, Present and Future](https://edis.ifas.ufl.edu/publication/UW402)\n- [America\u2019s cat is on the comeback](https://www.americanscientist.org/article/americas-cat-is-on-the-comeback)\n- [Of kings and Alpine Ibex: the amazing resurrection of a species from near-extinction](https://natureecoevocommunity.nature.com/posts/59792-of-kings-and-alpine-ibex-the-amazing-resurrection-of-a-species-from-near-extinction)\n",
         "InitiallyExpanded": true
-      },
-      "standards-header": {
-        "__component": "lesson-plan.section-heading",
-        "SectionTitle": "Learning Standards"
-      },
-      "learning-chart": {
-        "__component": "lesson-plan.learning-chart",
-        "Title": "About the GP Learning Chart",
-        "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 21 standards across US grade band(s): 9-12.",
-        "Footnote": "**Notes on Standards**\n\n*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
-        "Badge": {
-          "url": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/GP-Learning-Chart.png"
-        }
-      },
-      "standards": {
-        "__component": "lesson-plan.standards",
-        "Data": [
-          {
-            "subject": "Math",
-            "target": false,
-            "sets": [
-              {
-                "slug": "CCM",
-                "name": "Common Core Math",
-                "dimensions": [
-                  {
-                    "slug": "MDP&S",
-                    "name": "Measurement, Data, Probability & Statistics",
-                    "standardsGroup": [
-                      {
-                        "codes": "HSS-ID.B.6",
-                        "grades": "9,10,11,12",
-                        "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
-                        "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured. ",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "HSS-ID.C.7",
-                        "grades": "9,10,11,12",
-                        "statements": "Interpret the slope (rate of change) and the intercept (constant term) of a linear model in the context of the data.",
-                        "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured. ",
-                        "subcat": null
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "ELA",
-            "target": false,
-            "sets": [
-              {
-                "slug": "CCELA",
-                "name": "Common Core ELA",
-                "dimensions": [
-                  {
-                    "slug": "W",
-                    "name": "Writing",
-                    "standardsGroup": [
-                      {
-                        "codes": "W.9-10.3c",
-                        "grades": "9,10",
-                        "statements": "Use a variety of techniques to sequence events so that they build on one another to create a coherent whole.",
-                        "alignmentNotes": "- Students use information to complete a logic model depicting genetic rescue. ",
-                        "subcat": null
-                      },
-                      {
-                        "codes": "W.9-10.7",
-                        "grades": "9,10",
-                        "statements": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.",
-                        "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
-                        "subcat": null
-                      }
-                    ]
-                  },
-                  {
-                    "slug": "LS&L",
-                    "name": "Language, Speaking & Listening",
-                    "standardsGroup": [
-                      {
-                        "codes": "CCRA.SL.5",
-                        "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
-                        "statements": "Make strategic use of digital media and visual displays of data to express information and enhance understanding of presentations.",
-                        "alignmentNotes": "- Students integrate graphs, video, and classroom discussions and reflections to enhance understanding of genetic rescue.",
-                        "subcat": null
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Science",
-            "target": false,
-            "sets": [
-              {
-                "slug": "NGSS",
-                "name": "NGSS",
-                "dimensions": [
-                  {
-                    "slug": "DCI",
-                    "name": "Disciplinary Core ideas",
-                    "standardsGroup": [
-                      {
-                        "codes": "LS4.D-H2",
-                        "grades": "9,10,11,12",
-                        "statements": "Humans depend on the living world for the resources and other benefits provided by biodiversity. But human activity is also having adverse impacts on biodiversity through overpopulation, overexploitation, habitat destruction, pollution, introduction of invasive species, and climate change. Thus, sustaining biodiversity so that ecosystem functioning and productivity are maintained is essential to supporting and enhancing life on Earth. Sustaining biodiversity also aids humanity by preserving landscapes of recreational or inspirational value.",
-                        "alignmentNotes": "- Students watch videos to learn about the benefits provided by a healthy Florida Panther population and participate in a Think-Pair-Share to discuss the potential impacts of losing Florida Panthers.",
-                        "subcat": "Biodiversity & Humans"
-                      }
-                    ]
-                  },
-                  {
-                    "slug": "SEP",
-                    "name": "Science & Engineering Practices",
-                    "standardsGroup": [
-                      {
-                        "codes": "DATA-H5",
-                        "grades": "9,10,11,12",
-                        "statements": "Evaluate the impact of new data on a working explanation and/or model of a proposed process or system.",
-                        "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured. ",
-                        "subcat": "Analyzing Data"
-                      },
-                      {
-                        "codes": "ARG-H6",
-                        "grades": "9,10,11,12",
-                        "statements": "Evaluate competing design solutions to a real-world problem based on scientific ideas and principles, empirical evidence, and logical arguments regarding relevant factors (e.g., economic, societal, environmental, ethical considerations).",
-                        "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
-                        "subcat": "Engaging in Argument from Evidence"
-                      },
-                      {
-                        "codes": "CEDS-H5",
-                        "grades": "9,10,11,12",
-                        "statements": "Design, evaluate, and/or refine a solution to a complex real-world problem, based on scientific knowledge, student-generated sources of evidence, prioritized criteria, and tradeoff considerations.",
-                        "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
-                        "subcat": "Constructing Explanations & Designing Solutions"
-                      }
-                    ]
-                  },
-                  {
-                    "slug": "CCC",
-                    "name": "Cross-Cutting Concepts",
-                    "standardsGroup": [
-                      {
-                        "codes": "SPQ-H5",
-                        "grades": "9,10,11,12",
-                        "statements": "Algebraic thinking is used to examine scientific data and predict the effect of a change in one variable on another (e.g., linear growth vs. exponential growth).",
-                        "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured. ",
-                        "subcat": "Scale, Proportion, & Quantity"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Social Studies",
-            "target": false,
-            "sets": [
-              {
-                "slug": "C3",
-                "name": "C3",
-                "dimensions": [
-                  {
-                    "slug": "CEGH",
-                    "name": "Civics, Economics, Geography & History",
-                    "standardsGroup": [
-                      {
-                        "codes": "D2.Geo.6.9-12",
-                        "grades": "9,10,11,12",
-                        "statements": "Evaluate the impact of human settlement activities on the environmental and cultural characteristics of specific places and regions.",
-                        "alignmentNotes": "- Students watch a video that highlights how human expansion and development has contributed to fragmentation and they use a worksheet to reflect on how this process has contributed to the issues seen in Florida panthers.",
-                        "subcat": null
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Science",
-            "target": true,
-            "sets": [
-              {
-                "slug": "NGSS",
-                "name": "NGSS",
-                "dimensions": [
-                  {
-                    "slug": "DCI",
-                    "name": "Disciplinary Core ideas",
-                    "standardsGroup": [
-                      {
-                        "codes": "LS4.B-H1",
-                        "grades": "9,10,11,12",
-                        "statements": "Natural selection occurs only if there is both (1) variation in the genetic information between organisms in a population and (2) variation in the expression of that genetic information\u2013that is, trait variation\u2013that leads to differences in performance among individuals.",
-                        "alignmentNotes": "- Students use information to complete a logic model depicting genetic rescue. ",
-                        "subcat": "Natural Selection"
-                      },
-                      {
-                        "codes": "LS4.C-H1",
-                        "grades": "9,10,11,12",
-                        "statements": "Evolution is a consequence of the interaction of four factors: (1) the potential for a species to increase in number, (2) the genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for an environment\u2019s limited supply of the resources that individuals need in order to survive and reproduce, and (4) the ensuing proliferation of those organisms that are better able to survive and reproduce in that environment.",
-                        "alignmentNotes": "- Students participate in a genotype and phenotype activity and discuss the changes they see in Florida panther offspring. ",
-                        "subcat": "Adaptation"
-                      },
-                      {
-                        "codes": "LS4.C-H5",
-                        "grades": "9,10,11,12",
-                        "statements": "Species become extinct because they can no longer survive and reproduce in their altered environment. If members cannot adjust to change that is too fast or drastic, the opportunity for the species\u2019 evolution is lost.",
-                        "alignmentNotes": "- Students explore the extinction vortext concept by reviewing and comparing multiple graphs that show changes in population size (and genetic variation) over time.",
-                        "subcat": "Adaptation"
-                      }
-                    ]
-                  },
-                  {
-                    "slug": "SEP",
-                    "name": "Science & Engineering Practices",
-                    "standardsGroup": [
-                      {
-                        "codes": "CEDS-H1",
-                        "grades": "9,10,11,12",
-                        "statements": "Make a quantitative and/or qualitative claim regarding the relationship between dependent and independent variables.",
-                        "alignmentNotes": "- Students interpret graphs depicting Trinidadian guppies' population size and genetic variation over time to determine success of genetic rescue treatment.",
-                        "subcat": "Constructing Explanations & Designing Solutions"
-                      },
-                      {
-                        "codes": "INFO-H5",
-                        "grades": "9,10,11,12",
-                        "statements": "Communicate scientific and/or technical information or ideas (e.g. about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically).",
-                        "alignmentNotes": "- Students will complete a worksheet that asks them to identify a graph that depicts a population undergoing an extinction vortex and explain their choice by comparing it to another graph. \n- Students also complete concept maps to communicate their understanding of extinction vortex and genetic rescue.",
-                        "subcat": "Obtaining, Evaluating, & Communicating Information"
-                      },
-                      {
-                        "codes": "ARG-H1",
-                        "grades": "9,10,11,12",
-                        "statements": "Compare and evaluate competing arguments or design solutions in light of currently accepted explanations, new evidence, limitations (e.g., trade-offs), constraints, and ethical issues.",
-                        "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
-                        "subcat": "Engaging in Argument from Evidence"
-                      },
-                      {
-                        "codes": "ARG-H5",
-                        "grades": "9,10,11,12",
-                        "statements": "Make and defend a claim based on evidence about the natural world or the effectiveness of a design solution that reflects scientific knowledge, and student-generated evidence.",
-                        "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
-                        "subcat": "Engaging in Argument from Evidence"
-                      }
-                    ]
-                  },
-                  {
-                    "slug": "CCC",
-                    "name": "Cross-Cutting Concepts",
-                    "standardsGroup": [
-                      {
-                        "codes": "SYS-H1",
-                        "grades": "9,10,11,12",
-                        "statements": "Systems can be designed to do specific tasks.",
-                        "alignmentNotes": "- Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers",
-                        "subcat": "Systems & Systems Models"
-                      },
-                      {
-                        "codes": "SYS-H3",
-                        "grades": "9,10,11,12",
-                        "statements": "Models (e.g., physical, mathematical, computer models) can be used to simulate systems and interactions\u2013including energy, matter, and information flows\u2013 within and between systems at different scales.",
-                        "alignmentNotes": "- Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers.",
-                        "subcat": "Systems & Systems Models"
-                      },
-                      {
-                        "codes": "SYS-H4",
-                        "grades": "9,10,11,12",
-                        "statements": "Models can be used to predict the behavior of a system, but these predictions have limited precision and reliability due to the assumptions and approximations inherent in models.",
-                        "alignmentNotes": "- Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers.",
-                        "subcat": "Systems & Systems Models"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
       },
       "extensions": {
         "__component": "lesson-plan.collapsible-text-section",
