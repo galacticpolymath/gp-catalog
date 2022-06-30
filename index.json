@@ -2477,11 +2477,11 @@
     "TemplateVer": "0.3.3",
     "galacticPubsVer": "0.8.1",
     "FirstPublicationDate": "2021-12-15 17:06:16",
-    "LastUpdated": "2022-06-30 11:51:45",
+    "LastUpdated": "2022-06-30 12:21:47",
     "URL": "https://galacticpolymath.com/lessons/3",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/geneticRescue_sci.git",
-    "PublicationStatus": "Draft",
+    "PublicationStatus": "Live",
     "RebuildAllMaterials": false,
     "ReleaseDate": "2021-12-15",
     "PublicationDate": "2021-12-15",
@@ -2706,7 +2706,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 4 Student Worksheet",
+                        "itemTitle": "Part 3 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2720,7 +2720,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 2 Panther Genotype Cards for Hands On Simulation of Genetics of Inbreeding in Panthers",
+                        "itemTitle": "Part 1 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2755,7 +2755,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 2 Teacher Worksheet",
+                        "itemTitle": "Part 2 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2769,7 +2769,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 2 Student Worksheet",
+                        "itemTitle": "Part 2 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2783,7 +2783,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 1 Student Worksheet",
+                        "itemTitle": "Part 4 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2818,7 +2818,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 5 Teacher Worksheet",
+                        "itemTitle": "Part 4 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2832,7 +2832,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 5 Student Worksheet",
+                        "itemTitle": "Part 1 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2867,7 +2867,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 3 Teacher Worksheet",
+                        "itemTitle": "Part 5 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2881,7 +2881,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 3 Student Worksheet",
+                        "itemTitle": "Part 5 Teacher Worksheet",
                         "itemCat": null,
                         "links": [
                           {
@@ -2916,7 +2916,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 1 Teacher Worksheet",
+                        "itemTitle": "Part 2 Panther Genotype Cards for Hands On Simulation of Genetics of Inbreeding in Panthers",
                         "itemCat": null,
                         "links": [
                           {
@@ -2930,7 +2930,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Part 4 Teacher Worksheet",
+                        "itemTitle": "Part 3 Student Worksheet",
                         "itemCat": null,
                         "links": [
                           {
