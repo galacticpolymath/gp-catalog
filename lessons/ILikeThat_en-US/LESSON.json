@@ -12,7 +12,7 @@
   "TemplateVer": "0.3.4",
   "galacticPubsVer": "0.8.8",
   "FirstPublicationDate": "2022-07-11 21:10:05",
-  "LastUpdated": "2022-08-13 11:20:41",
+  "LastUpdated": "2022-08-15 15:21:37",
   "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
@@ -181,6 +181,83 @@
           ]
         }
       }
+    },
+    "acknowledgments": {
+      "__component": "lesson-plan.acknowledgments",
+      "SectionTitle": "Acknowledgments",
+      "Data": [
+        {
+          "role": "Beta Testers",
+          "def": "(Teachers who trialed earlier versions of the lesson with their children or students)",
+          "records": [
+            {
+              "name": "Name1",
+              "url": "URL1",
+              "title": "Title1",
+              "affiliation": "Affiliation1",
+              "location": "Location1"
+            },
+            {
+              "name": "Name2",
+              "url": "URL2",
+              "title": "Title2",
+              "affiliation": "Affiliation2",
+              "location": "Location2"
+            }
+          ]
+        },
+        {
+          "role": "Peer Reviewers",
+          "def": "(Instructional and subject experts who provided input or validation on content accuracy)",
+          "records": [
+            {
+              "name": "Name3",
+              "url": "URL3",
+              "title": "Title3",
+              "affiliation": "Affiliation3",
+              "location": "Location3"
+            }
+          ]
+        },
+        {
+          "role": "Other Role",
+          "def": "(Other Def)",
+          "records": [
+            {
+              "name": "Name4",
+              "url": "URL4",
+              "title": "Title4",
+              "affiliation": "Affiliation4",
+              "location": "Location4"
+            }
+          ]
+        }
+      ]
+    },
+    "versions": {
+      "__component": "lesson-plan.versions",
+      "SectionTitle": "Version Notes",
+      "Data": [
+        {
+          "major_release": "Beta",
+          "sub_releases": [
+            {
+              "version": "0.1.0",
+              "date": null,
+              "summary": "Initial lesson build. ",
+              "notes": "This is intended to be taught in a single day. Includes both classroom and a remote version with Nearpod.",
+              "acknowledgments": null
+            },
+            {
+              "version": "0.1.1",
+              "date": null,
+              "summary": "Minor update to assets and styling.",
+              "notes": null,
+              "acknowledgments": null
+            }
+          ]
+        }
+      ]
     }
   }
 }
