@@ -10,9 +10,9 @@
   "locale": "en-US",
   "DefaultLocale": "en-US",
   "TemplateVer": "0.3.4",
-  "galacticPubsVer": "0.8.8",
+  "galacticPubsVer": "0.8.9",
   "FirstPublicationDate": "2021-12-15 17:06:16",
-  "LastUpdated": "2022-08-13 12:19:46",
+  "LastUpdated": "2022-08-25 18:53:41",
   "URL": "https://galacticpolymath.com/lessons/3",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/geneticRescue_sci.git",
@@ -475,6 +475,55 @@
                         {
                           "linkText": "Copy to My Google Drive",
                           "url": "https://docs.google.com/document/d/17pVB3Aty3FHTRtH5-3ntvluGNMv_HBBuuruTBezuoQk/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "part": "last",
+                  "title": "Assessments",
+                  "preface": "",
+                  "itemList": [
+                    {
+                      "itemTitle": "Grading Rubric",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1xSX2h1Fyl8PxpbNuGuEAiZve1jbb8Pz1_W0ZPqMdBz8/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1xSX2h1Fyl8PxpbNuGuEAiZve1jbb8Pz1_W0ZPqMdBz8/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Pre/Post- Assessment (TEACHER)",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1eLAl5Pq6H-ahoVhH11DkFzGhz_RNyS9PydUGLpNN1Fs/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1eLAl5Pq6H-ahoVhH11DkFzGhz_RNyS9PydUGLpNN1Fs/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Pre/Post- Assessment (STUDENT)",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1QtPOWrI8hs9fxh83mB4Ji2DMyUBXkIl-5SToZ6Et52g/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1QtPOWrI8hs9fxh83mB4Ji2DMyUBXkIl-5SToZ6Et52g/template/preview"
                         }
                       ]
                     }
@@ -1381,6 +1430,13 @@
               "date": "Mar 03, 2022",
               "summary": "Major updates to documentation",
               "notes": "Added more background information & the extensions section",
+              "acknowledgments": null
+            },
+            {
+              "version": "0.5.0",
+              "date": "Aug 25, 2022",
+              "summary": "Added assessments to lesson",
+              "notes": "A pre-/post- test assessment tool",
               "acknowledgments": null
             }
           ]
