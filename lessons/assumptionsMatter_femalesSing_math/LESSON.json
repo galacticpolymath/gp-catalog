@@ -13,7 +13,7 @@
   "TemplateVer": "0.3.5",
   "galacticPubsVer": "0.8.9",
   "FirstPublicationDate": "2021-12-16 16:03:12",
-  "LastUpdated": "2022-08-31 12:08:21",
+  "LastUpdated": "2022-08-31 13:49:41",
   "URL": "https://galacticpolymath.com/lessons/1",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/assumptionsMatter_femalesSing_math.git",
@@ -439,27 +439,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "part": "last",
-                  "title": "Assessments",
-                  "preface": "",
-                  "itemList": [
-                    {
-                      "itemTitle": "dummy assessment",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1frtsA2xO3_eEW_qfSnWK_E0e_AUVvJjli4WOwZtrb1A/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1frtsA2xO3_eEW_qfSnWK_E0e_AUVvJjli4WOwZtrb1A/template/preview"
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             },
@@ -631,27 +610,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "part": "last",
-                  "title": "Assessments",
-                  "preface": "",
-                  "itemList": [
-                    {
-                      "itemTitle": "dummy assessment",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1frtsA2xO3_eEW_qfSnWK_E0e_AUVvJjli4WOwZtrb1A/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1frtsA2xO3_eEW_qfSnWK_E0e_AUVvJjli4WOwZtrb1A/template/preview"
-                        }
-                      ]
-                    }
-                  ]
                 }
               ]
             },
@@ -819,27 +777,6 @@
                         {
                           "linkText": "Copy to My Google Drive",
                           "url": "https://docs.google.com/presentation/d/1zeTb9Y37V6hZ1DxH5LGXD0bnqCI5zQHj5-fFlqxRgqg/template/preview"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "part": "last",
-                  "title": "Assessments",
-                  "preface": "",
-                  "itemList": [
-                    {
-                      "itemTitle": "dummy assessment",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1frtsA2xO3_eEW_qfSnWK_E0e_AUVvJjli4WOwZtrb1A/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1frtsA2xO3_eEW_qfSnWK_E0e_AUVvJjli4WOwZtrb1A/template/preview"
                         }
                       ]
                     }
