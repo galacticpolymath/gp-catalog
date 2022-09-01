@@ -1,6 +1,6 @@
 {
   "id": 3,
-  "UniqueID": null,
+  "UniqueID": "lesson3_locale_1",
   "ShortTitle": "geneticRescue",
   "Language": "English",
   "Country": "United States",
@@ -13,12 +13,12 @@
   "TemplateVer": "0.3.7",
   "galacticPubsVer": "0.8.9",
   "FirstPublicationDate": "2021-12-15 17:06:16",
-  "LastUpdated": "2022-08-31 21:31:16",
+  "LastUpdated": "2022-09-01 08:55:20",
   "URL": "https://galacticpolymath.com/lessons/3",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/geneticRescue_sci.git",
   "PublicationStatus": "Live",
-  "RebuildAllMaterials": true,
+  "RebuildAllMaterials": false,
   "ReleaseDate": "2021-12-15",
   "PublicationDate": "2021-12-15",
   "Title": "Genetic Rescue to the Rescue",
@@ -79,9 +79,9 @@
         "url": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/GP-Learning-Epaulette.png"
       },
       "SteamEpaulette_vert": {
-        "url": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/GP-Learning-Epaulette_vert.png"
-      },
-      "Description": "Students learn about genetic rescue, an approach for helping endangered populations recover by introducing closely related individuals from a different population. The lesson is framed around the story of Florida panthers, which are a classic success story for genetic rescue. In Part 1, students explore Florida panther recovery through the lens of different stakeholders (ranchers, city-dwellers, and Native Americans), discussing ways that each group may have positive or negative associations with panthers. \n\nIn Part 2, they then explore different options for helping panther recovery, discussing pros and cons of genetic rescue, captive breeding, or doing nothing. \n\nPart 3 provides necessary scaffolding for a deeper dive into genetic rescue by explaining key concepts in the context of Florida panthers. Students also do a card-based activity simulating matings to better understand why inbreeding and recessive traits are so problematic in small populations.\n\nPart 4, goes deeper into genetic rescue: what can go wrong? Students provide evidence of their understanding of how all the concepts connect through a concept mapping exercise, interspersed with our carefully crafted explainer videos. A key take-home is that even though genetic rescue worked in Florida panthers, it's quite risky to test out conservation strategies on an endangered species. The concluding task is to analyze a table of organisms and their characteristics to determine which would be good models to study the effectiveness of genetic rescue without risking a rare species' extinction. \n\nPart 5 builds on this to reveal Dr. Sarah Fitzpatrick's (this lesson's sponsor) research using Trinidadian guppies as a model of genetic rescue. Students then spend much of the class period analyzing real, paired data collected from Florida panthers and guppies. They are asked to compare and label graphs from both species, and synthesize broader conclusions. The lesson leaves open many options for project-based lessons and independent projects."
+        "url": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/GP-Learning-Epaulette_vert.png",
+        "Description": "Students learn about genetic rescue, an approach for helping endangered populations recover by introducing closely related individuals from a different population. The lesson is framed around the story of Florida panthers, which are a classic success story for genetic rescue. In Part 1, students explore Florida panther recovery through the lens of different stakeholders (ranchers, city-dwellers, and Native Americans), discussing ways that each group may have positive or negative associations with panthers. \n\nIn Part 2, they then explore different options for helping panther recovery, discussing pros and cons of genetic rescue, captive breeding, or doing nothing. \n\nPart 3 provides necessary scaffolding for a deeper dive into genetic rescue by explaining key concepts in the context of Florida panthers. Students also do a card-based activity simulating matings to better understand why inbreeding and recessive traits are so problematic in small populations.\n\nPart 4, goes deeper into genetic rescue: what can go wrong? Students provide evidence of their understanding of how all the concepts connect through a concept mapping exercise, interspersed with our carefully crafted explainer videos. A key take-home is that even though genetic rescue worked in Florida panthers, it's quite risky to test out conservation strategies on an endangered species. The concluding task is to analyze a table of organisms and their characteristics to determine which would be good models to study the effectiveness of genetic rescue without risking a rare species' extinction. \n\nPart 5 builds on this to reveal Dr. Sarah Fitzpatrick's (this lesson's sponsor) research using Trinidadian guppies as a model of genetic rescue. Students then spend much of the class period analyzing real, paired data collected from Florida panthers and guppies. They are asked to compare and label graphs from both species, and synthesize broader conclusions. The lesson leaves open many options for project-based lessons and independent projects."
+      }
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -1024,7 +1024,7 @@
     "learning-chart": {
       "__component": "lesson-plan.learning-chart",
       "Title": "About the GP Learning Chart",
-      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 21 standards across US grade band(s): 9-12.",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are  standards across US grade band(s): .",
       "Footnote": "**Notes on Standards**\n\n*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
       "Badge": {
         "url": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/GP-Learning-Chart.png"
