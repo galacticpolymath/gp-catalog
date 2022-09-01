@@ -3458,15 +3458,15 @@
     "lng": "eng",
     "locale": "en-NZ",
     "DefaultLocale": "en-NZ",
-    "TemplateVer": "0.3.5",
+    "TemplateVer": "0.3.7",
     "galacticPubsVer": "0.8.9",
     "FirstPublicationDate": "2022-06-26 20:30:21",
-    "LastUpdated": "2022-08-31 16:16:23",
+    "LastUpdated": "2022-08-31 21:27:52",
     "URL": "https://galacticpolymath.com/lessons/4",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
     "PublicationStatus": "Live",
-    "RebuildAllMaterials": false,
+    "RebuildAllMaterials": true,
     "ReleaseDate": "2022-09-01",
     "Title": "Colourful Solutions",
     "Subtitle": "Chemical Engineering Dyes to Brighten Lives",
@@ -4128,7 +4128,7 @@
       "background": {
         "__component": "lesson-plan.collapsible-text-section",
         "SectionTitle": "Background",
-        "Content": "#### M\u0101ori Culture\nFor those unfamiliar with M\u0101ori culture and language, here are some helpful links.\n- [Written M\u0101ori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of M\u0101ori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [M\u0101ori dictionary](https://maoridictionary.co.nz/)\n- [M\u0101ori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (t\u0101nekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | \u201cSmelly Snails and deep purple: This ancient dye costs $2,700 per gram\u201d](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | \u201cDyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia\u2019s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | \u201cFit to Be Dyed: The enduring appeal of tie-dye\u201d](https://pangaia.com/pages/dyes-and-the-dyeing-process) ",
+        "Content": "#### Connection to Research\n NA \n#### Research Background\n #### M\u0101ori Culture\nFor those unfamiliar with M\u0101ori culture and language, here are some helpful links.\n- [Written M\u0101ori pronunciation guide](https://www.wgtn.ac.nz/maori-hub/ako/te-reo-at-university/te-reo-maori-pronunciation-guide) and [Video of M\u0101ori vowel pronunciation](https://www.youtube.com/watch?v=O_DtsHdMAtk)\n- [M\u0101ori dictionary](https://maoridictionary.co.nz/)\n- [M\u0101ori history Wikipedia entry](https://en.wikipedia.org/wiki/M%C4%81ori_history)\n \n#### Scientific Background\nThis lesson helps build a high-level understanding of the different processes behind 3 dye technologies: 2 derived from natural resources (t\u0101nekaha red and Tyrian purple) and 1 derived from fossil fuels (mauveine). You and your students can gain more detailed knowledge by reading this scientific paper, coauthored by Rangi Te Kanawa.\n![Screenshot of the journal article](https://catalog.galacticpolymath.com/lessons/ColourfulSolns_en-NZ/paper.png)\n- [Link to Journal Article](https://www.dominikmatus.cz/files/Some%20Traditional%20Colourants%20of%20Maori%20and%20other%20Cultures.pdf)\n#### Further Reading:\n- [Middle East Eye | \u201cSmelly Snails and deep purple: This ancient dye costs $2,700 per gram\u201d](https://www.middleeasteye.net/discover/colour-purple-dyeing-techniques-phoenician-sea-snails)\n- [Pangaia | \u201cDyes and the Dyeing Process](https://pangaia.com/pages/dyes-and-the-dyeing-process): a marketing blog about clothing company Pangaia\u2019s search for sustainable dyes. Have students read and discuss this blog with a critical eye.\n- [Science History | \u201cFit to Be Dyed: The enduring appeal of tie-dye\u201d](https://pangaia.com/pages/dyes-and-the-dyeing-process) ",
         "InitiallyExpanded": true
       },
       "standards-header": {
@@ -4151,7 +4151,7 @@
                     "name": "Geometry and Measurement",
                     "standardsGroup": [
                       {
-                        "codes": "Level 4.Measurement",
+                        "codes": "Level 4. Measurement",
                         "grades": null,
                         "statements": "Students will interpret and use scales, timetables, and charts.",
                         "alignmentNotes": "- Students will synthesize multiple sources of information stemming from: a complex graph of how the unit price of 3 dye technologies scales with production; group discussions; and consideration of different pros and cons for each technology.",
@@ -4264,9 +4264,45 @@
                 "name": "NZ Curriculum",
                 "dimensions": [
                   {
-                    "slug": null,
-                    "name": null,
-                    "standardsGroup": []
+                    "slug": "SS",
+                    "name": "Social Studies",
+                    "standardsGroup": [
+                      {
+                        "codes": "Level 4.",
+                        "grades": null,
+                        "statements": "Students will understand how people pass on and sustain culture and heritage for different reasons and that this has consequences for people.",
+                        "alignmentNotes": "- Students will learn about m\u0101taraunga M\u0101ori (traditional knowledge) related to the making of a red dye from tree bark, as well as the ancient practice of making Tyrian purple from marine snails. They will reflect on and discuss the cultural significance of these dyes and contrast with modern synthetic dyes.",
+                        "subcat": null
+                      },
+                      {
+                        "codes": "Level 4.",
+                        "grades": null,
+                        "statements": "Students will understand how exploration and innovation create opportunities and challenges for people, places, and environments.",
+                        "alignmentNotes": "- Students will learn how dye technologies were discovered, passed down, or rediscovered, and reflect on their cultural significance and sustainability.",
+                        "subcat": null
+                      },
+                      {
+                        "codes": "Level 5.",
+                        "grades": null,
+                        "statements": "Students will understand how people\u2019s management of resources impacts on environmental and social sustainability.",
+                        "alignmentNotes": "- Students will consider the sustainability of each dye technology in the cost/benefit analysis.",
+                        "subcat": null
+                      },
+                      {
+                        "codes": "Level 5.",
+                        "grades": null,
+                        "statements": "Students will understand how the ideas and actions of people in the past have had a significant impact on people\u2019s lives.",
+                        "alignmentNotes": "- Students will learn how dye technologies were discovered, passed down, or rediscovered, and reflect on their cultural significance and sustainability.",
+                        "subcat": null
+                      },
+                      {
+                        "codes": "Level 5.",
+                        "grades": null,
+                        "statements": "Students will understand how people seek and have sought economic growth through business, enterprise, and innovation.",
+                        "alignmentNotes": "- In P2, students will do a card sort activity that has them think about the steps and costs involved with producing the first garment using each dye technology. They will then synthesize and expand this knowledge to understand how an entrepreneur balances various concerns to choose a technology that meets the diverse needs of a particular target consumer.",
+                        "subcat": null
+                      }
+                    ]
                   }
                 ]
               }
