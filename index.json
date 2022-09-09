@@ -1723,14 +1723,14 @@
     "locale": "en-US",
     "DefaultLocale": "en-US",
     "TemplateVer": "0.3.7",
-    "galacticPubsVer": "0.8.9",
+    "galacticPubsVer": "0.9.3",
     "FirstPublicationDate": "2021-12-16 16:03:12",
-    "LastUpdated": "2022-09-08 21:52:11",
+    "LastUpdated": "2022-09-08 22:54:09",
     "URL": "https://galacticpolymath.com/lessons/1",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/assumptionsMatter_femalesSing_math.git",
     "PublicationStatus": "Live",
-    "RebuildAllMaterials": true,
+    "RebuildAllMaterials": false,
     "ReleaseDate": "2021-12-16",
     "Title": "Females singing to be heard",
     "Subtitle": "Challenging long-held assumptions about birdsong through data visualization",
@@ -1782,7 +1782,6 @@
             "Value": "grit"
           }
         ],
-        "LearningObj": "- Solve a cipher (a type of secret message)\n- Learn and use new vocabulary\n- Interpret a scatter plot\n- Create a histogram from raw data\n- Compare and contrast scatter plots and histograms\n- Persevere, even when a task seems too hard",
         "SteamEpaulette": {
           "url": "https://catalog.galacticpolymath.com/lessons/assumptionsMatter_femalesSing_math/GP-Learning-Epaulette.png"
         },
@@ -2923,13 +2922,14 @@
         "__component": "lesson-plan.learning-chart",
         "Title": "About the GP Learning Chart",
         "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Math, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 25 standards across US grade band(s): 5-6, 7-8, 9-12.",
-        "Footnote": "**Notes on Standards**\n\n*Standards are broken down into ***Target*** and ***Connected*** categories. Target standards are directly reinforced or taught; connected standards are not fully addressed in the lesson, but connected enough to provide a foundation for teachers to build upon.",
+        "Footnote": "",
         "Badge": {
           "url": "https://catalog.galacticpolymath.com/lessons/assumptionsMatter_femalesSing_math/GP-Learning-Chart.png"
         }
       },
       "standards": {
         "__component": "lesson-plan.standards",
+        "LearningObj": "- Solve a cipher (a type of secret message)\n- Learn and use new vocabulary\n- Interpret a scatter plot\n- Create a histogram from raw data\n- Compare and contrast scatter plots and histograms\n- Persevere, even when a task seems too hard",
         "Data": [
           {
             "subject": "Math",
@@ -2945,14 +2945,14 @@
                     "standardsGroup": [
                       {
                         "codes": "6.SP.A.2",
-                        "grades": "06",
+                        "grades": "6",
                         "statements": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
                         "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
                         "subcat": null
                       },
                       {
                         "codes": "8.SP.A.1",
-                        "grades": "08",
+                        "grades": "8",
                         "statements": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
                         "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
                         "subcat": null
@@ -2991,7 +2991,7 @@
                     "standardsGroup": [
                       {
                         "codes": "6.SP.B.4",
-                        "grades": "06",
+                        "grades": "6",
                         "statements": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
                         "alignmentNotes": "- Students create a histogram from raw data        ",
                         "subcat": null
@@ -3002,7 +3002,7 @@
                           "6.SP.B.5a",
                           "6.SP.B.5c"
                         ],
-                        "grades": "06",
+                        "grades": "6",
                         "statements": [
                           "Summarize numerical data sets in relation to their context, such as by:",
                           "Reporting the number of observations.",
@@ -3038,14 +3038,14 @@
                     "standardsGroup": [
                       {
                         "codes": "L.6.6",
-                        "grades": "06",
+                        "grades": "6",
                         "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
                         "alignmentNotes": "- Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use and reference the new words throughout the lesson",
                         "subcat": null
                       },
                       {
                         "codes": "SL.6.2",
-                        "grades": "06",
+                        "grades": "6",
                         "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
                         "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot that was created from raw data in a real research study",
                         "subcat": null
