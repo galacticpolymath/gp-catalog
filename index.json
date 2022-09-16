@@ -1738,9 +1738,9 @@
     "locale": "en-US",
     "DefaultLocale": "en-US",
     "TemplateVer": "0.3.7",
-    "galacticPubsVer": "0.9.3",
+    "galacticPubsVer": "0.9.4",
     "FirstPublicationDate": "2021-12-16 16:03:12",
-    "LastUpdated": "2022-09-09 00:21:37",
+    "LastUpdated": "2022-09-16 18:16:19",
     "URL": "https://galacticpolymath.com/lessons/1",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/lesson_femalesSing_math/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/assumptionsMatter_femalesSing_math.git",
@@ -2923,6 +2923,12 @@
           ]
         }
       },
+      "bonus": {
+        "__component": "lesson-plan.collapsible-text-section",
+        "SectionTitle": "Bonus Content",
+        "Content": "For students who finish early/ want to explore on their own at home, there is a code hidden in the lesson title. Decoding it will require them to gain new tech skills. It also gives them a glimpse at a huge realm of knowledge (binary and hexadecimal encoding of data), though they don\u2019t need to fully understand it to solve the problem.\n\nAt the end of the worksheet, students can optionally learn to translate a hexadecimal code into a web address. Hexadecimals (hex) are a system for encoding information in computers. Search for a \u201chex to text converter.\u201d Translate the Task # on the front page to get a secret web link.\n\nThis is a fun \u201ctech-savviness/independence\u201d growth activity. Students are asked to dive into a complex topic (hexadecimal encoding/decoding of text) without much support. But it\u2019s actually not that hard. The goal is to encourage all students to not shut down when something sounds complicated and to learn how to think creatively and use the power of the web to their benefit.\n\nThey should do a web search for \u201chex to text converter\u201d\n\n1. The first hit is likely: http://www.unit-conversion.info/texttools/hexadecimal/, but almost any will work\n2. They have to type or cut and paste \u201c6269742e6c792f6770686935\u201d from the title page into the \u201cInput Data\u201d field\n3. Choose \u201cHex to Text\u201d to decode (the example converter defaults to encoding Text to Hex)\n4. You \u201cmagically\u201d get bit.ly/gphi5\n5. If the student then copies/types that web address into the address bar, it will result in:\n6. ![a cat gif](https://bit.ly/gphi5)",
+        "InitiallyExpanded": true
+      },
       "background": {
         "__component": "lesson-plan.collapsible-text-section",
         "SectionTitle": "Background",
@@ -3213,12 +3219,6 @@
           }
         ]
       },
-      "bonus": {
-        "__component": "lesson-plan.collapsible-text-section",
-        "SectionTitle": "Bonus Content",
-        "Content": "For students who finish early/ want to explore on their own at home, there is a code hidden in the lesson title. Decoding it will require them to gain new tech skills. It also gives them a glimpse at a huge realm of knowledge (binary and hexadecimal encoding of data), though they don\u2019t need to fully understand it to solve the problem.\n\nAt the end of the worksheet, students can optionally learn to translate a hexadecimal code into a web address. Hexadecimals (hex) are a system for encoding information in computers. Search for a \u201chex to text converter.\u201d Translate the Task # on the front page to get a secret web link.\n\nThis is a fun \u201ctech-savviness/independence\u201d growth activity. Students are asked to dive into a complex topic (hexadecimal encoding/decoding of text) without much support. But it\u2019s actually not that hard. The goal is to encourage all students to not shut down when something sounds complicated and to learn how to think creatively and use the power of the web to their benefit.\n\nThey should do a web search for \u201chex to text converter\u201d\n\n1. The first hit is likely: http://www.unit-conversion.info/texttools/hexadecimal/, but almost any will work\n2. They have to type or cut and paste \u201c6269742e6c792f6770686935\u201d from the title page into the \u201cInput Data\u201d field\n3. Choose \u201cHex to Text\u201d to decode (the example converter defaults to encoding Text to Hex)\n4. You \u201cmagically\u201d get bit.ly/gphi5\n5. If the student then copies/types that web address into the address bar, it will result in:\n6. ![a cat gif](https://bit.ly/gphi5)",
-        "InitiallyExpanded": true
-      },
       "feedback": {
         "__component": "lesson-plan.collapsible-text-section",
         "SectionTitle": "Feedback",
@@ -3415,7 +3415,7 @@
     "TemplateVer": "0.3.7",
     "galacticPubsVer": "0.9.4",
     "FirstPublicationDate": "2022-06-26 20:30:21",
-    "LastUpdated": "2022-09-13 09:31:33",
+    "LastUpdated": "2022-09-16 18:16:45",
     "URL": "https://galacticpolymath.com/lessons/4",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/CuriousMinds_dye/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/ColourfulSolns_en-NZ.git",
@@ -4069,6 +4069,12 @@
           ]
         }
       },
+      "extensions": {
+        "__component": "lesson-plan.collapsible-text-section",
+        "SectionTitle": "Extensions",
+        "Content": "- Have students read and discuss the scientific paper about dye technologies <AnchorLink href=\"#background\"> in the Background Section </AnchorLink>. This paper is co-authored by M\u0101ori weaving expert and conservator Rangi Te Kanawa, PhD.\n- Teach the [Black is Back](https://instructionalseries.tki.org.nz/Instructional-Series/Connected/Connected-2014-level-4-What-s-the-Evidence/Black-is-Back) lesson centred on Rangi\u2019s conservatory work restoring M\u0101ori garments that were dyed using a different technology.\n- Have students research the significance of the pepeha in M\u0101ori culture. They can create their own using this [great online tool](https://pepeha.nz/create-pepeha).\n- Ask students to research chemical engineering, process engineering, chemistry, and related careers to find out median salary, school requirements, etc. A great resource is the [NZ Careers Website](https://www.careers.govt.nz/jobs-database/engineering/engineering/chemical-engineer/).\n- Have students watch this video about [bioengineering dyes](https://www.youtube.com/watch?v=GIv25InZYig) and conduct independent research. For example, they could find a company developing sustainable dyes and make a presentation about why this company deserves investment, compared to others.\n- Have students research [Rangi Te Kanawa](https://en.wikipedia.org/wiki/Rangi_Te_Kanawa), her mother [Diggeress](https://en.wikipedia.org/wiki/Diggeress_Te_Kanawa), and grandmother [Rangim\u0101rie](https://en.wikipedia.org/wiki/Rangim%C4%81rie_Hetet), and to reflect on the significance of preserving indigenous technologies.",
+        "InitiallyExpanded": true
+      },
       "background": {
         "__component": "lesson-plan.collapsible-text-section",
         "SectionTitle": "Background",
@@ -4307,12 +4313,6 @@
           }
         ]
       },
-      "extensions": {
-        "__component": "lesson-plan.collapsible-text-section",
-        "SectionTitle": "Extensions",
-        "Content": "- Have students read and discuss the scientific paper about dye technologies <AnchorLink href=\"#background\"> in the Background Section </AnchorLink>. This paper is co-authored by M\u0101ori weaving expert and conservator Rangi Te Kanawa, PhD.\n- Teach the [Black is Back](https://instructionalseries.tki.org.nz/Instructional-Series/Connected/Connected-2014-level-4-What-s-the-Evidence/Black-is-Back) lesson centred on Rangi\u2019s conservatory work restoring M\u0101ori garments that were dyed using a different technology.\n- Have students research the significance of the pepeha in M\u0101ori culture. They can create their own using this [great online tool](https://pepeha.nz/create-pepeha).\n- Ask students to research chemical engineering, process engineering, chemistry, and related careers to find out median salary, school requirements, etc. A great resource is the [NZ Careers Website](https://www.careers.govt.nz/jobs-database/engineering/engineering/chemical-engineer/).\n- Have students watch this video about [bioengineering dyes](https://www.youtube.com/watch?v=GIv25InZYig) and conduct independent research. For example, they could find a company developing sustainable dyes and make a presentation about why this company deserves investment, compared to others.\n- Have students research [Rangi Te Kanawa](https://en.wikipedia.org/wiki/Rangi_Te_Kanawa), her mother [Diggeress](https://en.wikipedia.org/wiki/Diggeress_Te_Kanawa), and grandmother [Rangim\u0101rie](https://en.wikipedia.org/wiki/Rangim%C4%81rie_Hetet), and to reflect on the significance of preserving indigenous technologies.",
-        "InitiallyExpanded": true
-      },
       "feedback": {
         "__component": "lesson-plan.collapsible-text-section",
         "SectionTitle": "Feedback",
@@ -4426,7 +4426,7 @@
     "TemplateVer": "0.3.7",
     "galacticPubsVer": "0.9.4",
     "FirstPublicationDate": "2022-06-26 20:30:21",
-    "LastUpdated": "2022-09-13 09:31:31",
+    "LastUpdated": "2022-09-16 18:16:44",
     "URL": "https://galacticpolymath.com/lessons/4",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/ColorfulSolns_en-US.git",
@@ -5083,6 +5083,12 @@
           ]
         }
       },
+      "extensions": {
+        "__component": "lesson-plan.collapsible-text-section",
+        "SectionTitle": "Extensions",
+        "Content": "- Have students read and discuss the scientific paper about dye technologies <AnchorLink href=\"#background\"> in the Background Section </AnchorLink>. This paper is co-authored by M\u0101ori weaving expert and conservator Rangi Te Kanawa, PhD.\n- Teach the [Black is Back](https://instructionalseries.tki.org.nz/Instructional-Series/Connected/Connected-2014-level-4-What-s-the-Evidence/Black-is-Back) lesson centered on Rangi\u2019s conservatory work restoring M\u0101ori garments that were dyed using a different technology.\n- Have students research the significance of the pepeha in M\u0101ori culture. They can create their own using this [great online tool](https://pepeha.nz/create-pepeha).\n- Ask students to research chemical engineering, process engineering, chemistry, and related careers to find out median salary, school requirements, etc. A great resource is the [NZ Careers Website](https://www.careers.govt.nz/jobs-database/engineering/engineering/chemical-engineer/).\n- Have students watch this video about [bioengineering dyes](https://www.youtube.com/watch?v=GIv25InZYig) and conduct independent research. For example, they could find a company developing sustainable dyes and make a presentation about why this company deserves investment, compared to others.\n- Have students research [Rangi Te Kanawa](https://en.wikipedia.org/wiki/Rangi_Te_Kanawa), her mother [Diggeress](https://en.wikipedia.org/wiki/Diggeress_Te_Kanawa), and grandmother [Rangim\u0101rie](https://en.wikipedia.org/wiki/Rangim%C4%81rie_Hetet), and to reflect on the significance of preserving indigenous technologies.",
+        "InitiallyExpanded": true
+      },
       "background": {
         "__component": "lesson-plan.collapsible-text-section",
         "SectionTitle": "Background",
@@ -5507,12 +5513,6 @@
             ]
           }
         ]
-      },
-      "extensions": {
-        "__component": "lesson-plan.collapsible-text-section",
-        "SectionTitle": "Extensions",
-        "Content": "- Have students read and discuss the scientific paper about dye technologies <AnchorLink href=\"#background\"> in the Background Section </AnchorLink>. This paper is co-authored by M\u0101ori weaving expert and conservator Rangi Te Kanawa, PhD.\n- Teach the [Black is Back](https://instructionalseries.tki.org.nz/Instructional-Series/Connected/Connected-2014-level-4-What-s-the-Evidence/Black-is-Back) lesson centered on Rangi\u2019s conservatory work restoring M\u0101ori garments that were dyed using a different technology.\n- Have students research the significance of the pepeha in M\u0101ori culture. They can create their own using this [great online tool](https://pepeha.nz/create-pepeha).\n- Ask students to research chemical engineering, process engineering, chemistry, and related careers to find out median salary, school requirements, etc. A great resource is the [NZ Careers Website](https://www.careers.govt.nz/jobs-database/engineering/engineering/chemical-engineer/).\n- Have students watch this video about [bioengineering dyes](https://www.youtube.com/watch?v=GIv25InZYig) and conduct independent research. For example, they could find a company developing sustainable dyes and make a presentation about why this company deserves investment, compared to others.\n- Have students research [Rangi Te Kanawa](https://en.wikipedia.org/wiki/Rangi_Te_Kanawa), her mother [Diggeress](https://en.wikipedia.org/wiki/Diggeress_Te_Kanawa), and grandmother [Rangim\u0101rie](https://en.wikipedia.org/wiki/Rangim%C4%81rie_Hetet), and to reflect on the significance of preserving indigenous technologies.",
-        "InitiallyExpanded": true
       },
       "feedback": {
         "__component": "lesson-plan.collapsible-text-section",
