@@ -13,7 +13,7 @@
   "TemplateVer": "0.3.7",
   "galacticPubsVer": "0.9.4",
   "FirstPublicationDate": "2022-07-11 21:10:05",
-  "LastUpdated": "2022-09-16 18:17:39",
+  "LastUpdated": "2022-09-27 12:28:38",
   "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
@@ -40,14 +40,35 @@
   "Section": {
     "overview": {
       "__component": "lesson-plan.overview",
-      "EstLessonTime": null,
+      "EstLessonTime": "3 x 45 min classes",
       "GradesOrYears": "Grades",
       "ForGrades": "5-9",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n1. What makes humans and other animals perceive something as beautiful?\n2. How can we mathematically measure objects or images in ways that capture what a viewer would describe as “beautiful”?\n\n#### Essential Question(s):\nHow can science help deepen our understanding of the Arts, Humanities, and ourselves?",
+      "Text": "#### Driving Question(s):\n1. What makes humans and other animals perceive something as beautiful?\n2. How does the sensitivity of our eyes affect how we perceive and interact with the world?\n\n#### Essential Question(s):\nHow can science help deepen our understanding of the Arts, Humanities, and ourselves?\n#### Hook(s):\nWarm-up puzzles, fun student-driven experiments, and original artwork are woven into this data-centered lesson.\n#### Learning Summary:\nStudents will conduct experiments and analyze real scientific data as they **learn about themselves**. They'll learn how our eyes and brains interact to determine what we like and dislike, and apply this knowledge to fish research and the art of character design.",
       "Tags": [
         {
-          "Value": null
+          "Value": "animal behavior"
+        },
+        {
+          "Value": "the senses"
+        },
+        {
+          "Value": "vision"
+        },
+        {
+          "Value": "fish"
+        },
+        {
+          "Value": "art"
+        },
+        {
+          "Value": "histogram"
+        },
+        {
+          "Value": "boxplot"
+        },
+        {
+          "Value": "data literacy"
         }
       ],
       "SteamEpaulette": {
@@ -56,7 +77,7 @@
       "SteamEpaulette_vert": {
         "url": null
       },
-      "Description": null
+      "Description": "This lesson equips students with a simple framework for understanding how inputs from our senses are processed in the brain to determine what we like vs. dislike and how we behave. Though the lesson focuses on vision, the framework applies to all the senses. \n\nIn Part 1, students begin by ranking 10 images based on their arbitrary preferences. They then conduct an experiment (taking turns as a \"scientist\" and \"subject\") to try and understand **why** they ranked things the way they did. This is lesson both involves authentic, novel, science, but should also grow students' curiosity and understanding of their own decision-making.\n\nPart 2 builds on the framework introduced in Part 1 in the context of a real study (see #background) on fish. Students will analyze box plots (a type of graph similar to bar plots) to test whether female darters prefer a model fish painted a color that is most stimulating to the sensory cells in their eyes (i.e cones in their retinas). Students will reflect on how basic research on fish applies to humans.\n\nPart 3 perfectly blends art, math, and science by testing whether creatures that have proportions outside the range of humans makes them inherently creepy or cute. For this lesson, we created an original set of creature designs that have scaled dimensions which students will use to collect data and calculate proportions. They will then conclude whether having certain proportions (e.g. a large ratio of leg-to-torso-length) far above or below the range of humans makes a creature inherently creepy or cute.\n\nCollectively, this lesson should leave students with a nuanced understanding of how human (and other animal) brains process different sensory stimuli to affect preferences and behavior. It's a great starting-off point for deepening interest and engagement for independent projects."
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -129,10 +150,7 @@
               ]
             }
           ],
-          "gradeVariantNotes": {
-            "part": null,
-            "partGradeVarNotes": "Overall notes on content adaptions across different grade levels"
-          },
+          "gradeVariantNotes": null,
           "resources": [
             {
               "grades": "Grades 5-9",
@@ -144,8 +162,8 @@
               "parts": [
                 {
                   "part": 1,
-                  "title": "Part Title. Leave Cols A:D blank if there's just 1 part.",
-                  "preface": "Blurb of what this lesson teaches to go before Step 1.",
+                  "title": "**Why** Do I Like That?",
+                  "preface": "Can we use science to understand our preferences for the things we see?",
                   "itemList": [
                     {
                       "itemTitle": "Presentation",
@@ -158,6 +176,20 @@
                         {
                           "linkText": "Copy to My Google Drive",
                           "url": "https://docs.google.com/presentation/d/19uK-BGaMWPolWCmUh5pgm1xWrtL5qTrVOW6HIYNn28Y/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "STUDENT Worksheet (P1)",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1MZSBv64YjW1JeCAM39rE__Lz4XUJ8Kyw9YkfzS41jLc/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1MZSBv64YjW1JeCAM39rE__Lz4XUJ8Kyw9YkfzS41jLc/template/preview"
                         }
                       ]
                     },
@@ -190,6 +222,118 @@
                       ]
                     }
                   ]
+                },
+                {
+                  "part": 2,
+                  "title": "The Perception of Beauty",
+                  "preface": "Does sensitivity to certain colors predict mate choice in darters?",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/14JxFjagMmzK_J8YVLP29r9jzUFGoQkxBfVIJOLUStNg/present"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/presentation/d/14JxFjagMmzK_J8YVLP29r9jzUFGoQkxBfVIJOLUStNg/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "STUDENT Worksheet (P2)",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1bACTACQ6pqlX36kRnw89eWBJZMVuJbu2tHoPgYnk2Xw/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1bACTACQ6pqlX36kRnw89eWBJZMVuJbu2tHoPgYnk2Xw/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "TEACHER Worksheet (P2)",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1mq85AsTog7d3QCcqcy_xU7r-jlrjcRimC1oOG8TkF9Q/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1mq85AsTog7d3QCcqcy_xU7r-jlrjcRimC1oOG8TkF9Q/template/preview"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "part": 3,
+                  "title": "Creature Stats",
+                  "preface": "Can we use math to understand what makes a drawing creepy or cute?",
+                  "itemList": [
+                    {
+                      "itemTitle": "Presentation",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "Present Now",
+                          "url": "https://docs.google.com/presentation/d/1NqQLzki0Sk29fEyPFHzg2SxL9yvkr2gDjX0RIkhReLk/present"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/presentation/d/1NqQLzki0Sk29fEyPFHzg2SxL9yvkr2gDjX0RIkhReLk/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "STUDENT Worksheet (P3)",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/1LVJ6O0VuCGg4H-KGK0OdKlyy1ZMop6zv-59jHL8CQ64/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/1LVJ6O0VuCGg4H-KGK0OdKlyy1ZMop6zv-59jHL8CQ64/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "TEACHER Worksheet (P3)",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/document/d/15hLhB4OU-DV1vEsJjOrXBcb5smhceC3ssGyOHKPO4B0/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://docs.google.com/document/d/15hLhB4OU-DV1vEsJjOrXBcb5smhceC3ssGyOHKPO4B0/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Worksheet (P3)",
+                      "itemCat": null,
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://drive.google.com/file/d/1578pmIB8HS0n2XTgOI-fIPN_-LL4p1FR/"
+                        },
+                        {
+                          "linkText": "Copy to My Google Drive",
+                          "url": "https://drive.google.com/file/d/1578pmIB8HS0n2XTgOI-fIPN_-LL4p1FR/"
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -197,53 +341,140 @@
         }
       }
     },
+    "procedure": {
+      "__component": "lesson-plan.procedure",
+      "SectionTitle": "Procedure",
+      "Data": {
+        "lessonDur": "2 x 45 min",
+        "parts": [
+          {
+            "partNum": 1,
+            "partTitle": "**Why** Do I Like That?",
+            "partDur": 45,
+            "partPreface": "Can we use science to understand our preferences for the things we see?",
+            "chunks": [
+              {
+                "chunkTitle": "******\nWrite Over/Delete all example text in A2:K:4 \n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",
+                "chunkStart": 0,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "******\nBe sure to refer to notes in each column header\n******\nStep 1 Title. Need 1 per Step.",
+                    "StepQuickDescription": "Step 1 description. This is also used as the steps in the Teach it in 15 Quick Prep presentation.",
+                    "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab of teaching-materials.xlsx with Order=1, simply add [▶'How our eyes and brains interact to determine what we like and dislike'](NA) anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
+                    "Vocab": "- **Vocabulary introduced for this step. Use shorthand format, which will be converted to a nice bulleted list. Entries are separated by a newline (return), which you make with Alt+Enter. Format:** \n- **Term1:** definition 1\n- **Term2:**   definition 2\n- **Term3:**  definition 3",
+                    "VariantNotes": "Notes about either classroom or remote differences or grade level differences.",
+                    "TeachingTips": "Teaching Tips"
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": "Step 2 Title. Need 1 per Step.",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "More Detailed description",
+                    "Vocab": "- **TermX:** definitionX",
+                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Chunk 2 Title",
+                "chunkStart": 15,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "Step 3 Title. Need 1 per Step.",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "More Detailed description",
+                    "Vocab": "- **TermX:** definitionX",
+                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                  },
+                  {
+                    "Step": 4,
+                    "StepTitle": "Step 4 Title",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "More Detailed description",
+                    "Vocab": "- **TermX:** definitionX",
+                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "partNum": 2,
+            "partTitle": "The Perception of Beauty",
+            "partDur": 45,
+            "partPreface": "Does sensitivity to certain colors predict mate choice in darters?",
+            "chunks": [
+              {
+                "chunkTitle": "Chunk 1 Title",
+                "chunkStart": 0,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Step 1 Title",
+                    "StepQuickDescription": "Concise Description",
+                    "StepDetails": "More Detailed description",
+                    "Vocab": "- **TermX:** definitionX",
+                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
+                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Chunk 2 Title",
+                "chunkStart": 15,
+                "chunkDur": 30,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Step 2 Title",
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "partNum": 3,
+            "partTitle": "Creature Stats",
+            "partDur": null,
+            "partPreface": "Can we use math to understand what makes a drawing creepy or cute?",
+            "chunks": []
+          }
+        ]
+      }
+    },
+    "credits": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Credits",
+      "Content": "#### Lesson Authors:\n- [Matt Wilkins, PhD](https://www.mattwilkinsbio.com)\n- [Madelyn Leembruggen](http://scholar.harvard.edu/madelynleembruggen)\n- [Letimicia Fears, PhD](https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/)\n\n#### Animation and Storyboarding\n- [Aarati Asundi, PhD](https://www.sykommer.com/about-us)\n\n#### Education Consultant:\n[Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/)\n\n#### Sponsor and Producer\n[Tamra Mendelson, PhD](https://www.mendelsonlab.net/)\n\nPlease [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!",
+      "InitiallyExpanded": true
+    },
     "acknowledgments": {
       "__component": "lesson-plan.acknowledgments",
       "SectionTitle": "Acknowledgments",
       "Data": [
         {
-          "role": "Beta Testers",
-          "def": "(Teachers who trialed earlier versions of the lesson with their children or students)",
+          "role": "Featured in Video",
+          "def": "(Explained her research in our video: [\"How do we know what a fish likes?\"](https://www.youtube.com/watch?v=PGmPIHPX9eQ))",
           "records": [
             {
-              "name": "Name1",
-              "url": "URL1",
-              "title": "Title1",
-              "affiliation": "Affiliation1",
-              "location": "Location1"
-            },
-            {
-              "name": "Name2",
-              "url": "URL2",
-              "title": "Title2",
-              "affiliation": "Affiliation2",
-              "location": "Location2"
-            }
-          ]
-        },
-        {
-          "role": "Peer Reviewers",
-          "def": "(Instructional and subject experts who provided input or validation on content accuracy)",
-          "records": [
-            {
-              "name": "Name3",
-              "url": "URL3",
-              "title": "Title3",
-              "affiliation": "Affiliation3",
-              "location": "Location3"
-            }
-          ]
-        },
-        {
-          "role": "Other Role",
-          "def": "(Other Def)",
-          "records": [
-            {
-              "name": "Name4",
-              "url": "URL4",
-              "title": "Title4",
-              "affiliation": "Affiliation4",
-              "location": "Location4"
+              "name": "Tory Williams, PhD",
+              "url": "https://education.umbc.edu/tory-h-williams/",
+              "title": "Research Associate",
+              "affiliation": "Department of Education",
+              "location": "University of Maryland, Baltimore County"
             }
           ]
         }
