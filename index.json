@@ -3847,7 +3847,7 @@
     "TemplateVer": "0.3.7",
     "galacticPubsVer": "0.9.4",
     "FirstPublicationDate": "2022-07-11 21:10:05",
-    "LastUpdated": "2022-09-27 12:28:38",
+    "LastUpdated": "2022-09-27 12:56:41",
     "URL": "https://galacticpolymath.com/lessons/5",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
@@ -3996,8 +3996,8 @@
                 "parts": [
                   {
                     "part": 1,
-                    "title": "**Why** Do I Like That?",
-                    "preface": "Can we use science to understand our preferences for the things we see?",
+                    "title": "Why Do I Like That?",
+                    "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand **why** they preferred some images over others. ",
                     "itemList": [
                       {
                         "itemTitle": "Presentation",
@@ -4060,7 +4060,7 @@
                   {
                     "part": 2,
                     "title": "The Perception of Beauty",
-                    "preface": "Does sensitivity to certain colors predict mate choice in darters?",
+                    "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
                     "itemList": [
                       {
                         "itemTitle": "Presentation",
@@ -4109,7 +4109,7 @@
                   {
                     "part": 3,
                     "title": "Creature Stats",
-                    "preface": "Can we use math to understand what makes a drawing creepy or cute?",
+                    "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
                     "itemList": [
                       {
                         "itemTitle": "Presentation",
@@ -4179,13 +4179,13 @@
         "__component": "lesson-plan.procedure",
         "SectionTitle": "Procedure",
         "Data": {
-          "lessonDur": "2 x 45 min",
+          "lessonDur": "3 x 45 min",
           "parts": [
             {
               "partNum": 1,
-              "partTitle": "**Why** Do I Like That?",
+              "partTitle": "Why Do I Like That?",
               "partDur": 45,
-              "partPreface": "Can we use science to understand our preferences for the things we see?",
+              "partPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand **why** they preferred some images over others. ",
               "chunks": [
                 {
                   "chunkTitle": "******\nWrite Over/Delete all example text in A2:K:4 \n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",
@@ -4243,7 +4243,7 @@
               "partNum": 2,
               "partTitle": "The Perception of Beauty",
               "partDur": 45,
-              "partPreface": "Does sensitivity to certain colors predict mate choice in darters?",
+              "partPreface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
               "chunks": [
                 {
                   "chunkTitle": "Chunk 1 Title",
@@ -4282,8 +4282,8 @@
             {
               "partNum": 3,
               "partTitle": "Creature Stats",
-              "partDur": null,
-              "partPreface": "Can we use math to understand what makes a drawing creepy or cute?",
+              "partDur": 45,
+              "partPreface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
               "chunks": []
             }
           ]
