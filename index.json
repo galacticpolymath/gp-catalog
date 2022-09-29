@@ -1689,7 +1689,7 @@
     "TemplateVer": "0.3.7",
     "galacticPubsVer": "0.9.4",
     "FirstPublicationDate": "2022-06-26 20:30:21",
-    "LastUpdated": "2022-09-16 18:16:44",
+    "LastUpdated": "2022-09-29 14:59:38",
     "URL": "https://galacticpolymath.com/lessons/4",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ColorfulSolns_en-US/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/ColorfulSolns_en-US.git",
@@ -3847,7 +3847,7 @@
     "TemplateVer": "0.3.7",
     "galacticPubsVer": "0.9.4",
     "FirstPublicationDate": "2022-07-11 21:10:05",
-    "LastUpdated": "2022-09-27 12:56:41",
+    "LastUpdated": "2022-09-29 14:59:44",
     "URL": "https://galacticpolymath.com/lessons/5",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
@@ -3921,13 +3921,41 @@
           {
             "order": 1,
             "type": "video",
-            "title": "How our eyes and brains interact to determine what we like and dislike",
+            "title": "I Like That! How our eyes and brains interact to determine what we like and dislike",
             "description": "This video explores how things we see (visual stimuli) affect emotional states and interact with our memories and higher order thinking (cognition) to produce preferences and behavior. This basic framework is adapted from human and animal behavior research. We use this framework throughout the middle school-targeted lesson below. In the lesson, students perform an experiment to understand their own preferences and dive into research on fish, exploring how sensitivity to different frequencies of light affects mate preferences. We dive into this topic in detail in our second video supporting this lesson.",
-            "lessonRelevance": "A fascinating dive into how animals and humans experience the world. Intuitive examples lay out a framework for understanding how visual perception, cognition, and emotion interact to determine our preferences.",
+            "lessonRelevance": "This video sets up key vocabulary and concepts we will use throughout this lesson. It sets up activities that will have students trying to understand how emotion, memory, and higher-order connections explain their own preferences for certain images.",
             "by": "Galactic Polymath",
             "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
             "keywords": null,
-            "mainLink": null,
+            "mainLink": "https://www.youtube.com/embed/mw8OoXGIsj8",
+            "vimeoLink": null,
+            "filename": null,
+            "otherLink": null
+          },
+          {
+            "order": 2,
+            "type": "video",
+            "title": "How do we know what a fish likes? (And can we predict it?)",
+            "description": null,
+            "lessonRelevance": "Supports Part 2 activities analyzing real scientific data to follow in the footsteps of Drs. Tamra Mendelson and Tory Williams. Explains basics of how color vision works, contrasted against freshwater fish called darters which are used in the research covered here.",
+            "by": "Galactic Polymath",
+            "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+            "keywords": null,
+            "mainLink": "https://www.youtube.com/embed/PGmPIHPX9eQ",
+            "vimeoLink": null,
+            "filename": null,
+            "otherLink": null
+          },
+          {
+            "order": 3,
+            "type": "pdf",
+            "title": "Creature Stats Character Sheets",
+            "description": null,
+            "lessonRelevance": "In Part 3, students apply what they've learned about visual processing in the brain to artworks. They will use these original character sheet designs to calculate proportions and test whether being outside the range of human variation makes a character inherently creepy or cute.",
+            "by": "Galactic Polymath",
+            "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+            "keywords": null,
+            "mainLink": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/P3_CreatureStats_Character Sheets_handout.pdf",
             "vimeoLink": null,
             "filename": null,
             "otherLink": null
@@ -3997,7 +4025,7 @@
                   {
                     "part": 1,
                     "title": "Why Do I Like That?",
-                    "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand **why** they preferred some images over others. ",
+                    "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others. ",
                     "itemList": [
                       {
                         "itemTitle": "Presentation",
@@ -4042,7 +4070,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "(P1)",
+                        "itemTitle": "Image Handout for Student Experiment (P1)",
                         "itemCat": null,
                         "links": [
                           {
@@ -4154,7 +4182,7 @@
                         ]
                       },
                       {
-                        "itemTitle": "Worksheet (P3)",
+                        "itemTitle": "Creature Stats Character Sheets Handout (P3)",
                         "itemCat": null,
                         "links": [
                           {
@@ -4185,7 +4213,7 @@
               "partNum": 1,
               "partTitle": "Why Do I Like That?",
               "partDur": 45,
-              "partPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand **why** they preferred some images over others. ",
+              "partPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others. ",
               "chunks": [
                 {
                   "chunkTitle": "******\nWrite Over/Delete all example text in A2:K:4 \n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",
@@ -4196,7 +4224,7 @@
                       "Step": 1,
                       "StepTitle": "******\nBe sure to refer to notes in each column header\n******\nStep 1 Title. Need 1 per Step.",
                       "StepQuickDescription": "Step 1 description. This is also used as the steps in the Teach it in 15 Quick Prep presentation.",
-                      "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab of teaching-materials.xlsx with Order=1, simply add [\u25b6'How our eyes and brains interact to determine what we like and dislike'](NA) anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
+                      "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab of teaching-materials.xlsx with Order=1, simply add [\u25b6'I Like That! How our eyes and brains interact to determine what we like and dislike'](https://www.youtube.com/watch?v=mw8OoXGIsj8) anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
                       "Vocab": "- **Vocabulary introduced for this step. Use shorthand format, which will be converted to a nice bulleted list. Entries are separated by a newline (return), which you make with Alt+Enter. Format:** \n- **Term1:** definition 1\n- **Term2:**   definition 2\n- **Term3:**  definition 3",
                       "VariantNotes": "Notes about either classroom or remote differences or grade level differences.",
                       "TeachingTips": "Teaching Tips"
@@ -4292,7 +4320,7 @@
       "credits": {
         "__component": "lesson-plan.collapsible-text-section",
         "SectionTitle": "Credits",
-        "Content": "#### Lesson Authors:\n- [Matt Wilkins, PhD](https://www.mattwilkinsbio.com)\n- [Madelyn Leembruggen](http://scholar.harvard.edu/madelynleembruggen)\n- [Letimicia Fears, PhD](https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/)\n\n#### Animation and Storyboarding\n- [Aarati Asundi, PhD](https://www.sykommer.com/about-us)\n\n#### Education Consultant:\n[Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/)\n\n#### Sponsor and Producer\n[Tamra Mendelson, PhD](https://www.mendelsonlab.net/)\n\nPlease [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what\u2019s coming up next!",
+        "Content": "#### Lesson Authors:\n- [Matt Wilkins, PhD](https://www.mattwilkinsbio.com)\n- [Madelyn Leembruggen](http://scholar.harvard.edu/madelynleembruggen)\n- [Letimicia Fears, PhD](http://instagram.com/Letimistry101)\n\n#### Animation and Storyboarding\n- [Aarati Asundi, PhD](https://www.sykommer.com/about-us)\n\n#### Education Consultant:\n[Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/)\n\n#### Sponsor and Producer\n[Tamra Mendelson, PhD](https://www.mendelsonlab.net/)\n\nPlease [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what\u2019s coming up next!",
         "InitiallyExpanded": true
       },
       "acknowledgments": {
