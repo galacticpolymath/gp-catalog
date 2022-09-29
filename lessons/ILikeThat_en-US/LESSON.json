@@ -13,7 +13,7 @@
   "TemplateVer": "0.3.7",
   "galacticPubsVer": "0.9.4",
   "FirstPublicationDate": "2022-07-11 21:10:05",
-  "LastUpdated": "2022-09-29 15:24:09",
+  "LastUpdated": "2022-09-29 17:01:16",
   "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
@@ -121,7 +121,7 @@
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": null,
-          "mainLink": "{P3_CreatureStats_Character Sheets_handout.pdf}",
+          "mainLink": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/P3_CreatureStats_Character Sheets_handout.pdf",
           "vimeoLink": null,
           "filename": null,
           "otherLink": null
