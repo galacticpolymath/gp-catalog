@@ -1,6 +1,6 @@
 {
   "id": 5,
-  "UniqueID": null,
+  "UniqueID": "lesson_4_locale_1",
   "ShortTitle": "ILikeThat",
   "Language": "English",
   "Country": "United States",
@@ -13,12 +13,12 @@
   "TemplateVer": "0.3.8",
   "galacticPubsVer": "0.9.4",
   "FirstPublicationDate": "2022-07-11 21:10:05",
-  "LastUpdated": "2022-09-30 12:12:36",
+  "LastUpdated": "2022-09-30 12:19:28",
   "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
   "PublicationStatus": "Draft",
-  "RebuildAllMaterials": false,
+  "RebuildAllMaterials": true,
   "ReleaseDate": "2022-10-31",
   "Title": "I Like That!",
   "Subtitle": "How perception, emotion, and cognition shape our preferences",
@@ -77,7 +77,7 @@
       "SteamEpaulette_vert": {
         "url": null
       },
-      "Description": "This lesson equips students with a simple framework for understanding how inputs from our senses are processed in the brain to determine what we like vs. dislike and how we behave. Though the lesson focuses on vision, the framework applies to all the senses. \n\nIn Part 1, students begin by ranking 10 images based on their arbitrary preferences. They then conduct an experiment (taking turns as a \"scientist\" and \"subject\") to try and understand **why** they ranked things the way they did. This is lesson both involves authentic, novel, science, but should also grow students' curiosity and understanding of their own decision-making.\n\nPart 2 builds on the framework introduced in Part 1 in the context of a real study (see #background) on fish. Students will analyze box plots (a type of graph similar to bar plots) to test whether female darters prefer a model fish painted a color that is most stimulating to the sensory cells in their eyes (i.e cones in their retinas). Students will reflect on how basic research on fish applies to humans.\n\nPart 3 perfectly blends art, math, and science by testing whether creatures that have proportions outside the range of humans makes them inherently creepy or cute. For this lesson, we created an original set of creature designs that have scaled dimensions which students will use to collect data and calculate proportions. They will then conclude whether having certain proportions (e.g. a large ratio of leg-to-torso-length) far above or below the range of humans makes a creature inherently creepy or cute.\n\nCollectively, this lesson should leave students with a nuanced understanding of how human (and other animal) brains process different sensory stimuli to affect preferences and behavior. It's a great starting-off point for deepening interest and engagement for independent projects."
+      "Description": "This lesson equips students with a simple framework for understanding how inputs from our senses are processed in the brain to determine what we like vs. dislike and how we behave. Though the lesson focuses on vision, the framework applies to all the senses. \n\nIn Part 1, students begin by ranking 10 images based on their arbitrary preferences. They then conduct an experiment (taking turns as a \"scientist\" and \"subject\") to try and understand *why* they ranked things the way they did. This is lesson both involves authentic, novel, science, but should also grow students' curiosity and understanding of their own decision-making.\n\nPart 2 builds on the framework introduced in Part 1 in the context of a real study <AnchorLink href=\"#background\"> see Background <\/AnchorLink> on fish. Students will analyze box plots (a type of graph similar to bar plots) to test whether female darters prefer a model fish painted a color that is most stimulating to the sensory cells in their eyes (i.e cones in their retinas). Students will reflect on how basic research on fish applies to humans.\n\nPart 3 perfectly blends art, math, and science by testing whether creatures that have proportions outside the range of humans makes them inherently creepy or cute. For this lesson, we created an original set of creature designs that have scaled dimensions which students will use to collect data and calculate proportions. They will then conclude whether having certain proportions (e.g. a large ratio of leg-to-torso-length) far above or below the range of humans makes a creature inherently creepy or cute.\n\nCollectively, this lesson should leave students with a nuanced understanding of how human (and other animal) brains process different sensory stimuli to affect preferences and behavior. It's a great starting-off point for deepening interest and engagement for independent projects."
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -115,6 +115,34 @@
         {
           "order": 3,
           "type": "video",
+          "title": "How we see color - Colm Kelleher",
+          "description": " ",
+          "lessonRelevance": "For Part 2, this video gives a nice explanation of what color is: different wavelengths of light reflected from objects and detected by our eyes and brain.",
+          "by": "TedEd",
+          "byLink": "https://www.youtube.com/teded",
+          "keywords": null,
+          "mainLink": "https://www.youtube.com/embed/l8_fZPHasdo",
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
+        },
+        {
+          "order": 4,
+          "type": "video",
+          "title": "The Science of Color Perception",
+          "description": " ",
+          "lessonRelevance": "For Part 2, this neat video adds a bit more detail about color perception. (Only a short clip is embedded in presentation 2). We carried the \"cones\" characters into our original video (next in the playlist).",
+          "by": "Calder Ruhl Hansen",
+          "byLink": "https://www.youtube.com/c/CalderRuhlHansen",
+          "keywords": null,
+          "mainLink": "https://www.youtube.com/embed/poL7nDmqjmk",
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
+        },
+        {
+          "order": 5,
+          "type": "video",
           "title": "How do we know what a fish likes? (And can we predict it?)",
           "description": " ",
           "lessonRelevance": "Supports Part 2 activities analyzing real scientific data to follow in the footsteps of Drs. Tamra Mendelson and Tory Williams. Explains basics of how color vision works, contrasted against freshwater fish called darters which are used in the research covered here.",
@@ -127,7 +155,7 @@
           "otherLink": null
         },
         {
-          "order": 4,
+          "order": 6,
           "type": "pdf",
           "title": "Creature Stats Character Sheets",
           "description": " ",
@@ -136,6 +164,20 @@
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": null,
           "mainLink": "https://drive.google.com/file/d/1578pmIB8HS0n2XTgOI-fIPN_-LL4p1FR/preview",
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
+        },
+        {
+          "order": 7,
+          "type": "video",
+          "title": "Darter facts: the colorful little fish | Animal Fact Files",
+          "description": null,
+          "lessonRelevance": "More Details on Darters (for Part 2). Supplement–not included in any lesson materials.",
+          "by": "Animal Fact Files",
+          "byLink": "https://www.youtube.com/c/AnimalFactFiles",
+          "keywords": null,
+          "mainLink": "https://www.youtube.com/embed/JnD1d4pIxO4",
           "vimeoLink": null,
           "filename": null,
           "otherLink": null
@@ -500,13 +542,13 @@
     "extensions": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Extensions",
-      "Content": "- Have your students read the scientific paper that Part 2 is based around (<AnchorLink href=\"#background\"> see Background <\/AnchorLink>), and have them grapple with how the version they experienced in class compares to the complexity of the paper. The goal could be to have them try to extract as much meaning from the paper as possible, while not becoming too frustrated.",
+      "Content": "- Have your students read the scientific paper that Part 2 is based around (<AnchorLink href=\"#background\"> see Background <\/AnchorLink>), and have them grapple with how the version they experienced in class compares to the complexity of the paper. The goal could be to have them try to extract as much meaning from the paper as possible, while not becoming too frustrated.\n- Have students do independent research on how our sensory sensitivities can bias our decision making. Here are some readings for inspiration:\n  - [*Yale News* | With hot coffee, we see a warm heart, Yale researchers find](https://news.yale.edu/2008/10/23/hot-coffee-we-see-warm-heart-yale-researchers-find)\n  - [*Neuroscience News* | Pitch of Candidate’s Voice Can Influence Election Outcomes](https://neurosciencenews.com/political-psychology-vocal-tone-2398/)",
       "InitiallyExpanded": true
     },
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n In this three-part lesson, students will follow in the footsteps of scientists (analyzing real, published data), but also conduct their own novel experiments. Overall, our hope is that students will recognize that science is relevant to their daily lives, and that data and meaning can be extracted from any facet of our lives. \n#### Research Background\n In the lesson ",
+      "Content": "#### Connection to Research\n In this three-part lesson, students will follow in the footsteps of scientists (analyzing real, published data), but also conduct their own novel experiments. Overall, our hope is that students will recognize that science and data everywhere and give us insight into ourselves. \n#### Research Background\n Parts 1 and 3, students will run their own experiments, testing novel hypotheses related to their own preferences. For these activities, we developed a conceptual framework that is woven into all lesson parts. This framework is explained in our video [▶'I Like That! How our eyes and brains interact to determine what we like and dislike'](https://www.youtube.com/watch?v=mw8OoXGIsj8). We want students to understand in general terms how our brains perceive things detected by our senses, and then incorporate prior experience and emotional responses to form preferences that affect their behavior. This is based on research in humans and other animals. Though human \"emotions\" can be very complex, many animals from primates to bees show a range of positive <-> negative responses to stimuli that can be interpreted as emotions. If students are interested in learning more, here are some excellent scientific articles targeted at young readers:\n- [*Frontiers for Young Minds* | Animal Emotions–Do Animals Feel as We Do?](https://kids.frontiersin.org/articles/10.3389/frym.2021.622811)\n- [*Frontiers for Young Minds* | Your Smile Caught My Eye: Why Do Emotional Things Catch and Hold Our Attention?](https://kids.frontiersin.org/articles/10.3389/frym.2022.781748)\n\nIn Part 2, students will learn about how our eyes detect and process different colors (i.e. different wavelengths of light). They learn key background from [ERROR: CHECK *{vid2}* REFERENCE. NO LINK FOUND]() and [▶'How we see color - Colm Kelleher'](https://www.youtube.com/watch?v=l8_fZPHasdo). In our original video: [▶'The Science of Color Perception'](https://www.youtube.com/watch?v=poL7nDmqjmk), Drs. Tamra Mendelson and Tory Williams talk about their work on darters, a fascinating and beautiful group of fish native to North America (see supplementary vid: [▶'Darter facts: the colorful little fish | Animal Fact Files'](https://www.youtube.com/watch?v=JnD1d4pIxO4). \n\nIn the scientific study students will learn about, the Drs. Williams and Mendelson tested whether female darters were most attracted to colors that were most stimulating to their eyes' sensory cells (i.e. cones found in the retina). Students will follow in the researchers' footsteps, first making predictions and then analyzing their authentic data. The video and presentation will guide students through interpreting graphs of sensitivity curves to make their predictions. \n\nBasically, there were two models of male fish used to test female preferences. They were colored \"red\" and \"orange\" to mimic extremes of natural variation. Looking at the graph below, the place where the 2 sensitivity curves overlap is the light wavelength that should be most stimulating to females' eyes. That is, light that has a wavelength of about 550nm should maximize activation of both the medium and long wavelength cone cells in the retina. The question is: do females prefer a model with an average reflectance closest to this wavelength? \n\n![Sensitivity curves for darters. A dashed line shows medium wavelength cone sensitivity, peaking around 580nm, while a solid line shows long wavelength cone sensitivity peaking around 580nm. The curves overlap at 550nm. Arrows point to orange model fish, showing the peak reflectances of the orange model fish at 570nm and the red model at 584 nm](https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/darter_vis_sensitivity_curve.png)\n\nThe video and presentation guide students through interpreting this graph—to predict that females should prefer the orange model. Our video explains the experimental setup, but here it is briefly: Individual wild-caught females were put in the middle of a tank which had two tanks on either side of it. Model fish simulating extremes of natural variation in male colors were placed on either side of the female tank. An observer recorded what proportion of time females spent associating with the \"red\" versus the \"orange\" male model. Students will observe the patterns in the data and determine that females had a strong preference for the orange model. They will then draw conclusions about why this research matters more broadly and hopefully begin to wonder--how are our daily decisions affected by our sensitivity to different stimuli? This could be a great jumping-off point for independent research/PBLs. <AnchorLink href=\"#extensions\"> See Extensions <\/AnchorLink>\n\n![Cover of journal article](https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/paper.png)\n[Link to Journal Article](https://academic.oup.com/beheco/article/24/6/1407/190166)\n",
       "InitiallyExpanded": true
     },
     "feedback": {
@@ -540,7 +582,7 @@
         },
         {
           "role": "Featured Scientist",
-          "def": "(Explained her research in [▶'I Like That! How our eyes and brains interact to determine what we like and dislike'](https://www.youtube.com/watch?v=mw8OoXGIsj8))",
+          "def": "(In {vid5})",
           "records": [
             {
               "name": "Tory Williams, PhD",
