@@ -10,10 +10,10 @@
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.3.7",
+  "TemplateVer": "0.3.8",
   "galacticPubsVer": "0.9.4",
   "FirstPublicationDate": "2022-07-11 21:10:05",
-  "LastUpdated": "2022-09-29 17:01:16",
+  "LastUpdated": "2022-09-30 09:53:28",
   "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
@@ -100,9 +100,23 @@
         },
         {
           "order": 2,
+          "type": "pdf",
+          "title": "Images for Part 1 Experiment",
+          "description": " ",
+          "lessonRelevance": "Students will rank these images based on their arbitrary preferences. They will then conduct an experiment to try to understand why they ranked things as they did.",
+          "by": "Galactic Polymath",
+          "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
+          "keywords": null,
+          "mainLink": "https://docs.google.com/presentation/d/1b5pBKdYlMukFkCQjwposyRHdL3QMrq3-tgskbRXGkgo/present",
+          "vimeoLink": null,
+          "filename": null,
+          "otherLink": null
+        },
+        {
+          "order": 3,
           "type": "video",
           "title": "How do we know what a fish likes? (And can we predict it?)",
-          "description": null,
+          "description": " ",
           "lessonRelevance": "Supports Part 2 activities analyzing real scientific data to follow in the footsteps of Drs. Tamra Mendelson and Tory Williams. Explains basics of how color vision works, contrasted against freshwater fish called darters which are used in the research covered here.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
@@ -113,15 +127,15 @@
           "otherLink": null
         },
         {
-          "order": 3,
+          "order": 4,
           "type": "pdf",
           "title": "Creature Stats Character Sheets",
-          "description": null,
+          "description": " ",
           "lessonRelevance": "In Part 3, students apply what they've learned about visual processing in the brain to artworks. They will use these original character sheet designs to calculate proportions and test whether being outside the range of human variation makes a character inherently creepy or cute.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
           "keywords": null,
-          "mainLink": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/P3_CreatureStats_Character Sheets_handout.pdf",
+          "mainLink": "https://drive.google.com/file/d/1578pmIB8HS0n2XTgOI-fIPN_-LL4p1FR/preview",
           "vimeoLink": null,
           "filename": null,
           "otherLink": null
@@ -483,10 +497,28 @@
         ]
       }
     },
+    "extensions": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Extensions",
+      "Content": "- Have your students read the scientific paper that Part 2 is based around (<AnchorLink href=\"#background\"> see Background <\/AnchorLink>), and have them grapple with how the version they experienced in class compares to the complexity of the paper. The goal could be to have them try to extract as much meaning from the paper as possible, while not becoming too frustrated.",
+      "InitiallyExpanded": true
+    },
+    "background": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Background",
+      "Content": "#### Connection to Research\n In this three-part lesson, students will follow in the footsteps of scientists (analyzing real, published data), but also conduct their own novel experiments. Overall, our hope is that students will recognize that science is relevant to their daily lives, and that data and meaning can be extracted from any facet of our lives. \n#### Research Background\n In the lesson ",
+      "InitiallyExpanded": true
+    },
+    "feedback": {
+      "__component": "lesson-plan.collapsible-text-section",
+      "SectionTitle": "Feedback",
+      "Content": "### Please let us know how it went with your class! \n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)\n- [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)\n",
+      "InitiallyExpanded": true
+    },
     "credits": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Credits",
-      "Content": "#### Lesson Authors:\n- [Matt Wilkins, PhD](https://www.mattwilkinsbio.com)\n- [Madelyn Leembruggen](http://scholar.harvard.edu/madelynleembruggen)\n- [Letimicia Fears, PhD](http://instagram.com/Letimistry101)\n\n#### Animation and Storyboarding\n- [Aarati Asundi, PhD](https://www.sykommer.com/about-us)\n\n#### Education Consultant:\n[Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/)\n\n#### Sponsor and Producer\n[Tamra Mendelson, PhD](https://www.mendelsonlab.net/)\n\nPlease [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!",
+      "Content": "#### Lesson Authors:\n- [Matt Wilkins, PhD](https://www.mattwilkinsbio.com)\n- [Madelyn Leembruggen](http://scholar.harvard.edu/madelynleembruggen)\n- [Letimicia Fears, PhD](http://instagram.com/Letimistry101)\n\n#### Animation and Storyboarding\n[Aarati Asundi, PhD](https://www.sykommer.com/about-us)\n\n#### Education Consultant:\n[Sarah Grasty, MS](https://www.linkedin.com/in/sarah-grasty-988676b0/)\n\n#### Sponsor and Producer\n[Tamra Mendelson, PhD](https://www.mendelsonlab.net/)\n\nPlease [sign up for our mailing list](https://galacticpolymath.us8.list-manage.com/subscribe?u=42413c3d307f9b69fd5d5319e&id=33924ebd91) to hear what’s coming up next!",
       "InitiallyExpanded": true
     },
     "acknowledgments": {
@@ -494,8 +526,21 @@
       "SectionTitle": "Acknowledgments",
       "Data": [
         {
-          "role": "Featured in Video",
-          "def": "(Explained her research in our video: [\"How do we know what a fish likes?\"](https://www.youtube.com/watch?v=PGmPIHPX9eQ))",
+          "role": "Scientific Advisory",
+          "def": "(Helped devise conceptual framework & lesson structure)",
+          "records": [
+            {
+              "name": "Julien Renoult, PhD",
+              "url": "https://www.eevcom-montpellier.com/julien-renoult.html",
+              "title": "Tenure CNRS Research Scientist",
+              "affiliation": null,
+              "location": "Center for Evolutionary & Functional Ecology, Montpellier, France"
+            }
+          ]
+        },
+        {
+          "role": "Featured Scientist",
+          "def": "(Explained her research in [▶'I Like That! How our eyes and brains interact to determine what we like and dislike'](https://www.youtube.com/watch?v=mw8OoXGIsj8))",
           "records": [
             {
               "name": "Tory Williams, PhD",
@@ -503,6 +548,19 @@
               "title": "Research Associate",
               "affiliation": "Department of Education",
               "location": "University of Maryland, Baltimore County"
+            }
+          ]
+        },
+        {
+          "role": "Data Provider",
+          "def": "(For Part 2: The Perception of Beauty)",
+          "records": [
+            {
+              "name": "Jenny Gumm, PHD",
+              "url": "https://www.gummlab.org/",
+              "title": "Fish Biologist & Facility Manager,",
+              "affiliation": null,
+              "location": "Ash Meadows Fish Conservation Facility"
             }
           ]
         }
@@ -517,15 +575,8 @@
           "sub_releases": [
             {
               "version": "0.1.0",
-              "date": null,
-              "summary": "Initial lesson build. ",
-              "notes": "This is intended to be taught in a single day. Includes both classroom and a remote version with Nearpod.",
-              "acknowledgments": null
-            },
-            {
-              "version": "0.1.1",
-              "date": null,
-              "summary": "Minor update to assets and styling.",
+              "date": "Sep 29, 2022",
+              "summary": "Initial lesson build!",
               "notes": null,
               "acknowledgments": null
             }
