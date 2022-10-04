@@ -13,7 +13,7 @@
   "TemplateVer": "0.3.8",
   "galacticPubsVer": "0.9.4",
   "FirstPublicationDate": "2022-07-11 21:10:05",
-  "LastUpdated": "2022-09-30 18:35:56",
+  "LastUpdated": "2022-10-04 13:52:33",
   "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
@@ -82,7 +82,7 @@
     "preview": {
       "__component": "lesson-plan.lesson-preview",
       "SectionTitle": "Lesson Preview",
-      "QuickPrep": "1. Check out lesson multimedia above\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
+      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
       "Multimedia": [
         {
           "order": 1,
