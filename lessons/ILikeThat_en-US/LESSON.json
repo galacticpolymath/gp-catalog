@@ -13,7 +13,7 @@
   "TemplateVer": "0.3.8",
   "galacticPubsVer": "0.9.4",
   "FirstPublicationDate": "2022-07-11 21:10:05",
-  "LastUpdated": "2022-10-06 18:28:07",
+  "LastUpdated": "2022-10-06 18:42:28",
   "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
@@ -710,7 +710,7 @@
                       "codes": "INV-M2",
                       "grades": "6,7,8",
                       "statements": "Conduct an investigation and/or evaluate and/or revise the experimental design to produce data to serve as the basis for evidence that meet the goals of the investigation.",
-                      "alignmentNotes": "- In part 1, students investigate the researcher's concept map through experimentation and data collection. In part 3, they conduct a separate investigation into what is \"creepy\" vs \"cute\" based on comparing character design dimensions to the range of natural human variation.",
+                      "alignmentNotes": "- In part 1, students investigate the researcher's concept map through experimentation and data collection. In part 3, they conduct a separate investigation into what is 'creepy' vs 'cute' based on comparing character design dimensions to the range of natural human variation.",
                       "subcat": "Planning & Carrying out Investigations"
                     },
                     {
