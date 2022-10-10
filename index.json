@@ -3847,12 +3847,12 @@
     "TemplateVer": "0.3.8",
     "galacticPubsVer": "0.9.4",
     "FirstPublicationDate": "2022-07-11 21:10:05",
-    "LastUpdated": "2022-10-10 14:50:38",
+    "LastUpdated": "2022-10-10 15:27:55",
     "URL": "https://galacticpolymath.com/lessons/5",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
     "PublicationStatus": "Draft",
-    "RebuildAllMaterials": false,
+    "RebuildAllMaterials": true,
     "ReleaseDate": "2022-10-31",
     "Title": "I Like That!",
     "Subtitle": "How perception, emotion, and cognition shape our preferences",
@@ -4400,7 +4400,7 @@
       },
       "standards": {
         "__component": "lesson-plan.standards",
-        "LearningObj": {},
+        "LearningObj": "1. Interpret a concept map of how our perception of beauty results from interactions between our brain, sensory systems, and the environment.\n2. Follow the scientific method to conduct a study and test how much our own inherent emotional response and memories affect preferences for visual stimuli.\n3. Interpret histograms, boxplots, and other data visuals to draw conclusions about a data set.\n4. Apply a framework for how our brains process visual signals to artworks.",
         "Data": [
           {
             "subject": "Math",
