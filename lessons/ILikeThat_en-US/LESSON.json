@@ -13,12 +13,12 @@
   "TemplateVer": "0.3.8",
   "galacticPubsVer": "0.9.4",
   "FirstPublicationDate": "2022-07-11 21:10:05",
-  "LastUpdated": "2022-10-12 17:40:01",
+  "LastUpdated": "2022-11-03 18:00:06",
   "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
   "PublicationStatus": "Draft",
-  "RebuildAllMaterials": true,
+  "RebuildAllMaterials": false,
   "ReleaseDate": "2022-10-31",
   "Title": "I Like That!",
   "Subtitle": "How perception, emotion, and cognition shape our preferences",
@@ -44,7 +44,7 @@
       "GradesOrYears": "Grades",
       "ForGrades": "5-9",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n1. What makes humans and other animals perceive something as beautiful?\n2. How does the sensitivity of our eyes affect how we perceive and interact with the world?\n\n#### Essential Question(s):\nHow can science help deepen our understanding of the Arts, Humanities, and ourselves?\n#### Hook(s):\nWarm-up puzzles, fun student-driven experiments, and original artwork are woven into this data-centered lesson.\n#### Learning Summary:\nStudents will conduct experiments and analyze real scientific data as they *learn about themselves*. They'll learn how our eyes and brains interact to determine what we like and dislike, and apply this knowledge to fish research and the art of character design.",
+      "Text": "#### Driving Question(s):\n1. What makes humans and other animals perceive something as beautiful?\n2. How does the way our brain processes visual input from our eyes affect how we perceive and interact with the world?\n\n#### Essential Question(s):\nHow can science help deepen our understanding of the Arts, Humanities, and ourselves?\n#### Hook(s):\nWarm-up puzzles, fun student-driven experiments, and original artwork are woven into this data-centered lesson.\n#### Learning Summary:\nStudents will conduct experiments and analyze real scientific data as they *learn about themselves*. They'll learn how our eyes and brains interact to determine what we like and dislike, and apply this knowledge to fish research and the art of character design.",
       "Tags": [
         {
           "Value": "animal behavior"
@@ -77,7 +77,7 @@
       "SteamEpaulette_vert": {
         "url": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/GP-Learning-Epaulette_vert.png"
       },
-      "Description": "This lesson equips students with a simple framework for understanding how inputs from our senses are processed in the brain to determine what we like vs. dislike and how we behave. Though the lesson focuses on vision, the framework applies to all the senses. \n\nIn Part 1, students begin by ranking 10 images based on their arbitrary preferences. They then conduct an experiment (taking turns as a \"scientist\" and \"subject\") to try and understand *why* they ranked things the way they did. This is lesson both involves authentic, novel, science, but should also grow students' curiosity and understanding of their own decision-making.\n\nPart 2 builds on the framework introduced in Part 1 in the context of a real study <AnchorLink href=\"#background\"> see Background <\/AnchorLink> on fish. Students will analyze box plots (a type of graph similar to bar plots) to test whether female darters prefer a model fish painted a color that is most stimulating to the sensory cells in their eyes (i.e cones in their retinas). Students will reflect on how basic research on fish applies to humans.\n\nPart 3 perfectly blends art, math, and science by testing whether creatures that have proportions outside the range of humans makes them inherently creepy or cute. For this lesson, we created an original set of creature designs that have scaled dimensions which students will use to collect data and calculate proportions. They will then conclude whether having certain proportions (e.g. a large ratio of leg-to-torso-length) far above or below the range of humans makes a creature inherently creepy or cute.\n\nCollectively, this lesson should leave students with a nuanced understanding of how human (and other animal) brains process different sensory stimuli to affect preferences and behavior. It's a great starting-off point for deepening interest and engagement for independent projects."
+      "Description": "This lesson equips students with a simple framework for understanding how inputs from our senses are processed in the brain to determine what we like vs. dislike and how we behave. Though the lesson focuses on vision, the framework applies to all the senses. \n\nIn Part 1, students begin by ranking 10 images based on their arbitrary preferences. They then conduct an experiment (taking turns as a \"scientist\" and \"subject\") to try and understand *why* they ranked things the way they did. This is lesson both involves authentic, novel, science, but should also grow students' curiosity and understanding of their own decision-making.\n\nPart 2 builds on the framework introduced in Part 1 in the context of a real study on fish <AnchorLink href=\"#background\"> see Background <\/AnchorLink>. Students will analyze box plots (a type of graph similar to bar plots) to test whether female darters prefer a model fish painted a color that is most stimulating to the sensory cells in their eyes (i.e cones in their retinas). Students will reflect on how basic research on fish applies to humans.\n\nPart 3 perfectly blends art, math, and science by testing whether creatures that have proportions outside the range of humans makes them inherently creepy or cute. For this lesson, we created an original set of creature designs that have scaled dimensions which students will use to collect data and calculate proportions. They will then conclude whether having certain proportions (e.g. a large ratio of leg-to-torso-length) far above or below the range of humans makes a creature inherently creepy or cute.\n\nCollectively, this lesson should leave students with a nuanced understanding of how human (and other animal) brains process different sensory stimuli to affect preferences and behavior. It's a great starting-off point for deepening interest and engagement for independent projects."
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
@@ -192,22 +192,34 @@
         "classroom": {
           "resourceSummary": [
             {
-              "nItems": null,
+              "nItems": 3,
               "itemCat": "Digital Items",
               "itemsGroup": [
                 {
                   "item": "Presentation",
-                  "itemExplanation": "x N Parts"
+                  "itemExplanation": "x 3 Parts"
                 }
               ]
             },
             {
-              "nItems": 1,
+              "nItems": 8,
               "itemCat": "Printed Items",
               "itemsGroup": [
                 {
                   "item": "Teacher Worksheet",
-                  "itemExplanation": null
+                  "itemExplanation": "x 3 Parts"
+                },
+                {
+                  "item": "Student Worksheet",
+                  "itemExplanation": "x 3 Parts"
+                },
+                {
+                  "item": "(For Part 1) Image Handout for Student Experiment",
+                  "itemExplanation": "(Class Set)"
+                },
+                {
+                  "item": "(For Part 3) Creature Stats Character Sheets",
+                  "itemExplanation": "(Class Set)"
                 }
               ]
             },
@@ -381,11 +393,11 @@
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1LVJ6O0VuCGg4H-KGK0OdKlyy1ZMop6zv-59jHL8CQ64/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1lm_-A1QFdYbOgpfuVGB7Q3wFgtdZflnnrTYw7NX9ERE/export?format=pdf"
                         },
                         {
                           "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1LVJ6O0VuCGg4H-KGK0OdKlyy1ZMop6zv-59jHL8CQ64/template/preview"
+                          "url": "https://docs.google.com/document/d/1lm_-A1QFdYbOgpfuVGB7Q3wFgtdZflnnrTYw7NX9ERE/template/preview"
                         }
                       ]
                     },
@@ -429,7 +441,8 @@
       "__component": "lesson-plan.procedure",
       "SectionTitle": "Procedure",
       "Data": {
-        "lessonDur": "3 x 45 min",
+        "lessonPreface": "Each part will likely take 75-90 min. with a typical group of middle schoolers. With older or more advanced students, each part may be completed more quickly.",
+        "lessonDur": "4 x 45 min",
         "parts": [
           {
             "partNum": 1,
@@ -438,52 +451,109 @@
             "partPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others. ",
             "chunks": [
               {
-                "chunkTitle": "******\nWrite Over/Delete all example text in A2:K:4 \n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",
+                "chunkTitle": "Warm-Up",
                 "chunkStart": 0,
-                "chunkDur": 15,
+                "chunkDur": 2,
                 "steps": [
                   {
                     "Step": 1,
-                    "StepTitle": "******\nBe sure to refer to notes in each column header\n******\nStep 1 Title. Need 1 per Step.",
-                    "StepQuickDescription": "Step 1 description. This is also used as the steps in the Teach it in 15 Quick Prep presentation.",
-                    "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab of teaching-materials.xlsx with Order=1, simply add [▶'I Like That! How our eyes and brains interact to determine what we like and dislike'](https://www.youtube.com/watch?v=mw8OoXGIsj8) anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
-                    "Vocab": "- **Vocabulary introduced for this step. Use shorthand format, which will be converted to a nice bulleted list. Entries are separated by a newline (return), which you make with Alt+Enter. Format:** \n- **Term1:** definition 1\n- **Term2:**   definition 2\n- **Term3:**  definition 3",
-                    "VariantNotes": "Notes about either classroom or remote differences or grade level differences.",
-                    "TeachingTips": "Teaching Tips"
-                  },
-                  {
-                    "Step": 2,
-                    "StepTitle": "Step 2 Title. Need 1 per Step.",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "More Detailed description",
-                    "Vocab": "- **TermX:** definitionX",
-                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
-                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                    "StepTitle": "Polymath Puzzle #1",
+                    "StepQuickDescription": "What question are we investigating?",
+                    "StepDetails": "Students interpret a series of images (rebus puzzle) to determine the focus of this lesson. Their answers are recorded on the \"I Like That\" Part 1 worksheet. ",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   }
                 ]
               },
               {
-                "chunkTitle": "Chunk 2 Title",
-                "chunkStart": 15,
+                "chunkTitle": "Real Science Ahead",
+                "chunkStart": 2,
+                "chunkDur": 3,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "Scientific Method",
+                    "StepQuickDescription": "Quick Refresher of the scientific method",
+                    "StepDetails": "This lesson is a real experiment and the results are specific to each class that completes it. This is exactly what scientists face in their own labs when they ask questions that don't have answers yet. This requires that students have a solid understanding of the Scientific Method so the focus of the first part of the lesson is a recap of each step in the process.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Observation",
+                "chunkStart": 5,
                 "chunkDur": 10,
                 "steps": [
                   {
                     "Step": 3,
-                    "StepTitle": "Step 3 Title. Need 1 per Step.",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "More Detailed description",
-                    "Vocab": "- **TermX:** definitionX",
-                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
-                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
-                  },
+                    "StepTitle": "Ranking Images",
+                    "StepQuickDescription": "The Image Cards present a set of ten images to the students which they must rank from favorite (#1) to least favorite (#10) on their worksheet (Qs 1-10). ",
+                    "StepDetails": "Students have five minutes to complete this activity. The resulting observations form the basis for the next part of the scientific method. Students need either digital or printed copies of Images A - J (Image Cards) as well as the \"I Like That\" Part 1 Worksheet.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": "Try to save the Image Cards and laminate them or put them in protective sleeves if you plan to teach the lesson multiple times to save on printed paper. "
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Question",
+                "chunkStart": 15,
+                "chunkDur": 15,
+                "steps": [
                   {
                     "Step": 4,
-                    "StepTitle": "Step 4 Title",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "More Detailed description",
-                    "Vocab": "- **TermX:** definitionX",
-                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
-                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                    "StepTitle": "Watch Video 1",
+                    "StepQuickDescription": "The next step after collecting observations is questioning why they are the way they are.",
+                    "StepDetails": "By talking about visual stimuli, students start to understand why they ranked the 10 images the way they did. [▶'I Like That! How our eyes and brains interact to determine what we like and dislike'](https://www.youtube.com/watch?v=mw8OoXGIsj8) explores how the eyes and brain interact to result in our visual preferences.",
+                    "Vocab": "- **stimulus:** something that causes an organ or tissue (like your brain) to react (plural is stimulii)\n",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 5,
+                    "StepTitle": null,
+                    "StepQuickDescription": "Students next consider how the interface among Cognition, Perception, and Emotion of visual stimulii influenced their observations. ",
+                    "StepDetails": "Check In: After watching the video and learning more about the Cognition, Perception, and Emotion triad, students will answer Questions 11-15 on their worksheets focused on their own decisionmaking and how it is influenced by these things.",
+                    "Vocab": "- **cognition:** how well you understand what you're percieving\n- **perception:** our ability to see, hear, or become aware of a stimulus through our senses\n- **emotion:** a positive or negative feelings brought about by chemicals released in the brain\n- **preference:** whether you like or dislike something which is influenced by a combination of cognition, perception, and emotions",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Hypothesis",
+                "chunkStart": 30,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 6,
+                    "StepTitle": "Developing Hypotheses and Setting Up Experiments",
+                    "StepQuickDescription": "The next step in the scientific method is to develop a hypothesis that can be tested which gets a the \"Why.\"",
+                    "StepDetails": "The group adopts a hypothesis based on the obervation and question stages that postulates why the observations occurred the way they did. In this case, the class tests the hypothesis that cognition and emotion determine how the images were ranked.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 7,
+                    "StepTitle": null,
+                    "StepQuickDescription": "To determine whether the hypothesis can be rejected or accepted with confidence, the group sets up an experiment designed around their premise.",
+                    "StepDetails": "The experiment must try to isolate each of the three effects (Cognition, Perception, and Emotion) and measure how much each contributes to preference.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 8,
+                    "StepTitle": null,
+                    "StepQuickDescription": "Think - Pair",
+                    "StepDetails": "Using descriptive numerical scales, students discuss in pairs (or small groups) how they would rate their top-ranked images based on Emotion and Cognition.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": "Throughout the lesson, you will occasionally see *Think - Ink - Pair - Share*, or some combination thereof, on the presentation slides. Which ever words are not grayed out are the goals for that activity. *Think* means a student considers a question or challenge on their own, *Ink* indicates they should be writing their thoughts or answers down, *Pair* asks that once they have completed Think and/or Ink, students pair up (or get in small groups) and talk about the question or activity. Lastly, *Share* is when the class comes together and talks about the question or activity as a group."
                   }
                 ]
               }
@@ -496,31 +566,72 @@
             "partPreface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
             "chunks": [
               {
-                "chunkTitle": "Chunk 1 Title",
+                "chunkTitle": "Prediction",
                 "chunkStart": 0,
-                "chunkDur": 15,
+                "chunkDur": 10,
                 "steps": [
                   {
                     "Step": 1,
-                    "StepTitle": "Step 1 Title",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "More Detailed description",
-                    "Vocab": "- **TermX:** definitionX",
-                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
-                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
+                    "StepTitle": "Creating Predictions",
+                    "StepQuickDescription": "Think - Ink - Pair",
+                    "StepDetails": "Students learn about how to develop predicitons related to their hypothesis and experimental design by looking at example data. They will have two minutes to record think about the example presented to them and decide which responses they would predict. Students then discuss their answeres in pairs or small groups. ",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": null,
+                    "StepQuickDescription": "Adopting a prediciton.",
+                    "StepDetails": "Once the class understands how to formulate a prediction, for the purposes of this study they adopt the following Prediction (P1): Top ranked images will have high cognitive and emotional scores.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
                   }
                 ]
               },
               {
-                "chunkTitle": "Chunk 2 Title",
-                "chunkStart": 15,
-                "chunkDur": 30,
+                "chunkTitle": "Experiment",
+                "chunkStart": 10,
+                "chunkDur": 20,
                 "steps": [
                   {
-                    "Step": 2,
-                    "StepTitle": "Step 2 Title",
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
+                    "Step": 3,
+                    "StepTitle": "Collecting Data",
+                    "StepQuickDescription": "Working in pairs, students trade off being the \"scientist\" and \"test-subject.\"",
+                    "StepDetails": "The scientist shows the test subject one image at a time and asks questions using the Cognitive and Emotion Score scales to collect data. Each pair will have 10 minutes to complete the experiment and each person should try each role. The scientist should record the test subject's data on the test subject's worksheet (page 4).",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Results",
+                "chunkStart": 30,
+                "chunkDur": 10,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "Plotting Data",
+                    "StepQuickDescription": "Using the data from the experiment, students will next plot the results on graphs.",
+                    "StepDetails": "Students will plot similar graphs to the ones used to demonstrate the example data that was used to practice making predictions. These graphs plot Emotion vs. Cognitive scores for the top and bottom five scores.  ",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Conclusions",
+                "chunkStart": 40,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 5,
+                    "StepTitle": "Discussing the Results",
+                    "StepQuickDescription": "Based on the class's data, what can be concluded about how cognitiona and emotion affect how images are ranked?",
+                    "StepDetails": "Students answer questions 9 - 15 on their worksheets. The class can also discuss as a group the results, why they may have ended up with the results that were observed, and how the experimental design may have affected any outcomes.",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -534,7 +645,99 @@
             "partTitle": "Creature Stats",
             "partDur": 45,
             "partPreface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
-            "chunks": []
+            "chunks": [
+              {
+                "chunkTitle": "Warm-Up",
+                "chunkStart": 0,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Polymath Puzzle #2",
+                    "StepQuickDescription": "How many ladybugs are there?",
+                    "StepDetails": "Students see a set of squares and are tasked with counting how many ladybugs they see. This activity was developed by experimental psychologist, Akiyoshi Kitaoka, who studies visual illusions.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": "Part 1 Review",
+                    "StepQuickDescription": "What patterns could be observed? ",
+                    "StepDetails": "Students recall their data from Part 1 from the image ranking experiment and whether think about whether they noticed any patterns.",
+                    "Vocab": "- **aesthetics:** a set of principles concerned with the nature and appreciation of beauty, especially in art.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "The Science of Perception",
+                "chunkStart": 5,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "What is perception?",
+                    "StepQuickDescription": "Organizing and identifying sensory information.",
+                    "StepDetails": null,
+                    "Vocab": "- **perception:** the ability to see, hear, and become aware of something through the senses.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 4,
+                    "StepTitle": null,
+                    "StepQuickDescription": "How does the human eye work?",
+                    "StepDetails": "The perception of beauty is often influenced by colors which is perceived using our eyes. Students learn more about how this process works in the interface between the eyes and brain.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Preferences in the Animal Kingdom",
+                "chunkStart": 20,
+                "chunkDur": 20,
+                "steps": [
+                  {
+                    "Step": 5,
+                    "StepTitle": "Studying visual signals in fish",
+                    "StepQuickDescription": "An introduction to Dr. Mendelson's work with Darters.",
+                    "StepDetails": "Darters are great model organisms to study evolutionary changes in animal communication over time.",
+                    "Vocab": "- **model organism:** a non-human species used to study some biological phenomena or process to provide insight into how the phenomena or process works in other species.",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 6,
+                    "StepTitle": null,
+                    "StepQuickDescription": "What a fish likes",
+                    "StepDetails": "Students watch [ERROR: CHECK *{vid2}* REFERENCE. NO LINK FOUND]() which explains more about Dr. Mendelson's work on how fish preference is studied scientifically. ",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Displaying the Data",
+                "chunkStart": 40,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 7,
+                    "StepTitle": "Box Plots",
+                    "StepQuickDescription": "Think - Ink - Pair - Share",
+                    "StepDetails": "Using actual data from Dr. Mendelson's studies, students consider how visual stimulii and fish perception interact to influence fish preferences (Q3 in the worksheet). They then learn about box plots and how they are used in data analysis. ",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
@@ -542,13 +745,13 @@
     "extensions": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Extensions",
-      "Content": "- Have your students read the scientific paper that Part 2 is based around (<AnchorLink href=\"#background\"> see Background <\/AnchorLink>), and have them grapple with how the version they experienced in class compares to the complexity of the paper. The goal could be to have them try to extract as much meaning from the paper as possible, while not becoming too frustrated.\n- Have students do independent research on how our sensory sensitivities can bias our decision making. Here are some readings for inspiration:\n   - [*Yale News* | With hot coffee, we see a warm heart, Yale researchers find](https://news.yale.edu/2008/10/23/hot-coffee-we-see-warm-heart-yale-researchers-find)\n   - [*Neuroscience News* | Pitch of Candidate’s Voice Can Influence Election Outcomes](https://neurosciencenews.com/political-psychology-vocal-tone-2398/)",
+      "Content": "- Have students do independent research on how our sensory sensitivities can bias our decision making. Here are some readings for inspiration:\n    - [*Yale News* | With hot coffee, we see a warm heart, Yale researchers find](https://news.yale.edu/2008/10/23/hot-coffee-we-see-warm-heart-yale-researchers-find)\n    - [*Neuroscience News* | Pitch of Candidate’s Voice Can Influence Election Outcomes](https://neurosciencenews.com/political-psychology-vocal-tone-2398/)\n- Have your students read the scientific paper that Part 2 is based around (<AnchorLink href=\"#background\"> see Background <\/AnchorLink>), and have them grapple with how the version they experienced in class compares to the complexity of the paper. The goal could be to have them try to extract as much meaning from the paper as possible, while not becoming too frustrated.",
       "InitiallyExpanded": true
     },
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n In this three-part lesson, students will follow in the footsteps of scientists (analyzing real, published data), but also conduct their own novel experiments. Overall, our hope is that students will recognize that science and data everywhere and give us insight into ourselves. \n#### Research Background\n Parts 1 and 3, students will run their own experiments, testing novel hypotheses related to their own preferences. For these activities, we developed a conceptual framework that is woven into all lesson parts. This framework is explained in our video [▶'I Like That! How our eyes and brains interact to determine what we like and dislike'](https://www.youtube.com/watch?v=mw8OoXGIsj8). We want students to understand in general terms how our brains perceive things detected by our senses, and then incorporate prior experience and emotional responses to form preferences that affect their behavior. This is based on research in humans and other animals. Though human \"emotions\" can be very complex, many animals from primates to bees show a range of positive <-> negative responses to stimuli that can be interpreted as emotions. If students are interested in learning more about emotions in animals, here are some excellent scientific articles targeted at young readers:\n- [*Frontiers for Young Minds* | Animal Emotions–Do Animals Feel as We Do?](https://kids.frontiersin.org/articles/10.3389/frym.2021.622811)\n- [*Frontiers for Young Minds* | Your Smile Caught My Eye: Why Do Emotional Things Catch and Hold Our Attention?](https://kids.frontiersin.org/articles/10.3389/frym.2022.781748)\n\nIn Part 2, students will learn about how our eyes detect and process different colors (i.e. different wavelengths of light). They learn key background from [▶'How we see color - Colm Kelleher'](https://www.youtube.com/watch?v=l8_fZPHasdo) and [▶'The Science of Color Perception'](https://www.youtube.com/watch?v=poL7nDmqjmk). \n\nIn our original video: [▶'How do we know what a fish likes? (And can we predict it?)'](https://www.youtube.com/watch?v=PGmPIHPX9eQ), Drs. Tamra Mendelson and Tory Williams talk about their work on darters, a fascinating and beautiful group of fish native to North America (see supplementary vid: [▶'Darter facts: the colorful little fish | Animal Fact Files'](https://www.youtube.com/watch?v=JnD1d4pIxO4). \n\nIn the scientific study students will learn about, the researchers tested whether female darters were most attracted to colors that were most stimulating to their eyes' sensory cells (i.e. cones found in the retina). Students will follow in the scientists' footsteps, first making predictions and then analyzing their authentic data. The video and presentation will guide students through interpreting graphs of sensitivity curves to make their predictions. \n\nBasically, there were two models of male fish used to test female preferences. They were colored \"red\" and \"orange\" to mimic extremes of natural variation. Looking at the graph below, the place where the 2 sensitivity curves overlap is the light wavelength that should be most stimulating to females' eyes. That is, light that has a wavelength of about 550nm should maximize activation of both the medium and long wavelength cone cells in the retina. The question is: do females prefer a model with an average reflectance closest to this wavelength? \n\n![Sensitivity curves for darters. A dashed line shows medium wavelength cone sensitivity, peaking around 580nm, while a solid line shows long wavelength cone sensitivity peaking around 580nm. The curves overlap at 550nm. Arrows point to orange model fish, showing the peak reflectances of the orange model fish at 570nm and the red model at 584 nm](https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/darter_vis_sensitivity_curve.png)\n\nThe video and presentation guide students through interpreting this graph—to predict that females should prefer the orange model. Our video explains the experimental setup, but here it is briefly: Individual wild-caught females were put in the middle of a tank which had two tanks on either side of it. Model fish simulating extremes of natural variation in male colors were placed on either side of the female tank. An observer recorded what proportion of time females spent associating with the \"red\" versus the \"orange\" male model. Students will observe the patterns in the data and determine that females had a strong preference for the orange model. They will then draw conclusions about why this research matters more broadly and hopefully begin to wonder--how are our daily decisions affected by our sensitivity to different stimuli? This could be a great jumping-off point for independent research/PBLs. <AnchorLink href=\"#extensions\"> See Extensions <\/AnchorLink>\n\n![Cover of journal article](https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/paper.png)\n[Link to Journal Article](https://academic.oup.com/beheco/article/24/6/1407/190166)\n",
+      "Content": "#### Connection to Research\n In this three-part lesson, students will follow in the footsteps of scientists (analyzing real, published data), but also conduct their own novel experiments. Overall, our hope is that students will recognize that science and data are everywhere and give us insight into ourselves.  \n#### Research Background\n Parts 1 and 3, students will run their own experiments, testing novel hypotheses related to their own preferences. For these activities, we developed a conceptual framework that is woven into all lesson parts. This framework is explained in our video [▶'I Like That! How our eyes and brains interact to determine what we like and dislike'](https://www.youtube.com/watch?v=mw8OoXGIsj8). We want students to understand in general terms how our brains perceive things detected by our senses, and then incorporate prior experience and emotional responses to form preferences that affect their behavior. This is based on research in humans and other animals. Though human \"emotions\" can be very complex, many animals from primates to bees show a range of positive <-> negative responses to stimuli that can be interpreted as emotions. If students are interested in learning more about emotions in animals, here are some excellent scientific articles targeted at young readers:\n- [*Frontiers for Young Minds* | Animal Emotions–Do Animals Feel as We Do?](https://kids.frontiersin.org/articles/10.3389/frym.2021.622811)\n- [*Frontiers for Young Minds* | Your Smile Caught My Eye: Why Do Emotional Things Catch and Hold Our Attention?](https://kids.frontiersin.org/articles/10.3389/frym.2022.781748)\n\nIn Part 2, students will learn about how our eyes detect and process different colors (i.e. different wavelengths of light). They learn key background from [▶'How we see color - Colm Kelleher'](https://www.youtube.com/watch?v=l8_fZPHasdo) and [▶'The Science of Color Perception'](https://www.youtube.com/watch?v=poL7nDmqjmk). \n\nIn our original video: [▶'How do we know what a fish likes? (And can we predict it?)'](https://www.youtube.com/watch?v=PGmPIHPX9eQ), Drs. Tamra Mendelson and Tory Williams talk about their work on darters, a fascinating and beautiful group of fish native to North America (see supplementary vid: [▶'Darter facts: the colorful little fish | Animal Fact Files'](https://www.youtube.com/watch?v=JnD1d4pIxO4)). \n\nIn the scientific study students will learn about, the researchers tested whether female darters were most attracted to colors that were most stimulating to the sensory cells in their eyes (i.e. cones found in the retina). Students will follow in the scientist's footsteps, first making predictions and then analyzing their authentic data. The video and presentation will guide students through interpreting graphs of sensitivity curves to make their predictions. \n\nBasically, there were two models of male fish used to test female preferences. They were colored \"red\" and \"orange\" to mimic extremes of natural variation. Looking at the graph below, the place where the 2 sensitivity curves overlap is the light wavelength that should be most stimulating to females' eyes. That is, light that has a wavelength of about 550nm should maximize activation of both the medium and long wavelength cone cells in the retina. The question is: do females prefer a model with an average reflectance closest to this wavelength? \n\n![Sensitivity curves for darters. A dashed line shows medium wavelength cone sensitivity, peaking around 580nm, while a solid line shows long wavelength cone sensitivity peaking around 580nm. The curves overlap at 550nm. Arrows point to orange model fish, showing the peak reflectances of the orange model fish at 570nm and the red model at 584 nm](https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/darter_vis_sensitivity_curve.png)\n\nThe video and presentation guide students through interpreting this graph—to predict that females should prefer the orange model. Our video explains the experimental setup, but here it is briefly: Individual wild-caught females were put in the middle of a tank which had two tanks on either side of it. Model fish simulating extremes of natural variation in male colors were placed on either side of the female tank. An observer recorded what proportion of time females spent associating with the \"red\" versus the \"orange\" male model. Students will observe the patterns in the data and determine that females had a strong preference for the orange model. They will then draw conclusions about why this research matters more broadly and hopefully begin to wonder--how are our daily decisions affected by our sensitivity to different stimuli? This could be a great jumping-off point for independent research/PBLs. <AnchorLink href=\"#extensions\"> See Extensions <\/AnchorLink>\n\n![Cover of journal article](https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/paper.png)\n[Link to Journal Article](https://academic.oup.com/beheco/article/24/6/1407/190166)\n",
       "InitiallyExpanded": true
     },
     "standards-header": {
