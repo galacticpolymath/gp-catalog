@@ -13,7 +13,7 @@
   "TemplateVer": "0.3.8",
   "galacticPubsVer": "0.9.4",
   "FirstPublicationDate": "2022-07-11 21:10:05",
-  "LastUpdated": "2022-11-06 21:50:24",
+  "LastUpdated": "2022-11-17 12:01:00",
   "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
@@ -30,6 +30,7 @@
   "SponsoredBy": "- The National Science Foundation\n- [Dr. Tamra Mendelson's Lab](https://www.mendelsonlab.net/) in the Department of Biological Sciences at the University of Maryland, Baltimore County",
   "SponsorImage": {
     "url": [
+      "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/featuredSponsor_logo.png",
       "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/NSF_4-Color_bitmap_Logo@0.25x.png",
       "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/UMBC-vertical-logo-RGB-195x300.png"
     ]
@@ -482,7 +483,7 @@
                     "Step": 2,
                     "StepTitle": "Scientific Method",
                     "StepQuickDescription": "Quick refresher of the scientific method",
-                    "StepDetails": "This lesson is a real experiment and the results are specific to each class that completes it. This is exactly what scientists face in their own labs when they ask questions that don't have answers yet. This requires that students have a solid understanding of the Scientific Method so the focus of the first part of the lesson is a recap of each step in the process.",
+                    "StepDetails": "This lesson is a real experiment and the results are specific to each class that completes it. This is exactly what scientists face in their own labs when they ask questions that don't have answers yet. Because this requires students to have a solid understanding of the Scientific Method, the first part of the lesson is a recap of each step in that process.",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -498,7 +499,7 @@
                     "Step": 3,
                     "StepTitle": "Ranking Images",
                     "StepQuickDescription": "The Image Cards present a set of ten images to the students which they must rank from favorite (#1) to least favorite (#10) on their worksheet (Qs 1-10). ",
-                    "StepDetails": "Students have five minutes to complete this activity. The resulting observations form the basis for the next part of the scientific method. Students need either digital or printed copies of Images A - J (Image Cards) as well as the \"I Like That\" Part 1 Worksheet.",
+                    "StepDetails": "Students have five minutes to complete this activity. Their observations form the basis for the next part of the scientific method. Students need either digital or printed copies of Images A - J (Image Cards) as well as the \"I Like That\" Part 1 Worksheet.",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": "Try to save the Image Cards and laminate them or put them in protective sleeves if you plan to teach the lesson multiple times to save on printed paper. "
@@ -507,8 +508,8 @@
                     "Step": 4,
                     "StepTitle": "Watch Video 1",
                     "StepQuickDescription": "The next step after collecting observations is questioning why they are the way they are.",
-                    "StepDetails": "By talking about visual stimuli, students start to understand why they ranked the 10 images the way they did. [▶'I Like That! How our eyes and brains interact to determine what we like and dislike'](https://www.youtube.com/watch?v=mw8OoXGIsj8) explores how the eyes and brain interact to result in our visual preferences.",
-                    "Vocab": "- **stimulus:** something that causes an organ or tissue (like your brain) to react (plural is stimulii)\n",
+                    "StepDetails": "By talking about visual stimuli, students understand why they ranked the 10 images the way they did. [▶'I Like That! How our eyes and brains interact to determine what we like and dislike'](https://www.youtube.com/watch?v=mw8OoXGIsj8) explores how the eyes and brain interact to result in our visual preferences.",
+                    "Vocab": "- **stimulus:** something that causes an organ or tissue (like your brain) to react (plural is stimuli)\n",
                     "VariantNotes": null,
                     "TeachingTips": null
                   }
@@ -522,9 +523,9 @@
                   {
                     "Step": 5,
                     "StepTitle": null,
-                    "StepQuickDescription": "Students next consider how the interface among Cognition, Perception, and Emotion of visual stimulii influenced their observations. ",
-                    "StepDetails": "Check In: After watching the video and learning more about the Cognition, Perception, and Emotion triad, students will answer Questions 11-15 on their worksheets focused on their own decisionmaking and how it is influenced by these things.",
-                    "Vocab": "- **cognition:** how well you understand what you're percieving\n- **perception:** our ability to see, hear, or become aware of a stimulus through our senses\n- **emotion:** a positive or negative feelings brought about by chemicals released in the brain\n- **preference:** whether you like or dislike something which is influenced by a combination of cognition, perception, and emotions",
+                    "StepQuickDescription": "Students next consider how the interface among Cognition, Perception, and Emotion of visual stimuli influenced their observations. ",
+                    "StepDetails": "Check In: After watching the video and learning more about the Cognition, Perception, and Emotion triad, students answer Questions 11-15 on their worksheets about decision making and how it is influenced by these things.",
+                    "Vocab": "- **cognition:** how well you understand what you're perceiving\n- **perception:** our ability to see, hear, or become aware of a stimulus through our senses\n- **emotion:** a positive or negative feelings brought about by chemicals released in the brain\n- **preference:** whether you like or dislike something which is influenced by a combination of cognition, perception, and emotions",
                     "VariantNotes": null,
                     "TeachingTips": null
                   }
@@ -560,7 +561,7 @@
                     "StepDetails": "Using descriptive numerical scales, students discuss in pairs (or small groups) how they would rate their top-ranked images based on Emotion and Cognition.",
                     "Vocab": null,
                     "VariantNotes": null,
-                    "TeachingTips": "Throughout the lesson, you will occasionally see *Think - Ink - Pair - Share*, or some combination thereof, on the presentation slides. Which ever words are not grayed out are the goals for that activity. *Think* means a student considers a question or challenge on their own, *Ink* indicates they should be writing their thoughts or answers down, *Pair* asks that once they have completed Think and/or Ink, students pair up (or get in small groups) and talk about the question or activity. Lastly, *Share* is when the class comes together and talks about the question or activity as a group."
+                    "TeachingTips": "Throughout the lesson, you will occasionally see *Think - Ink - Pair - Share*, or some combination thereof, on the presentation slides. The words not grayed out are the goals for that activity. *Think* means a student considers a question or challenge on their own, *Ink* indicates they should be writing their thoughts or answers down, *Pair* asks that once they have completed Think and/or Ink, students pair up (or get in small groups) and talk about the question or activity. Lastly, *Share* is when the class comes together and talks about the question or activity as a group."
                   }
                 ]
               },
@@ -573,7 +574,7 @@
                     "Step": 9,
                     "StepTitle": "Creating Predictions",
                     "StepQuickDescription": "Think - Ink - Pair",
-                    "StepDetails": "Students learn about how to develop predictions related to their hypothesis and experimental design by looking at example data. They will have two minutes to think about the example presented to them and decide which responses they would predict. Students then discuss their answers in pairs or small groups. ",
+                    "StepDetails": "Students learn how to develop predictions related to their hypothesis and experimental design by looking at example data. They have two minutes to think about the example presented to them and decide which responses they would predict. Students then discuss their answers in pairs or small groups. ",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -581,7 +582,7 @@
                   {
                     "Step": 10,
                     "StepTitle": null,
-                    "StepQuickDescription": "Adopting a prediciton.",
+                    "StepQuickDescription": "Adopting a prediction.",
                     "StepDetails": "Once the class understands how to formulate a prediction, for the purposes of this study they adopt the following Prediction (P1): Top ranked images will have high cognitive and emotional scores.",
                     "Vocab": null,
                     "VariantNotes": null,
@@ -598,7 +599,7 @@
                     "Step": 11,
                     "StepTitle": "Collecting Data",
                     "StepQuickDescription": "Working in pairs, students trade off being the \"scientist\" and \"test-subject.\"",
-                    "StepDetails": "The scientist shows the test subject one image at a time and asks questions using the Cognitive and Emotion Score scales to collect data. Each pair will have 10 minutes to complete the experiment and each person should try each role. The scientist should record the test subject's data on the test subject's worksheet (page 4).",
+                    "StepDetails": "The student acting as the \"scientist\" shows the \"test subject\" one image at a time and asks questions using the Cognitive and Emotion Score scales to collect data. Each pair has 10 minutes to complete the experiment, then they switch roles and repeat the process. The scientist should record the test subject's data on the test subject's worksheet (page 4).",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -613,8 +614,8 @@
                   {
                     "Step": 12,
                     "StepTitle": "Plotting Data",
-                    "StepQuickDescription": "Using the data from the experiment, students will next plot the results on graphs.",
-                    "StepDetails": "Students will plot similar graphs to the ones used to demonstrate the example data that was used to practice making predictions. These graphs plot Emotion vs. Cognitive scores for the top and bottom five scores.  ",
+                    "StepQuickDescription": "Using the data from the experiment, students plot their results on graphs.",
+                    "StepDetails": "Students plot their data to make similar graphs as the ones used in the example data to practice making predictions. These graphs plot Emotion vs. Cognitive scores for the top and bottom five scores.  ",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -629,7 +630,7 @@
                   {
                     "Step": 13,
                     "StepTitle": "Discussing the Results",
-                    "StepQuickDescription": "Based on the class's data, what can be concluded about how cognitiona and emotion affect how images are ranked?",
+                    "StepQuickDescription": "Based on the class's data, what can be concluded about how cognition and emotion affect how images are ranked?",
                     "StepDetails": "Students answer questions 9 - 15 on their worksheets. The class can also discuss as a group the results, why they may have ended up with the results that were observed, and how the experimental design may have affected any outcomes.",
                     "Vocab": null,
                     "VariantNotes": null,
@@ -729,7 +730,7 @@
                     "Step": 7,
                     "StepTitle": "Box Plots",
                     "StepQuickDescription": "Think - Ink - Pair - Share",
-                    "StepDetails": "Using actual data from Dr. Mendelson's studies, students consider how visual stimulii and fish perception interact to influence fish preferences (Q3 in the worksheet). They then learn about box plots and how they are used in data analysis. ",
+                    "StepDetails": "Using actual data from Dr. Mendelson's studies, students consider how visual stimuli and fish perception interact to influence fish preferences (Q3 in the worksheet). They then learn about box plots and how they are used in data analysis. ",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -744,7 +745,7 @@
                   {
                     "Step": 8,
                     "StepTitle": "Independent Work",
-                    "StepQuickDescription": "Students will reflect on their findings. This work can be done in class or for homework. ",
+                    "StepQuickDescription": "Students reflect on their findings. This work can be done in class or for homework. ",
                     "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
@@ -794,7 +795,7 @@
                     "Step": 3,
                     "StepTitle": null,
                     "StepQuickDescription": "How does \"atypicality\" influence our preferences? ",
-                    "StepDetails": "While \"typical\" things often reflect what we prefer, on the other hand atypical things can cause us to feel repulsed or uneasy. Students will use animated characters to dig deeper into this. ",
+                    "StepDetails": "While \"typical\" things often reflect what we prefer, on the other hand atypical things can cause us to feel repulsed or uneasy. Students use animated characters to dig deeper into this. ",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -803,7 +804,7 @@
                     "Step": 4,
                     "StepTitle": null,
                     "StepQuickDescription": "Form a prediction",
-                    "StepDetails": "Students answer Q1-3 on their worksheet to form a prediction about how we perieve what is cute vs. creepy. ",
+                    "StepDetails": "Students answer Q1-3 on their worksheet to form a prediction about how we percieve what is cute vs. creepy. ",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -861,7 +862,7 @@
                   {
                     "Step": 9,
                     "StepTitle": "Discussion",
-                    "StepQuickDescription": "Did the data support the predictions?",
+                    "StepQuickDescription": "Do the data support the predictions?",
                     "StepDetails": "Students refer back to their predictions and discuss whether the data they collected and analyzed support them. ",
                     "Vocab": null,
                     "VariantNotes": null,
@@ -1510,8 +1511,8 @@
               "name": "Julien Renoult, PhD",
               "url": "https://www.eevcom-montpellier.com/julien-renoult.html",
               "title": "Tenure CNRS Research Scientist",
-              "affiliation": null,
-              "location": "Center for Evolutionary & Functional Ecology, Montpellier, France"
+              "affiliation": "Center for Evolutionary & Functional Ecology",
+              "location": "Montpellier, France"
             }
           ]
         },
@@ -1536,21 +1537,21 @@
               "name": "Jenny Gumm, PhD",
               "url": "https://www.gummlab.org/",
               "title": "Fish Biologist & Facility Manager,",
-              "affiliation": null,
-              "location": "Ash Meadows Fish Conservation Facility"
+              "affiliation": "Ash Meadows Fish Conservation Facility",
+              "location": null
             }
           ]
         },
         {
           "role": "Beta Tester",
-          "def": "(Ran the lesson in his class and recommended  changes)",
+          "def": "(Ran the lesson in class and recommended changes)",
           "records": [
             {
-              "name": null,
-              "url": null,
-              "title": null,
-              "affiliation": null,
-              "location": null
+              "name": "Kenton Wesby, EdD",
+              "url": "https://twitter.com/kwesby73",
+              "title": "STEAM Teacher (grades 6-8)",
+              "affiliation": "Isaac Litton Middle School",
+              "location": "Nashville, TN"
             }
           ]
         }
@@ -1569,6 +1570,18 @@
               "summary": "Initial lesson build!",
               "notes": null,
               "acknowledgments": null
+            }
+          ]
+        },
+        {
+          "major_release": "1",
+          "sub_releases": [
+            {
+              "version": "1.0.0",
+              "date": "Nov 07, 2022",
+              "summary": "First public release",
+              "notes": "Streamlined presentations and worksheets based on classroom feedback",
+              "acknowledgments": "Thanks to Dr. Wesby for beta testing the lesson!"
             }
           ]
         }
