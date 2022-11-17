@@ -1689,7 +1689,7 @@
     "TemplateVer": "0.3.8",
     "galacticPubsVer": "0.9.4",
     "FirstPublicationDate": "2022-07-11 21:10:05",
-    "LastUpdated": "2022-11-17 12:01:00",
+    "LastUpdated": "2022-11-17 12:47:16",
     "URL": "https://galacticpolymath.com/lessons/5",
     "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
     "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
@@ -1717,7 +1717,7 @@
     "Section": {
       "overview": {
         "__component": "lesson-plan.overview",
-        "EstLessonTime": "3 x 45 min classes",
+        "EstLessonTime": "3 parts x 60-80 min",
         "GradesOrYears": "Grades",
         "ForGrades": "5-9",
         "TargetSubject": "Science",
@@ -2179,7 +2179,14 @@
                       "Vocab": null,
                       "VariantNotes": null,
                       "TeachingTips": "Try to save the Image Cards and laminate them or put them in protective sleeves if you plan to teach the lesson multiple times to save on printed paper. "
-                    },
+                    }
+                  ]
+                },
+                {
+                  "chunkTitle": "Question",
+                  "chunkStart": 15,
+                  "chunkDur": 10,
+                  "steps": [
                     {
                       "Step": 4,
                       "StepTitle": "Watch Video 1",
@@ -2188,14 +2195,7 @@
                       "Vocab": "- **stimulus:** something that causes an organ or tissue (like your brain) to react (plural is stimuli)\n",
                       "VariantNotes": null,
                       "TeachingTips": null
-                    }
-                  ]
-                },
-                {
-                  "chunkTitle": null,
-                  "chunkStart": 15,
-                  "chunkDur": null,
-                  "steps": [
+                    },
                     {
                       "Step": 5,
                       "StepTitle": null,
@@ -2209,7 +2209,7 @@
                 },
                 {
                   "chunkTitle": "Hypothesis",
-                  "chunkStart": null,
+                  "chunkStart": 25,
                   "chunkDur": 10,
                   "steps": [
                     {
@@ -2243,7 +2243,7 @@
                 },
                 {
                   "chunkTitle": "Prediction",
-                  "chunkStart": null,
+                  "chunkStart": 35,
                   "chunkDur": 10,
                   "steps": [
                     {
@@ -2268,7 +2268,7 @@
                 },
                 {
                   "chunkTitle": "Experiment",
-                  "chunkStart": null,
+                  "chunkStart": 45,
                   "chunkDur": 20,
                   "steps": [
                     {
@@ -2284,7 +2284,7 @@
                 },
                 {
                   "chunkTitle": "Results",
-                  "chunkStart": null,
+                  "chunkStart": 65,
                   "chunkDur": 10,
                   "steps": [
                     {
@@ -2300,7 +2300,7 @@
                 },
                 {
                   "chunkTitle": "Conclusions",
-                  "chunkStart": null,
+                  "chunkStart": 75,
                   "chunkDur": 5,
                   "steps": [
                     {
@@ -2525,7 +2525,14 @@
                       "Vocab": null,
                       "VariantNotes": null,
                       "TeachingTips": null
-                    },
+                    }
+                  ]
+                },
+                {
+                  "chunkTitle": "Results & Conclusions",
+                  "chunkStart": 45,
+                  "chunkDur": 15,
+                  "steps": [
                     {
                       "Step": 8,
                       "StepTitle": "Data Analysis",
@@ -3258,6 +3265,13 @@
                 "summary": "First public release",
                 "notes": "Streamlined presentations and worksheets based on classroom feedback",
                 "acknowledgments": "Thanks to Dr. Wesby for beta testing the lesson!"
+              },
+              {
+                "version": "1.1.0",
+                "date": "Nov 17, 2022",
+                "summary": "Various fixes to procedure and minor text elements",
+                "notes": null,
+                "acknowledgments": null
               }
             ]
           }
