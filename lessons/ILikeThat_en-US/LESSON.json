@@ -13,7 +13,7 @@
   "TemplateVer": "0.3.8",
   "galacticPubsVer": "0.9.4",
   "FirstPublicationDate": "2022-07-11 21:10:05",
-  "LastUpdated": "2022-11-17 12:47:16",
+  "LastUpdated": "2022-11-25 14:50:40",
   "URL": "https://galacticpolymath.com/lessons/5",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ILikeThat_en-US.git",
@@ -30,7 +30,6 @@
   "SponsoredBy": "- The National Science Foundation\n- [Dr. Tamra Mendelson's Lab](https://www.mendelsonlab.net/) in the Department of Biological Sciences at the University of Maryland, Baltimore County",
   "SponsorImage": {
     "url": [
-      "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/featuredSponsor_logo.png",
       "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/NSF_4-Color_bitmap_Logo@0.25x.png",
       "https://catalog.galacticpolymath.com/lessons/ILikeThat_en-US/UMBC-vertical-logo-RGB-195x300.png"
     ]
