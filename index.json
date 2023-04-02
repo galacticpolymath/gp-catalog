@@ -5745,7 +5745,7 @@
     "Country": "United States",
     "DefaultLanguage": "English",
     "DefaultCountry": "United States",
-    "LastUpdated": "2023-04-02 15:01:00",
+    "LastUpdated": "2023-04-02 15:41:20",
     "MediumTitle": "'The Guardian Frogs of Borneo' _Science_ 5-9  (en-US)",
     "lang": "en",
     "lng": "eng",
@@ -5773,10 +5773,13 @@
     "SponsorName": "Johana Goyes Vallejos",
     "SponsoredBy": "- [Johana Goyes Vallejos, PhD](https://jogoyesvallejos.weebly.com/) \u2014 Postdoc in the Division of Biological Sciences, University of Missouri \u2013 Columbia",
     "SponsorImage": {
-      "url": null
+      "url": [
+        "https://catalog.galacticpolymath.com/lessons/TEST/Fitzpatrick_lab_logo-transparent.png",
+        "https://catalog.galacticpolymath.com/lessons/TEST/NSF_4-Color_bitmap_Logo.png"
+      ]
     },
     "CoverImage": {
-      "url": null
+      "url": "https://catalog.galacticpolymath.com/lessons/TEST/banner.png"
     },
     "Section": {
       "overview": {
@@ -6051,11 +6054,11 @@
                 "parts": {
                   "1": {
                     "part": "1",
-                    "title": null,
+                    "title": "Why Do I Like That?",
                     "tags": [
                       null
                     ],
-                    "preface": null,
+                    "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
                     "itemList": [
                       {
                         "itemTitle": "Presentation (Part 1)",
@@ -6106,11 +6109,11 @@
                   },
                   "2": {
                     "part": "2",
-                    "title": null,
+                    "title": "The Perception of Beauty",
                     "tags": [
                       null
                     ],
-                    "preface": null,
+                    "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
                     "itemList": [
                       {
                         "itemTitle": "Presentation (Part 2)",
@@ -6161,11 +6164,11 @@
                   },
                   "3": {
                     "part": "3",
-                    "title": null,
+                    "title": "Creature Stats",
                     "tags": [
                       null
                     ],
-                    "preface": null,
+                    "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
                     "itemList": [
                       {
                         "itemTitle": "Table (Part 3)",
@@ -6291,11 +6294,11 @@
                 "parts": {
                   "1": {
                     "part": "1",
-                    "title": null,
+                    "title": "Why Do I Like That?",
                     "tags": [
                       null
                     ],
-                    "preface": null,
+                    "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
                     "itemList": [
                       {
                         "itemTitle": "Presentation (Part 1)",
@@ -6346,11 +6349,11 @@
                   },
                   "2": {
                     "part": "2",
-                    "title": null,
+                    "title": "The Perception of Beauty",
                     "tags": [
                       null
                     ],
-                    "preface": null,
+                    "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
                     "itemList": [
                       {
                         "itemTitle": "Presentation (Part 2)",
@@ -6401,11 +6404,11 @@
                   },
                   "3": {
                     "part": "3",
-                    "title": null,
+                    "title": "Creature Stats",
                     "tags": [
                       null
                     ],
-                    "preface": null,
+                    "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
                     "itemList": [
                       {
                         "itemTitle": "Presentation (Part 3)",
@@ -6549,11 +6552,11 @@
                 "parts": {
                   "1": {
                     "part": "1",
-                    "title": null,
+                    "title": "Why Do I Like That?",
                     "tags": [
                       null
                     ],
-                    "preface": null,
+                    "preface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
                     "itemList": [
                       {
                         "itemTitle": "Presentation (Part 1)",
@@ -6574,11 +6577,11 @@
                   },
                   "2": {
                     "part": "2",
-                    "title": null,
+                    "title": "The Perception of Beauty",
                     "tags": [
                       null
                     ],
-                    "preface": null,
+                    "preface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
                     "itemList": [
                       {
                         "itemTitle": "Presentation (Part 2)",
@@ -6599,11 +6602,11 @@
                   },
                   "3": {
                     "part": "3",
-                    "title": null,
+                    "title": "Creature Stats",
                     "tags": [
                       null
                     ],
-                    "preface": null,
+                    "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
                     "itemList": [
                       {
                         "itemTitle": "Presentation (Part 3)",
@@ -6714,11 +6717,11 @@
                 "parts": {
                   "3": {
                     "part": "3",
-                    "title": null,
+                    "title": "Creature Stats",
                     "tags": [
                       null
                     ],
-                    "preface": null,
+                    "preface": "Students collect data from original artworks to test whether being outside the range of human variation makes a drawing creepy or cute.",
                     "itemList": [
                       {
                         "itemTitle": "Student Table (Part 3)",
@@ -6809,9 +6812,9 @@
           "parts": [
             {
               "partNum": 1,
-              "partTitle": null,
+              "partTitle": "PartTitle",
               "partDur": 60,
-              "partPreface": null,
+              "partPreface": "PartPreface",
               "partPrep": {
                 "PrepTitle": "Prep",
                 "PrepDur": null,
@@ -7006,9 +7009,9 @@
             },
             {
               "partNum": 2,
-              "partTitle": null,
+              "partTitle": "Why Do I Like That?",
               "partDur": 60,
-              "partPreface": null,
+              "partPreface": "Students conduct an experiment on themselves. They rank images and attempt to understand *why* they preferred some images over others.",
               "partPrep": {
                 "PrepTitle": "Prep",
                 "PrepDur": 10,
@@ -7143,9 +7146,9 @@
             },
             {
               "partNum": 3,
-              "partTitle": null,
+              "partTitle": "The Perception of Beauty",
               "partDur": null,
-              "partPreface": null,
+              "partPreface": "Students analyze real data to determine if fish mating preferences are explained by sensitivity to certain colors.",
               "partPrep": {
                 "PrepTitle": "Prep",
                 "PrepDur": null,
