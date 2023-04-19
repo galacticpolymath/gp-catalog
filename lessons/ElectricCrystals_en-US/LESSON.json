@@ -2,31 +2,33 @@
   "id": 6,
   "UniqueID": "lesson_6_locale_1",
   "ShortTitle": "ElectricCrystals",
+  "PublicationStatus": "Draft",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-10 12:14:57",
+  "LastUpdated": "2023-04-19 18:10:59",
+  "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.4.3",
+  "TemplateVer": "0.4.5",
   "galacticPubsVer": "0.9.5",
-  "FirstPublicationDate": "2023-04-10 12:14:57",
   "URL": "https://galacticpolymath.com/lessons/6",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/ElectricCrystals_en-US.git",
+  "GdriveHome": "GP-Studio",
   "GdriveDirName": "ElectricCrystals_en-US",
   "GdriveDirID": "1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5",
   "GdriveMetaID": "1dlkMAHfl7P-uFno3U_9lCheDFew3SjT5",
-  "GdriveTeachItID": "1cRlSHwEpGrcd0msr4ZInfQu_EnLKIeIkVymaN9BVo6o",
-  "GdriveStandardsID": "1uvcKiHf2CXaDJErtKRdg4IRhBxbZLWXKF2g1EX94PXI",
+  "GdriveTeachMatID": "17GmAzcNYGrrTw7iBV-QQYHrPxw-C69WX",
+  "GdriveTeachItID": "1EeLGtFTENDXL3Qk6Bq8_h_cjsi6-yAhqyoFi8ot0zCw",
+  "GdriveStandardsID": "12Uvoiwwz5ErDIAIByYCjqU0RKX4lQNoHCIEqpFs34gA",
   "GdrivePublishedID": "1dlN6OdrQXZi4YzV0-9sjsaPL3ZDAQK-C",
   "GdrivePublicID": null,
   "GdriveDirURL": "https://drive.google.com/drive/folders/1J24HOKWaZM346IKL2Vs32YjAu9fvlEj5",
-  "PublicationStatus": "Draft",
   "RebuildAllMaterials": false,
   "ReleaseDate": "2050-01-01",
   "Title": "Electric Crystals",
@@ -39,13 +41,13 @@
   "SponsoredBy": "- University of Nebraska-Lincoln's [Funsize Physics](https://funsizephysics.com/). Whether you’re 7 or 107, a full-blown science fanatic or simply curious, this is the place for you.\n- National Science Foundation grant DMR 2048959",
   "SponsorImage": {
     "url": [
-      "https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/FunSizePhysics_logo.png",
-      "https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/NSF_4-Color_bitmap_Logo@0.25x.png",
-      "https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/R-UNL_RGB_logo.jpg"
+      "https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/FunSizePhysics_logo.png",
+      "https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/NSF_4-Color_bitmap_Logo@0.25x.png",
+      "https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/R-UNL_RGB_logo.jpg"
     ]
   },
   "CoverImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/banner.png"
+    "url": "https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/banner.png"
   },
   "Section": {
     "overview": {
@@ -61,10 +63,10 @@
         }
       ],
       "SteamEpaulette": {
-        "url": null
+        "url": "https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/GP-Learning-Epaulette.png"
       },
       "SteamEpaulette_vert": {
-        "url": null
+        "url": "https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/GP-Learning-Epaulette_vert.png"
       },
       "Description": "NA"
     },
@@ -81,7 +83,6 @@
       "__component": "teaching-resources.teaching-resources",
       "SectionTitle": "Teaching Materials",
       "Data": {
-        "lessonDur": "Part 1: NA min, Part 0:  min",
         "classroom": {
           "gradeVariantNotes": [
             {
@@ -112,18 +113,14 @@
               "parts": [
                 {
                   "part": "1",
-                  "title": "What is a crystal?",
+                  "title": null,
                   "tags": [
-                    [
-                      "comics",
-                      "cards",
-                      "hands-on"
-                    ]
+                    null
                   ],
-                  "preface": "An original comic engages students in a card-based activity. Students will learn what a \"crystal\" is, and how it's structure and properties differ from \"amorphous solids\" like glass.",
+                  "preface": null,
                   "itemList": [
                     {
-                      "itemTitle": "Handout/ Card (Part 1)",
+                      "itemTitle": "Handout/ Card_(Part 1)",
                       "itemDescription": "Print 1 per Student",
                       "itemCat": "presentation",
                       "links": [
@@ -138,7 +135,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet (Part 1)",
+                      "itemTitle": "Teacher_worksheet_(Part 1)",
                       "itemDescription": "Print 1 Copy",
                       "itemCat": "document",
                       "links": [
@@ -151,22 +148,34 @@
                           "url": "https:/docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/template/preview"
                         }
                       ]
+                    },
+                    {
+                      "itemTitle": "Student_worksheet_(Part 1)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1QIS_lvkq3jPFQptNWXVwxxRXG1M9sPkOwPmj0917bxQ/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1QIS_lvkq3jPFQptNWXVwxxRXG1M9sPkOwPmj0917bxQ/template/preview"
+                        }
+                      ]
                     }
                   ]
                 },
                 {
                   "part": "2",
-                  "title": "Unit cells and their molecular building blocks.",
+                  "title": null,
                   "tags": [
-                    [
-                      "comics",
-                      "hands-on"
-                    ]
+                    null
                   ],
-                  "preface": "Students do construct toothpick-and-grape models to understand atomic arrangements inside the crystal *unit cell*.",
+                  "preface": null,
                   "itemList": [
                     {
-                      "itemTitle": "Teacher Worksheet (Part 2)",
+                      "itemTitle": "Teacher_worksheet_(Part 2)",
                       "itemDescription": "Print 1 Copy",
                       "itemCat": "document",
                       "links": [
@@ -179,19 +188,34 @@
                           "url": "https:/docs.google.com/document/d/1AhRceruzn8ytn1FSJg-tdxcw0Qmiz6U3OWS8eHG--jc/template/preview"
                         }
                       ]
+                    },
+                    {
+                      "itemTitle": "Student_worksheet_(Part 2)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1731ng2yUv_8RNGV5OB5Bew1WY_Rsky-O7qP5f9C7RNE/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1731ng2yUv_8RNGV5OB5Bew1WY_Rsky-O7qP5f9C7RNE/template/preview"
+                        }
+                      ]
                     }
                   ]
                 },
                 {
                   "part": "3",
-                  "title": "How do crystals get their shapes?",
+                  "title": null,
                   "tags": [
                     null
                   ],
-                  "preface": "Students build multiple *unit cells* using paper foldables in order to understand different types of symmetry in crystal structures.",
+                  "preface": null,
                   "itemList": [
                     {
-                      "itemTitle": "Handout (Part 3)",
+                      "itemTitle": "Handout_(Part 3)",
                       "itemDescription": null,
                       "itemCat": "presentation",
                       "links": [
@@ -206,7 +230,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher Worksheet (Part 3)",
+                      "itemTitle": "Teacher_worksheet_(Part 3)",
                       "itemDescription": "Print 1 Copy",
                       "itemCat": "document",
                       "links": [
@@ -219,22 +243,34 @@
                           "url": "https:/docs.google.com/document/d/1w85Gg0xW3xewvVrXx87RI1wGdcDaftwY6iGESm79wOc/template/preview"
                         }
                       ]
+                    },
+                    {
+                      "itemTitle": "Student_worksheet_(Part 3)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1qdfi14wmE6i77z7kh7U2t08YzjFcNyAXMyK35vGQn94/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1qdfi14wmE6i77z7kh7U2t08YzjFcNyAXMyK35vGQn94/template/preview"
+                        }
+                      ]
                     }
                   ]
                 },
                 {
                   "part": "4",
-                  "title": "Electric crystals and their broken symmetries",
+                  "title": null,
                   "tags": [
-                    [
-                      "comics",
-                      "puzzles"
-                    ]
+                    null
                   ],
-                  "preface": "Students learn about how crystal molecular symmetry can cause the *piezoelectric effect*. They put on their engineering caps to solve puzzles related to common *piezo* devices (like a quartz watch) that use this effect to solve everyday problems.",
+                  "preface": null,
                   "itemList": [
                     {
-                      "itemTitle": "Teacher Worksheet (Part 4)",
+                      "itemTitle": "Teacher_worksheet_(Part 4)",
                       "itemDescription": "Print 1 Copy",
                       "itemCat": "document",
                       "links": [
@@ -258,335 +294,405 @@
         "parts": [
           {
             "partNum": 1,
-            "partTitle": "What is a crystal?",
+            "partTitle": "Part 1| Procedure not documented yet",
             "partDur": null,
-            "partPreface": "An original comic engages students in a card-based activity. Students will learn what a \"crystal\" is, and how it's structure and properties differ from \"amorphous solids\" like glass.",
-            "partPrep": {
-              "PrepTitle": "Prep",
-              "PrepDur": 10,
-              "PrepQuickDescription": "Print out handouts. Assemble supplies.",
-              "PrepDetails": "Make a bulleted list like this:\n- First thing needed (hit ALT+Enter for new line)\n- Second thing needed",
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": "We expect a basic understanding of...X. If they need background, read [this article](paste URL)."
-            },
-            "chunks": [
-              {
-                "chunkTitle": "******\nWrite Over This Text A2:K:4  (but don't delete row!)\n******\nChunk 1 Title; you don't need to repeat this across steps in the same chunk.",
-                "chunkStart": 0,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": "******\nWrite Title; Be sure to refer to notes in each column header\n******\nStep 1 Title. Need 1 per Step.",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "Details about this step. In this column, as well as StepQuickDescription, and Variant Notes, you can embed a link to a video. Ex: To insert a link to the video listed in the Multimedia tab with Order=1, simply add [ERROR: CHECK *{vid1}* REFERENCE. NO LINK FOUND]() anywhere in the text description. A formatted link with the video title will be added to the Procedure.JSON used to generate the lesson plan webpage.",
-                    "Vocab": null,
-                    "VariantNotes": "Notes about either classroom or remote differences or grade level differences if there are multiple grade variants (e.g. high school vs middle school)",
-                    "TeachingTips": "Teaching Tips"
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Chunk 2 Title",
-                "chunkStart": 10,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 2,
-                    "StepTitle": "Step 2 Title. Need 1 per Step.",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "Students will play with the Cards handout: [ERROR: CHECK *{item3}* REFERENCE. NO LINK FOUND]()  (This would expand item3 to have a title and link to a pdf if it were listed in the Multimedia tab",
-                    "Vocab": null,
-                    "VariantNotes": "In the G5-6 version..., while in the G7-8 version... In the remote version...",
-                    "TeachingTips": "In the remote version, make sure students are using Chrome and not Internet Explorer... or whatever"
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Chunk 3 Title",
-                "chunkStart": 20,
-                "chunkDur": 25,
-                "steps": [
-                  {
-                    "Step": 3,
-                    "StepTitle": "Step 4 Title",
-                    "StepQuickDescription": "Concise Description",
-                    "StepDetails": "More Detailed description",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 4,
-                    "StepTitle": "Step 4 Title",
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": null
+            "partPreface": null,
+            "chunks": null,
+            "partExtension": null
           },
           {
             "partNum": 2,
-            "partTitle": "Unit cells and their molecular building blocks.",
+            "partTitle": "Part 2| Procedure not documented yet",
             "partDur": null,
-            "partPreface": "Students do construct toothpick-and-grape models to understand atomic arrangements inside the crystal *unit cell*.",
-            "partPrep": {
-              "PrepTitle": "Prep",
-              "PrepDur": null,
-              "PrepQuickDescription": null,
-              "PrepDetails": null,
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": null
-            },
-            "chunks": [
-              {
-                "chunkTitle": "Chunk 1 Title",
-                "chunkStart": 0,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": "Step 1 Title",
-                    "StepQuickDescription": null,
-                    "StepDetails": "READ THIS ↓",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Chunk 2 Title",
-                "chunkStart": 10,
-                "chunkDur": 30,
-                "steps": [
-                  {
-                    "Step": 2,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Chunk 3 Title",
-                "chunkStart": 40,
-                "chunkDur": 5,
-                "steps": [
-                  {
-                    "Step": 3,
-                    "StepTitle": null,
-                    "StepQuickDescription": "READ THIS →",
-                    "StepDetails": "When you've looked at this example text and understand how it works, select cells A4:K21 and delete. Don't delete the top row!",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": null
+            "partPreface": null,
+            "chunks": null,
+            "partExtension": null
           },
           {
             "partNum": 3,
-            "partTitle": "How do crystals get their shapes?",
+            "partTitle": "Part 3| Procedure not documented yet",
             "partDur": null,
-            "partPreface": "Students build multiple *unit cells* using paper foldables in order to understand different types of symmetry in crystal structures.",
-            "partPrep": {
-              "PrepTitle": null,
-              "PrepDur": null,
-              "PrepQuickDescription": null,
-              "PrepDetails": "READ THIS ↑",
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": null
-            },
-            "chunks": [
-              {
-                "chunkTitle": null,
-                "chunkStart": 0,
-                "chunkDur": 10,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": null,
-                "chunkStart": 10,
-                "chunkDur": 15,
-                "steps": [
-                  {
-                    "Step": 2,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": null,
-                "chunkStart": 25,
-                "chunkDur": null,
-                "steps": [
-                  {
-                    "Step": 3,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": null
+            "partPreface": null,
+            "chunks": null,
+            "partExtension": null
           },
           {
             "partNum": 4,
-            "partTitle": "Electric crystals and their broken symmetries",
-            "partDur": null,
-            "partPreface": "Students learn about how crystal molecular symmetry can cause the *piezoelectric effect*. They put on their engineering caps to solve puzzles related to common *piezo* devices (like a quartz watch) that use this effect to solve everyday problems.",
-            "partPrep": {
-              "PrepTitle": null,
-              "PrepDur": null,
-              "PrepQuickDescription": null,
-              "PrepDetails": null,
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": null
-            },
-            "chunks": [
-              {
-                "chunkTitle": null,
-                "chunkStart": 0,
-                "chunkDur": null,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": null,
-                "chunkStart": null,
-                "chunkDur": null,
-                "steps": [
-                  {
-                    "Step": 2,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": null
-          },
-          {
-            "partNum": 5,
-            "partTitle": null,
+            "partTitle": "Part 4| Procedure not documented yet",
             "partDur": null,
             "partPreface": null,
-            "partPrep": {
-              "PrepTitle": null,
-              "PrepDur": null,
-              "PrepQuickDescription": null,
-              "PrepDetails": null,
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": null
-            },
-            "chunks": [
-              {
-                "chunkTitle": null,
-                "chunkStart": 0,
-                "chunkDur": null,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  },
-                  {
-                    "Step": 2,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": null
-          },
-          {
-            "partNum": 6,
-            "partTitle": null,
-            "partDur": null,
-            "partPreface": null,
-            "partPrep": {
-              "PrepTitle": null,
-              "PrepDur": null,
-              "PrepQuickDescription": null,
-              "PrepDetails": null,
-              "PrepVariantNotes": null,
-              "PrepTeachingTips": null
-            },
-            "chunks": [
-              {
-                "chunkTitle": null,
-                "chunkStart": 0,
-                "chunkDur": null,
-                "steps": [
-                  {
-                    "Step": 1,
-                    "StepTitle": null,
-                    "StepQuickDescription": null,
-                    "StepDetails": null,
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              }
-            ],
-            "partExt": null
+            "chunks": null,
+            "partExtension": null
           }
         ],
         "gatheredVocab": null
       }
+    },
+    "standards-header": {
+      "__component": "lesson-plan.section-heading",
+      "SectionTitle": "Learning Standards"
+    },
+    "standards": {
+      "__component": "lesson-plan.standards",
+      "LearningObj": "NA",
+      "Data": [
+        {
+          "subject": "Math",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCM",
+              "name": "Common Core Math",
+              "dimensions": [
+                {
+                  "slug": "AGTC&HLT",
+                  "name": "Algebra, Geometry, Trig, Calculus & Higher Level Thinking",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "7.EE.B.4",
+                      "grades": "7",
+                      "statements": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    },
+                    {
+                      "parts": [
+                        "3"
+                      ],
+                      "codes": "8.G.A.1",
+                      "grades": "8",
+                      "statements": "Verify experimentally the properties of rotations, reflections, and translations:",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "ELA",
+          "target": false,
+          "sets": [
+            {
+              "slug": "CCELA",
+              "name": "Common Core ELA",
+              "dimensions": [
+                {
+                  "slug": "W",
+                  "name": "Writing",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.7.1b",
+                      "grades": "7",
+                      "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.8.1b",
+                      "grades": "8",
+                      "statements": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "W.9-10.1",
+                      "grades": [
+                        "9",
+                        "10"
+                      ],
+                      "statements": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": false,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "CEDS-M2",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Construct an explanation using models or representations.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Constructing Explanations & Designing Solutions"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "SF-M2",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Structures can be designed to serve particular functions by taking into account properties of different materials, and how materials can be shaped and used.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "PAT-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Macroscopic patterns are related to the nature of microscopic and atomic-level structure.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Patterns"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "SF-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Investigating or designing new systems or structures requires a detailed examination of the properties of different materials, the structures of different components, and connections of components to reveal its function and/or solve a problem.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "PAT-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Different patterns may be observed at each of the scales at which a system is studied and can provide evidence for causality in explanations of phenomena.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Patterns"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "subject": "Science",
+          "target": true,
+          "sets": [
+            {
+              "slug": "NGSS",
+              "name": "NGSS",
+              "dimensions": [
+                {
+                  "slug": "SEP",
+                  "name": "Science & Engineering Practices",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "MOD-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Develop and/or use a model to predict and/or describe phenomena.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Developing & Using Models"
+                    },
+                    {
+                      "parts": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "MOD-H4",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Develop and/or use multiple types of models to provide mechanistic accounts and/or predict phenomena, and move flexibly between model types based on merits and limitations.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Developing & Using Models"
+                    },
+                    {
+                      "parts": [
+                        "2",
+                        "3"
+                      ],
+                      "codes": "MOD-H5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Use a model to provide mechanistic accounts of phenomena.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Developing & Using Models"
+                    }
+                  ]
+                },
+                {
+                  "slug": "CCC",
+                  "name": "Cross-Cutting Concepts",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "2",
+                        "3",
+                        "4"
+                      ],
+                      "codes": "SF-M1",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Complex and microscopic structures and systems can be visualized, modeled, and used to describe how their function depends on the shapes, composition, and relationships among its parts, therefore complex natural structures/systems can be analyzed to determine how they function.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "SF-H2",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "The functions and properties of natural and designed objects and systems can be inferred from their overall structure, the way their components are shaped and used, and the molecular substructures of its various materials.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Function"
+                    }
+                  ]
+                },
+                {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3"
+                      ],
+                      "codes": "PS1.A-M5",
+                      "grades": [
+                        "6",
+                        "7",
+                        "8"
+                      ],
+                      "statements": "Solids may be formed from molecules, or they may be extended structures with repeating subunits (e.g., crystals).",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Properties of Matter"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "PS1.A-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Each atom has a charged substructure consisting of a nucleus, which is made of protons and neutrons, surrounded by electrons.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Properties of Matter"
+                    },
+                    {
+                      "parts": [
+                        "4"
+                      ],
+                      "codes": "PS1.A-H3",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "The structure and interactions of matter at the bulk scale are determined by electrical forces within and between atoms.",
+                      "alignmentNotes": "- Needs Documentation",
+                      "subcat": "Structure & Properties of Matter"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     "feedback": {
       "__component": "lesson-plan.collapsible-text-section",
