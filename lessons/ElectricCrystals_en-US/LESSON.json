@@ -7,14 +7,14 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-19 18:10:59",
+  "LastUpdated": "2023-04-21 20:11:46",
   "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.4.5",
+  "TemplateVer": "0.4.7",
   "galacticPubsVer": "0.9.5",
   "URL": "https://galacticpolymath.com/lessons/6",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/ElectricCrystals_en-US/LESSON.json",
@@ -39,6 +39,16 @@
     "University of Nebraska-Lincoln"
   ],
   "SponsoredBy": "- University of Nebraska-Lincoln's [Funsize Physics](https://funsizephysics.com/). Whether you’re 7 or 107, a full-blown science fanatic or simply curious, this is the place for you.\n- National Science Foundation grant DMR 2048959",
+  "SponsorLogo": [
+    "assets/_banners_logos_etc/FunSizePhysics_logo.png",
+    "assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo@0.25x.png",
+    "assets/_banners_logos_etc/R-UNL_RGB_logo.jpg"
+  ],
+  "LessonBanner": "assets/_banners_logos_etc/banner.png",
+  "TargetSubject": "Science",
+  "LessonEnvir": "Classroom",
+  "ForGrades": "7-12",
+  "GradesOrYears": "Grades",
   "SponsorImage": {
     "url": [
       "https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/FunSizePhysics_logo.png",
@@ -52,11 +62,12 @@
   "Section": {
     "overview": {
       "__component": "lesson-plan.overview",
+      "LearningSummary": "Crystals aren't magic, but they are amazing! In this student-driven, lecture-free lesson, students will do card sorts, build hands-on models, solve engineering design puzzles, and more! The whole experience is connected through a beautifully crafted comic.",
       "EstLessonTime": "4 x 45 min classes",
       "GradesOrYears": "Grades",
       "ForGrades": "7-12",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhat are crystals and in addition to being pretty to look at, how are they relevant to our daily lives?\n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.\n#### Learning Summary:\nCrystals aren't magic, but they are amazing! In this student-driven, lecture-free lesson, students will do card sorts, build hands-on models, solve engineering design puzzles, and more! The whole experience is connected through a beautifully crafted comic.\nNA",
+      "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhat are crystals and in addition to being pretty to look at, how are they relevant to our daily lives?\n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.\nNA",
       "Tags": [
         {
           "Value": "NA"
@@ -83,6 +94,7 @@
       "__component": "teaching-resources.teaching-resources",
       "SectionTitle": "Teaching Materials",
       "Data": {
+        "lessonDur": "Part 1: NA min, Part 0:  min",
         "classroom": {
           "gradeVariantNotes": [
             {
@@ -113,7 +125,7 @@
               "parts": [
                 {
                   "part": "1",
-                  "title": null,
+                  "title": "What's a crystal?",
                   "tags": [
                     null
                   ],
@@ -168,7 +180,7 @@
                 },
                 {
                   "part": "2",
-                  "title": null,
+                  "title": "Unit cells and their molecular building blocks.",
                   "tags": [
                     null
                   ],
@@ -208,7 +220,7 @@
                 },
                 {
                   "part": "3",
-                  "title": null,
+                  "title": "How do crystals get their shapes?",
                   "tags": [
                     null
                   ],
@@ -263,7 +275,7 @@
                 },
                 {
                   "part": "4",
-                  "title": null,
+                  "title": "Electric crystals and their broken symmetries.",
                   "tags": [
                     null
                   ],
@@ -283,6 +295,21 @@
                           "url": "https:/docs.google.com/document/d/1cgrhNQy_nwO8Ej7haVShtuO19RGreX4j_QB1VyoyQ8Q/template/preview"
                         }
                       ]
+                    },
+                    {
+                      "itemTitle": "Student_worksheet_(Part 4)",
+                      "itemDescription": "Print 1 per Student",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1I77jzX1BZZOaNsM9w6JcocpkPw-QJWxfrLJpBzSPxfo/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https:/docs.google.com/document/d/1I77jzX1BZZOaNsM9w6JcocpkPw-QJWxfrLJpBzSPxfo/template/preview"
+                        }
+                      ]
                     }
                   ]
                 },
@@ -294,43 +321,273 @@
         "parts": [
           {
             "partNum": 1,
-            "partTitle": "Part 1| Procedure not documented yet",
+            "partTitle": "What's a crystal?",
             "partDur": null,
             "partPreface": null,
-            "chunks": null,
-            "partExtension": null
+            "partPrep": {
+              "PrepTitle": "Prep",
+              "PrepDur": 10,
+              "PrepQuickDescription": "Print out handouts.",
+              "PrepDetails": "- P1 worksheet \n- SPEX 3000 output cards",
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Warm-Up",
+                "chunkStart": 0,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "Welcome to The Crystal Factory",
+                    "StepQuickDescription": "Start the tour of the factory!",
+                    "StepDetails": "Read the first two comic pages to meet the tour guide, Krista, and enter the crystal factory. Students in the comic have brought items they think might be a crystal. Students are prompted to imagine what item they might bring to a tour of the crystal factory.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "The Microstructure of Crystals",
+                "chunkStart": 5,
+                "chunkDur": 30,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": "SPEX 3000 Mystery Solid Analysis",
+                    "StepQuickDescription": "Examine the analysis summaries for each of the items fed into the SPEX 3000.",
+                    "StepDetails": "Students will read and sort the analysis summary cards generated by the SPEX 3000 machine: {item3}. Each card lists the name of the sample and examples of its visual, microscopic, and chemical structure. The worksheet prompts students to sort these cards in order of personal interest and usefulness.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 3,
+                    "StepTitle": "Is It a Crystal?",
+                    "StepQuickDescription": "The definition of a \"crystal\" is introduced and students determine which of the mystery solids are crystals.",
+                    "StepDetails": "In the comic, Krista explains the definition of a crystal, and students will use the \"computed chemical structure\" section of each SPEX 3000 summary to determine if the mystery solids are crystals or not. Krista also introduces the concept of an amorphous solid, which is not microscopically ordered in the same way as a crystal, and therefore has different kinds of uses. Students will use the worksheet to summarize their understanding of crystals and amorphous solids, and the differences between them.",
+                    "Vocab": "- **crystal:**  a material which is highly organized on a microscopic scale AND has well-defined planes of symmetry",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Wind-Down",
+                "chunkStart": 35,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 4,
+                    "StepTitle": "Debrief",
+                    "StepQuickDescription": "Reflect on the first activity of the factory tour.",
+                    "StepDetails": "The worksheet asks students to reflect on what they learned, what they found surprising, and what they're still curious about.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "partExt": null
           },
           {
             "partNum": 2,
-            "partTitle": "Part 2| Procedure not documented yet",
+            "partTitle": "Unit cells and their molecular building blocks.",
             "partDur": null,
             "partPreface": null,
-            "chunks": null,
-            "partExtension": null
+            "partPrep": {
+              "PrepTitle": "Prep",
+              "PrepDur": null,
+              "PrepQuickDescription": "Print out handouts. Assemble supplies.",
+              "PrepDetails": "- P2 worksheet\n- Two colors of gumdrops or grapes (14 of each color per student)\n- Toothpicks (42 per student)",
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Warm-Up",
+                "chunkStart": 0,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": "The Unit Cell",
+                    "StepQuickDescription": "Meet the most basic building block of a crystal.",
+                    "StepDetails": "Read the first page of the worksheet to learn that unit cells are the building blocks of a crystal. They can't be divided any farther, or they won't grow into a full crystal. However, unit cells contain lots of molecules and atoms inside them.",
+                    "Vocab": "- **unit cell:**  the smallest possible piece of a crystal",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 2,
+                    "StepTitle": "Activity Prep",
+                    "StepQuickDescription": "Assemble your supplies for the molecule-building activity.",
+                    "StepDetails": "Each student should obtain 14 gumdrops or grapes of each color, as well as 42 toothpicks.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "The Molecular Structure of NaCl (Table Salt)",
+                "chunkStart": 5,
+                "chunkDur": 30,
+                "steps": [
+                  {
+                    "Step": 3,
+                    "StepTitle": "The Parts of an Atom and Ionic Bonding",
+                    "StepQuickDescription": "Background about some super cool chemistry stuff.",
+                    "StepDetails": "Panels on the worksheet define the parts of an atom-- protons, electrons, and neutrons-- and the concept of electron shells. The process of ionic bonding is also introduced, and students are guided through some comprehension questions to solidify their understanding of these definitions.",
+                    "Vocab": "- **proton:**  positively charged particle\n- **neutron:**  neutrally charged particle\n- **electron:**  negatively charged particle\n- **nucleus:**  center of an atom where protons and neutrons are found\n- **shell:**  different energy levels of the electron cloud surrounding a nucleus",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 4,
+                    "StepTitle": "The NaCl Unit Cell",
+                    "StepQuickDescription": "Using toothpicks and gumdrops or grapes to build molecular models and a unit cell.",
+                    "StepDetails": "The worksheet guides students through building four NaCl molecules to start, then the process of connecting the molecules together to begin forming a crystal structure. The symmetry rules of the chemical bonds are summarized, and students are prompted with several comprehension questions on these rules. Students finish building an entire NaCl unit cube, and reflect on its shape and usefulness.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "The Molecular Structure of SiO2 (Quartz)",
+                "chunkStart": 35,
+                "chunkDur": 15,
+                "steps": [
+                  {
+                    "Step": 5,
+                    "StepTitle": "Covalent Bonding",
+                    "StepQuickDescription": "Introduction to the more complicated bonds in SiO2 molecules.",
+                    "StepDetails": "Panels on the worksheet introduce the concept of covalent bonding, then explain that the chemical bonds inside SiO2 molecules are more complex than those in NaCl.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 6,
+                    "StepTitle": "Bonus Challenge: Building SiO2 Molecules",
+                    "StepQuickDescription": "Using toothpicks and gumdrops or grapes to build molecular models.",
+                    "StepDetails": "More advanced students might enjoy the challenge of building several SiO2 molecular models then attempting to fit them together as a unit cell.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
+                    "Step": 7,
+                    "StepTitle": "The SiO2 Unit Cell",
+                    "StepQuickDescription": "Diagrams of the SiO2 unit cell.",
+                    "StepDetails": "Projections of the SiO2 unit cell are discussed to lay the foundation for concepts covered in P4. Students can also explore a [3D model of the quartz unit cell](https://bit.ly/3Z0AMDi), and notice that viewing the cell from different angles produces different projections.",
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "partExt": null
           },
           {
             "partNum": 3,
-            "partTitle": "Part 3| Procedure not documented yet",
+            "partTitle": "How do crystals get their shapes?",
             "partDur": null,
             "partPreface": null,
-            "chunks": null,
-            "partExtension": null
-          },
-          {
-            "partNum": 4,
-            "partTitle": "Part 4| Procedure not documented yet",
-            "partDur": null,
-            "partPreface": null,
-            "chunks": null,
-            "partExtension": null
+            "partPrep": {
+              "PrepTitle": "Prep",
+              "PrepDur": null,
+              "PrepQuickDescription": "Print handouts. Assemble materials.",
+              "PrepDetails": "- P3 worksheet\n- Unit Cell handout\n- Scissors\n- Toothpicks (2-3 per student)\n- Tape or glue",
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
+            "chunks": [
+              {
+                "chunkTitle": "Warm-Up",
+                "chunkStart": 0,
+                "chunkDur": 5,
+                "steps": [
+                  {
+                    "Step": 1,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              },
+              {
+                "chunkTitle": null,
+                "chunkStart": 5,
+                "chunkDur": 30,
+                "steps": [
+                  {
+                    "Step": 2,
+                    "StepTitle": null,
+                    "StepQuickDescription": null,
+                    "StepDetails": null,
+                    "Vocab": null,
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  }
+                ]
+              }
+            ],
+            "partExt": null
           }
         ],
-        "gatheredVocab": null
+        "gatheredVocab": [
+          {
+            "term": "crystal",
+            "definition": "a material which is highly organized on a microscopic scale AND has well-defined planes of symmetry"
+          },
+          {
+            "term": "unit cell",
+            "definition": "the smallest possible piece of a crystal"
+          },
+          {
+            "term": "proton",
+            "definition": "positively charged particle"
+          },
+          {
+            "term": "neutron",
+            "definition": "neutrally charged particle"
+          },
+          {
+            "term": "electron",
+            "definition": "negatively charged particle"
+          },
+          {
+            "term": "nucleus",
+            "definition": "center of an atom where protons and neutrons are found"
+          },
+          {
+            "term": "shell",
+            "definition": "different energy levels of the electron cloud surrounding a nucleus"
+          }
+        ]
       }
     },
     "standards-header": {
       "__component": "lesson-plan.section-heading",
       "SectionTitle": "Learning Standards"
+    },
+    "learning-chart": {
+      "__component": "lesson-plan.learning-chart",
+      "Title": "About the GP Learning Chart",
+      "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 18 standards across US grade band(s): 5-6, 7-8, 9-12.",
+      "Footnote": "",
+      "Badge": {
+        "url": "https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/GP-Learning-Chart.png"
+      }
     },
     "standards": {
       "__component": "lesson-plan.standards",
@@ -699,6 +956,16 @@
       "SectionTitle": "Feedback",
       "Content": "### Please let us know how it went with your class!\n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)\n- [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)\n",
       "InitiallyExpanded": true
+    },
+    "acknowledgments": {
+      "__component": "lesson-plan.acknowledgments",
+      "SectionTitle": "Acknowledgments",
+      "Data": null
+    },
+    "versions": {
+      "__component": "lesson-plan.versions",
+      "SectionTitle": "Version Notes",
+      "Data": null
     }
   }
 }
