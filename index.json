@@ -6988,7 +6988,7 @@
     "Country": "United States",
     "DefaultLanguage": "English",
     "DefaultCountry": "United States",
-    "LastUpdated": "2023-04-21 20:11:46",
+    "LastUpdated": "2023-04-22 19:49:04",
     "FirstPublicationDate": "2023-04-10 12:14:57",
     "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
     "lang": "en",
@@ -7048,10 +7048,10 @@
         "GradesOrYears": "Grades",
         "ForGrades": "7-12",
         "TargetSubject": "Science",
-        "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhat are crystals and in addition to being pretty to look at, how are they relevant to our daily lives?\n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.\nNA",
+        "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhat are crystals and in addition to being pretty to look at, how are they relevant to our daily lives?\n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.",
         "Tags": [
           {
-            "Value": "NA"
+            "Value": null
           }
         ],
         "SteamEpaulette": {
@@ -7060,15 +7060,13 @@
         "SteamEpaulette_vert": {
           "url": "https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/GP-Learning-Epaulette_vert.png"
         },
-        "Description": "NA"
+        "Description": null
       },
       "preview": {
         "__component": "lesson-plan.lesson-preview",
         "SectionTitle": "Lesson Preview",
         "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials </AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure </AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! </AnchorLink>\n",
-        "Multimedia": [
-          null
-        ],
+        "Multimedia": null,
         "InitiallyExpanded": true
       },
       "teaching-materials": {
@@ -7293,8 +7291,7 @@
                         ]
                       }
                     ]
-                  },
-                  null
+                  }
                 ]
               }
             ]
@@ -7572,7 +7569,7 @@
       },
       "standards": {
         "__component": "lesson-plan.standards",
-        "LearningObj": "NA",
+        "LearningObj": null,
         "Data": [
           {
             "subject": "Math",
@@ -7946,7 +7943,20 @@
       "versions": {
         "__component": "lesson-plan.versions",
         "SectionTitle": "Version Notes",
-        "Data": null
+        "Data": [
+          {
+            "major_release": "Beta",
+            "sub_releases": [
+              {
+                "version": "0.1.0",
+                "date": "April 22, 2023",
+                "summary": "Lesson initialized",
+                "notes": null,
+                "acknowledgments": null
+              }
+            ]
+          }
+        ]
       }
     }
   },
