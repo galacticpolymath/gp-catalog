@@ -6988,7 +6988,7 @@
     "Country": "United States",
     "DefaultLanguage": "English",
     "DefaultCountry": "United States",
-    "LastUpdated": "2023-04-24 15:12:14",
+    "LastUpdated": "2023-04-24 15:55:54",
     "FirstPublicationDate": "2023-04-10 12:14:57",
     "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
     "lang": "en",
@@ -7075,7 +7075,7 @@
             "lessonRelevance": "Caroline Hu's comics teach important science concepts and captivate students!",
             "by": "Galactic Polymath",
             "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-            "mainLink": [],
+            "mainLink": "https://docs.google.com/document/d/1QIS_lvkq3jPFQptNWXVwxxRXG1M9sPkOwPmj0917bxQ/preview",
             "otherLink": null
           },
           {
@@ -7086,7 +7086,7 @@
             "lessonRelevance": "Students connect with the comic narrative using these cards to investigate properties of crystals versus amorphous solids.",
             "by": "Galactic Polymath",
             "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-            "mainLink": [],
+            "mainLink": "https://docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/preview",
             "otherLink": null
           },
           {
@@ -7097,7 +7097,7 @@
             "lessonRelevance": "Cutouts to construct the 3D paper models of crystal unit cells. Students can construct several, or combine with classmates' models.",
             "by": "Galactic Polymath",
             "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-            "mainLink": [],
+            "mainLink": "https://docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/preview",
             "otherLink": null
           },
           {
@@ -7108,7 +7108,7 @@
             "lessonRelevance": "Watch Madelyn guide students in constructing unit cells from paper cutouts.",
             "by": "Galactic Polymath",
             "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-            "mainLink": [],
+            "mainLink": "https://www.youtube.com/embed/M5avLEoWvUI",
             "otherLink": null
           },
           {
@@ -7119,7 +7119,7 @@
             "lessonRelevance": "Madelyn shows how to use unit cell models to understand 3D symmetry in different structures.",
             "by": "Galactic Polymath",
             "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-            "mainLink": [],
+            "mainLink": "https://www.youtube.com/embed/O3Dz3ekEYQQ",
             "otherLink": null
           },
           {
@@ -7130,7 +7130,7 @@
             "lessonRelevance": "Madelyn explains piezoelectricity and how it relates to unit cell symmetry.",
             "by": "Galactic Polymath",
             "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-            "mainLink": [],
+            "mainLink": "https://www.youtube.com/embed/LMiV-9EYrmE",
             "otherLink": null
           }
         ],
@@ -7562,7 +7562,7 @@
                       "Step": 1,
                       "StepTitle": "Unit Cell Models",
                       "StepQuickDescription": "Cut out and assemble unit cell models from paper.",
-                      "StepDetails": "Following the instructions on the worksheet, cut out the unit cell meshes: [\u279a Comic-infused worksheets](). These models will be used throughout the rest of the lesson.",
+                      "StepDetails": "Following the instructions on the worksheet, cut out the unit cell meshes: [\u279a Comic-infused worksheets](https://docs.google.com/document/d/1QIS_lvkq3jPFQptNWXVwxxRXG1M9sPkOwPmj0917bxQ/edit). These models will be used throughout the rest of the lesson.",
                       "Vocab": null,
                       "VariantNotes": null,
                       "TeachingTips": null
@@ -7578,7 +7578,7 @@
                       "Step": 2,
                       "StepTitle": "What's a Symmetry?",
                       "StepQuickDescription": "Definitions of rotational and mirror symmetries.",
-                      "StepDetails": "The worksheet shows some examples of rotational and mirror symmetries. Also, check in with a video where Madelyn explains how to observe the symmetries of our unit cell models: [\u2667 SPEX 3000 Cards]()",
+                      "StepDetails": "The worksheet shows some examples of rotational and mirror symmetries. Also, check in with a video where Madelyn explains how to observe the symmetries of our unit cell models: [\u2667 SPEX 3000 Cards](https://docs.google.com/presentation/d/1OzRFuj1akldvdg9HZbcrYxYsFLfrs2V4pWhcCgppnmQ/edit#slide=id.p)",
                       "Vocab": null,
                       "VariantNotes": null,
                       "TeachingTips": null
