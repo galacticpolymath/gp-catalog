@@ -6988,7 +6988,7 @@
     "Country": "United States",
     "DefaultLanguage": "English",
     "DefaultCountry": "United States",
-    "LastUpdated": "2023-04-24 15:55:54",
+    "LastUpdated": "2023-04-24 16:18:33",
     "FirstPublicationDate": "2023-04-10 12:14:57",
     "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
     "lang": "en",
@@ -7070,6 +7070,7 @@
           {
             "order": "1",
             "type": "pdf",
+            "forPart": "1",
             "title": "Comic-infused worksheets",
             "description": null,
             "lessonRelevance": "Caroline Hu's comics teach important science concepts and captivate students!",
@@ -7081,6 +7082,7 @@
           {
             "order": "2",
             "type": "pdf",
+            "forPart": "1",
             "title": "SPEX 3000 Cards",
             "description": null,
             "lessonRelevance": "Students connect with the comic narrative using these cards to investigate properties of crystals versus amorphous solids.",
@@ -7092,6 +7094,7 @@
           {
             "order": "3",
             "type": "pdf",
+            "forPart": "3",
             "title": "Unit Cell Handout",
             "description": null,
             "lessonRelevance": "Cutouts to construct the 3D paper models of crystal unit cells. Students can construct several, or combine with classmates' models.",
@@ -7103,6 +7106,7 @@
           {
             "order": "4",
             "type": "video",
+            "forPart": "3",
             "title": "Exploring Crystal Structure and Symmetry: A Fun STEM Activity for Middle and High Schoolers (Part 1)",
             "description": "Learn about the basic repeating unit of crystals with Madelyn in this fun and educational activity. Follow along as she assembles rhombohedron and cube unit cells, exploring rotational and mirror symmetry. This is the perfect video for middle school science teachers or parents looking to engage their children in a hands-on STEM activity.",
             "lessonRelevance": "Watch Madelyn guide students in constructing unit cells from paper cutouts.",
@@ -7114,6 +7118,7 @@
           {
             "order": "5",
             "type": "video",
+            "forPart": "3",
             "title": "Exploring Crystal Structure and Symmetry: A Fun STEM Activity for Middle and High Schoolers (Part 2)",
             "description": "Join Madelyn in Part 2 of this educational STEM activity as she explains how unit cells are used to describe crystal growth and how symmetries must be preserved when connecting them. Watch as she demonstrates the proper stacking of cubes and rhombohedrons to build a crystal, and learn why using multiple types of unit cells can result in growth defects. This video is perfect for middle school science teachers and parents looking to engage their children in hands-on STEM learning.",
             "lessonRelevance": "Madelyn shows how to use unit cell models to understand 3D symmetry in different structures.",
@@ -7125,6 +7130,7 @@
           {
             "order": "6",
             "type": "video",
+            "forPart": "4",
             "title": "The Magic of Piezoelectricity: How Crystals Create Lightning",
             "description": "Join Madelyn as she demonstrates the incredible piezoelectric effect - how squeezing certain crystals can generate electric sparks that look like lightning! Learn about the science behind this phenomenon and why only certain crystals have this power based on their atomic arrangement and symmetry.",
             "lessonRelevance": "Madelyn explains piezoelectricity and how it relates to unit cell symmetry.",
