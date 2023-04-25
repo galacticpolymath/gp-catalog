@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-24 17:53:10",
+  "LastUpdated": "2023-04-25 14:38:15",
   "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
@@ -62,15 +62,24 @@
   "Section": {
     "overview": {
       "__component": "lesson-plan.overview",
-      "LearningSummary": "Crystals aren't magic, but they are amazing! In this student-driven, lecture-free lesson, students will do card sorts, build hands-on models, solve engineering design puzzles, and more! The whole experience is connected through a beautifully crafted comic.",
+      "LearningSummary": "Crystals aren't magic, but they are amazing! In this student-driven, lecture-free lesson, students will do card sorts, build hands-on models, solve engineering design puzzles, and more! The whole experience is connected through a beautifully crafted comic and supporting videos.",
       "EstLessonTime": "4 x 45 min classes",
       "GradesOrYears": "Grades",
       "ForGrades": "7-12",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhat are crystals and in addition to being pretty to look at, how are they relevant to our daily lives?\n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.",
+      "Text": "#### Driving Question(s):\n- What are crystals and how do they form?\n- How is molecular microstructure connected to functionality and properties we can easily observe?\n#### Essential Question(s):\nWhy are abstract concepts like geometry important for “real life”?\n#### Hook(s):\nAn engaging, original comic weaves together background information, hands-on activities, puzzles, and problem sets. Quick videos stoke curiosity and provide support for activities.",
       "Tags": [
         {
-          "Value": null
+          "Value": "crystals"
+        },
+        {
+          "Value": "engineering applications"
+        },
+        {
+          "Value": "symmetry"
+        },
+        {
+          "Value": "physics"
         }
       ],
       "SteamEpaulette": {
@@ -84,7 +93,7 @@
     "preview": {
       "__component": "lesson-plan.lesson-preview",
       "SectionTitle": "Lesson Preview",
-      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
+      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>\n",
       "Multimedia": [
         {
           "order": "1",
@@ -126,7 +135,7 @@
           "order": "4",
           "type": "video",
           "forPart": "3",
-          "title": "Exploring Crystal Structure and Symmetry: A Fun STEM Activity for Middle and High Schoolers (Part 1)",
+          "title": "Exploring Crystal Structure and Symmetry (Part 1)",
           "description": "Learn about the basic repeating unit of crystals with Madelyn in this fun and educational activity. Follow along as she assembles rhombohedron and cube unit cells, exploring rotational and mirror symmetry. This is the perfect video for middle school science teachers or parents looking to engage their children in a hands-on STEM activity.",
           "lessonRelevance": "Watch Madelyn guide students in constructing unit cells from paper cutouts.",
           "by": "Galactic Polymath",
@@ -138,7 +147,7 @@
           "order": "5",
           "type": "video",
           "forPart": "3",
-          "title": "Exploring Crystal Structure and Symmetry: A Fun STEM Activity for Middle and High Schoolers (Part 2)",
+          "title": "Exploring Crystal Structure and Symmetry (Part 2)",
           "description": "Join Madelyn in Part 2 of this educational STEM activity as she explains how unit cells are used to describe crystal growth and how symmetries must be preserved when connecting them. Watch as she demonstrates the proper stacking of cubes and rhombohedrons to build a crystal, and learn why using multiple types of unit cells can result in growth defects. This video is perfect for middle school science teachers and parents looking to engage their children in hands-on STEM learning.",
           "lessonRelevance": "Madelyn shows how to use unit cell models to understand 3D symmetry in different structures.",
           "by": "Galactic Polymath",
@@ -196,11 +205,14 @@
               "parts": [
                 {
                   "part": "1",
-                  "title": "What is a crystal?",
+                  "title": "What is a crystal, anyway?",
                   "tags": [
-                    null
+                    [
+                      "comic",
+                      "card-based activity"
+                    ]
                   ],
-                  "preface": null,
+                  "preface": "In this engaging, comic-driven lesson, students do individual and group-based activities to understand the characteristics of crystals (like quartz) versus amorphous solids (like glass).",
                   "itemList": [
                     {
                       "itemTitle": "Handout/ Card_(Part 1)",
@@ -251,11 +263,15 @@
                 },
                 {
                   "part": "2",
-                  "title": "Unit cells and their molecular building blocks.",
+                  "title": "Unit cells and their molecular building blocks",
                   "tags": [
-                    null
+                    [
+                      "comic",
+                      "hands-on",
+                      "3D models"
+                    ]
                   ],
-                  "preface": null,
+                  "preface": "Through hands-on activities using gumdrops and toothpicks, students will learn about unit cells that make up the repeating structures of crystals like table salt.",
                   "itemList": [
                     {
                       "itemTitle": "Teacher_worksheet_(Part 2)",
@@ -293,9 +309,13 @@
                   "part": "3",
                   "title": "How do crystals get their shapes?",
                   "tags": [
-                    null
+                    [
+                      "comic",
+                      "hands-on",
+                      "3D models"
+                    ]
                   ],
-                  "preface": null,
+                  "preface": "Students make paper models of crystal unit cells and build a large crystal structure together while reflecting on the role of symmetry in crystal formation.",
                   "itemList": [
                     {
                       "itemTitle": "Handout_(Part 3)",
@@ -346,11 +366,15 @@
                 },
                 {
                   "part": "4",
-                  "title": "Electric crystals and their broken symmetries.",
+                  "title": "Electric crystals and their broken symmetries",
                   "tags": [
-                    null
+                    [
+                      "comic",
+                      "puzzles",
+                      "real world applications"
+                    ]
                   ],
-                  "preface": null,
+                  "preface": "Students learn how some crystals produce electricity when squeezed (by the piezoelectric effect). Students perform calculations and explore engineering applications of piezo-devices to deepen understanding and engagement.",
                   "itemList": [
                     {
                       "itemTitle": "Teacher_worksheet_(Part 4)",
@@ -391,9 +415,9 @@
         "parts": [
           {
             "partNum": 1,
-            "partTitle": "What is a crystal?",
+            "partTitle": "What is a crystal, anyway?",
             "partDur": 50,
-            "partPreface": null,
+            "partPreface": "In this engaging, comic-driven lesson, students do individual and group-based activities to understand the characteristics of crystals (like quartz) versus amorphous solids (like glass).",
             "partPrep": {
               "PrepTitle": "Prep",
               "PrepDur": 5,
@@ -465,9 +489,9 @@
           },
           {
             "partNum": 2,
-            "partTitle": "Unit cells and their molecular building blocks.",
+            "partTitle": "Unit cells and their molecular building blocks",
             "partDur": 50,
-            "partPreface": null,
+            "partPreface": "Through hands-on activities using gumdrops and toothpicks, students will learn about unit cells that make up the repeating structures of crystals like table salt.",
             "partPrep": {
               "PrepTitle": "Prep",
               "PrepDur": 5,
@@ -568,7 +592,7 @@
             "partNum": 3,
             "partTitle": "How do crystals get their shapes?",
             "partDur": 50,
-            "partPreface": null,
+            "partPreface": "Students make paper models of crystal unit cells and build a large crystal structure together while reflecting on the role of symmetry in crystal formation.",
             "partPrep": {
               "PrepTitle": "Prep",
               "PrepDur": 5,
@@ -587,7 +611,7 @@
                     "Step": 1,
                     "StepTitle": "Unit Cell Models",
                     "StepQuickDescription": "Cut out and assemble unit cell models from paper.",
-                    "StepDetails": "Following the instructions on the worksheet, cut out the unit cell meshes: [▶ Exploring Crystal Structure and Symmetry: A Fun STEM Activity for Middle and High Schoolers (Part 1)](https://youtu.be/M5avLEoWvUI). These models will be used throughout the rest of the lesson.",
+                    "StepDetails": "Following the instructions on the worksheet, cut out the unit cell meshes: [▶ Exploring Crystal Structure and Symmetry (Part 1)](https://youtu.be/M5avLEoWvUI). These models will be used throughout the rest of the lesson.",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -603,7 +627,7 @@
                     "Step": 2,
                     "StepTitle": "What's a Symmetry?",
                     "StepQuickDescription": "Definitions of rotational and mirror symmetries.",
-                    "StepDetails": "The worksheet shows some examples of rotational and mirror symmetries. Also, check in with a video where Madelyn explains how to observe the symmetries of our unit cell models: [▶ Exploring Crystal Structure and Symmetry: A Fun STEM Activity for Middle and High Schoolers (Part 2)](https://youtu.be/O3Dz3ekEYQQ)",
+                    "StepDetails": "The worksheet shows some examples of rotational and mirror symmetries. Also, check in with a video where Madelyn explains how to observe the symmetries of our unit cell models: [▶ Exploring Crystal Structure and Symmetry (Part 2)](https://youtu.be/O3Dz3ekEYQQ)",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -649,9 +673,9 @@
           },
           {
             "partNum": 4,
-            "partTitle": "Electric crystals and their broken symmetries.",
+            "partTitle": "Electric crystals and their broken symmetries",
             "partDur": null,
-            "partPreface": null,
+            "partPreface": "Students learn how some crystals produce electricity when squeezed (by the piezoelectric effect). Students perform calculations and explore engineering applications of piezo-devices to deepen understanding and engagement.",
             "partPrep": {
               "PrepTitle": "Prep",
               "PrepDur": 5,
@@ -1160,13 +1184,27 @@
     "feedback": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Feedback",
-      "Content": "### Please let us know how it went with your class!\n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/HY1sFxZUH7uG6JqP8)\n- [For students](https://forms.gle/gwkRYvvZY6Sp2dQb9)\n",
+      "Content": "### Please let us know how it went with your class!\n#### We want to know what you (and/or your students) think!\nShare your feedback in < 5 min with these forms:\n- [For teachers](https://forms.gle/S2B6pvXKjoC2Do5FA)\n- [For students](https://forms.gle/JhWFX8ZkaxGszdug6)\n",
       "InitiallyExpanded": true
     },
     "acknowledgments": {
       "__component": "lesson-plan.acknowledgments",
       "SectionTitle": "Acknowledgments",
-      "Data": null
+      "Data": [
+        {
+          "role": "SciComm Consultant",
+          "def": "(Helped envision and plan an earlier version of the lesson)",
+          "records": [
+            {
+              "name": "Carleen Sabusap, PhD",
+              "url": "https://www.linkedin.com/in/carleen-sabusap-phd-1b769199/",
+              "title": null,
+              "affiliation": null,
+              "location": "Nashville, TN"
+            }
+          ]
+        }
+      ]
     },
     "versions": {
       "__component": "lesson-plan.versions",
