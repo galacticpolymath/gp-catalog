@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-25 15:38:09",
+  "LastUpdated": "2023-04-25 16:39:48",
   "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
@@ -174,7 +174,8 @@
       "__component": "teaching-resources.teaching-resources",
       "SectionTitle": "Teaching Materials",
       "Data": {
-        "lessonDur": "3 x 50 min",
+        "lessonPreface": "This lesson is largely student driven. There is no lecture or presentation. Videos provide check-ins and supports. The primary teacher role is to facilitate classroom discussions and engagement.",
+        "lessonDur": "4 x ~50 min",
         "classroom": {
           "gradeVariantNotes": [
             {
