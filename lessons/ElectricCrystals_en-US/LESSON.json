@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-04-27 12:15:25",
+  "LastUpdated": "2023-04-28 09:20:47",
   "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
@@ -200,7 +200,7 @@
               "grades": "Grades 7-12",
               "gradePrefix": "G7-12",
               "links": {
-                "linkText": "Download G7-12 Materials for All Parts",
+                "linkText": "Browse & Download All G7-12 Materials",
                 "url": "https://drive.google.com/drive/folders/1deOFzzAvZBO3S022aHBGqq3u6wGYSzCB"
               },
               "parts": [
@@ -216,7 +216,7 @@
                   "preface": "In this engaging, comic-driven lesson, students do individual and group-based activities to understand the characteristics of crystals (like quartz) versus amorphous solids (like glass).",
                   "itemList": [
                     {
-                      "itemTitle": "Handout/ Card_(Part 1)",
+                      "itemTitle": "SPEX 3000 Crystals vs. Amorphous Solids Card Set (Part 1)",
                       "itemDescription": "Print 1 per Student",
                       "itemCat": "presentation",
                       "links": [
@@ -231,22 +231,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher_worksheet_(Part 1)",
-                      "itemDescription": "Print 1 Copy",
-                      "itemCat": "document",
-                      "links": [
-                        {
-                          "linkText": "PDF (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                          "url": "https://docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Student_worksheet_(Part 1)",
+                      "itemTitle": "Student Worksheet (Part 1)",
                       "itemDescription": "Print 1 per Student",
                       "itemCat": "document",
                       "links": [
@@ -257,6 +242,21 @@
                         {
                           "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
                           "url": "https://docs.google.com/document/d/1QIS_lvkq3jPFQptNWXVwxxRXG1M9sPkOwPmj0917bxQ/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Teacher Worksheet (Part 1)",
+                      "itemDescription": "Print 1 Copy",
+                      "itemCat": "document",
+                      "links": [
+                        {
+                          "linkText": "PDF (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/export?format=pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                          "url": "https://docs.google.com/document/d/1PZvzZ9ytgr7uzo6QZBbqyUHvSe4fwDQ5eoAxdNiSL0Y/template/preview"
                         }
                       ]
                     }
@@ -275,7 +275,7 @@
                   "preface": "Through hands-on activities using gumdrops and toothpicks, students will learn about unit cells that make up the repeating structures of crystals like table salt.",
                   "itemList": [
                     {
-                      "itemTitle": "Teacher_worksheet_(Part 2)",
+                      "itemTitle": "Teacher Worksheet (Part 2)",
                       "itemDescription": "Print 1 Copy",
                       "itemCat": "document",
                       "links": [
@@ -290,7 +290,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student_worksheet_(Part 2)",
+                      "itemTitle": "Student Worksheet (Part 2)",
                       "itemDescription": "Print 1 per Student",
                       "itemCat": "document",
                       "links": [
@@ -319,8 +319,8 @@
                   "preface": "Students make paper models of crystal unit cells and build a large crystal structure together while reflecting on the role of symmetry in crystal formation.",
                   "itemList": [
                     {
-                      "itemTitle": "Handout_(Part 3)",
-                      "itemDescription": null,
+                      "itemTitle": "Crystal 3D Unit Cell Activity Handout (Part 3)",
+                      "itemDescription": "Print at least 1 per student. Need scissors and tape.",
                       "itemCat": "presentation",
                       "links": [
                         {
@@ -334,7 +334,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Teacher_worksheet_(Part 3)",
+                      "itemTitle": "Teacher Worksheet (Part 3)",
                       "itemDescription": "Print 1 Copy",
                       "itemCat": "document",
                       "links": [
@@ -349,7 +349,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student_worksheet_(Part 3)",
+                      "itemTitle": "Student Worksheet (Part 3)",
                       "itemDescription": "Print 1 per Student",
                       "itemCat": "document",
                       "links": [
@@ -378,7 +378,7 @@
                   "preface": "Students learn how some crystals produce electricity when squeezed (by the piezoelectric effect). Students perform calculations and explore engineering applications of piezo-devices to deepen understanding and engagement.",
                   "itemList": [
                     {
-                      "itemTitle": "Teacher_worksheet_(Part 4)",
+                      "itemTitle": "Teacher Worksheet (Part 4)",
                       "itemDescription": "Print 1 Copy",
                       "itemCat": "document",
                       "links": [
@@ -393,7 +393,7 @@
                       ]
                     },
                     {
-                      "itemTitle": "Student_worksheet_(Part 4)",
+                      "itemTitle": "Student Worksheet (Part 4)",
                       "itemDescription": "Print 1 per Student",
                       "itemCat": "document",
                       "links": [
