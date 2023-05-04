@@ -7,14 +7,14 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-05-03 21:53:29",
+  "LastUpdated": "2023-05-04 14:41:34",
   "FirstPublicationDate": "2021-12-16 16:03:12",
   "MediumTitle": "'Females singing to be heard' |Math| G5–8 & 9–12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.4.9",
+  "TemplateVer": "0.5.0",
   "galacticPubsVer": "0.9.6",
   "URL": "https://galacticpolymath.com/lessons/1",
   "GPCatalogURL": "https://gp-catalog.vercel.app/lessons/FemalesSing_en-US/LESSON.json",
@@ -31,7 +31,7 @@
   "GdriveStandardsID": "17LQk_E24nfMAdO3O54OvBXa28YW0kcpnhDModalTpes",
   "GdrivePublishedID": "1bJLtzE0TCZptVTd4HQ4eJMKf8K5A29De",
   "GdriveDirURL": "https://drive.google.com/drive/folders/1ZK_7lIrBBjq3mGoeVkpVS67Ly6h8TaUR",
-  "RebuildAllMaterials": false,
+  "RebuildAllMaterials": true,
   "ReleaseDate": "2021-12-16",
   "Title": "Females singing to be heard",
   "Subtitle": "Challenging long-held assumptions about birdsong through data visualization",
@@ -210,7 +210,7 @@
       "SectionTitle": "Teaching Materials",
       "Data": {
         "lessonPreface": null,
-        "lessonDur": "3 x ~45 min",
+        "lessonDur": "3 x 45 min",
         "classroom": {
           "gradeVariantNotes": [
             {
@@ -909,11 +909,11 @@
               "PrepQuickDescription": null,
               "PrepDetails": null,
               "PrepVariantNotes": null,
-              "PrepTeachingTips": "We expect a basic understanding of...X. If they need background, read [this article](paste URL)."
+              "PrepTeachingTips": null
             },
             "chunks": [
               {
-                "chunkTitle": "Introduction to ciphers: using puzzles to teach graphing",
+                "chunkTitle": "Engage",
                 "chunkStart": 0,
                 "chunkDur": 15,
                 "steps": [
@@ -925,14 +925,7 @@
                     "Vocab": "- **algorithm:**    a set of steps, like a mathematical recipe\n- **alphabetic shift:**  type of cipher where each letter has been shifted a certain number of places (dictated by the algorithm)\n- **cipher:**  a secret message that uses an algorithm to make a message seem like nonsense\n- **decipher:**  1) to convert a secret message into readable text; 2) to succeed in understanding something \n- **encipher:**  convert readable text (plaintext) into a secret message\n- **plaintext:**  readable text (not a cipher)",
                     "VariantNotes": null,
                     "TeachingTips": "Ask students to read slides and predict what the next slide will be (e.g. the next letter in the alphabetic shift). Model a growth mindset, and that it's ok to not completely understand at first."
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Deciphering the graph",
-                "chunkStart": 15,
-                "chunkDur": 10,
-                "steps": [
+                  },
                   {
                     "Step": 2,
                     "StepTitle": "Cipher Practice",
@@ -954,8 +947,8 @@
                 ]
               },
               {
-                "chunkTitle": "Understanding the graph",
-                "chunkStart": 25,
+                "chunkTitle": "Explore",
+                "chunkStart": 15,
                 "chunkDur": 15,
                 "steps": [
                   {
@@ -979,9 +972,9 @@
                 ]
               },
               {
-                "chunkTitle": "Introducing histograms and the idea that choice of graph matters",
-                "chunkStart": 40,
-                "chunkDur": 5,
+                "chunkTitle": "Explain",
+                "chunkStart": 30,
+                "chunkDur": 10,
                 "steps": [
                   {
                     "Step": 6,
@@ -993,6 +986,15 @@
                     "TeachingTips": null
                   },
                   {
+                    "Step": 7,
+                    "StepTitle": "Pivot to Histograms",
+                    "StepQuickDescription": "Students learn about how the study’s original authors were questioned on their use of scatter plots vs histograms.",
+                    "StepDetails": null,
+                    "Vocab": "- **data visualization:**  a representation of numbers or other types of data in a way that makes it easier to see patterns. Ex: scatter plots, histograms, & other types of graph",
+                    "VariantNotes": null,
+                    "TeachingTips": null
+                  },
+                  {
                     "Step": 8,
                     "StepTitle": "Choice of Data Visuals",
                     "StepQuickDescription": "Students watch [▶ Scatter plots or histograms? Why data visualization is important](https://www.youtube.com/watch?v=e0PZJr-kL2g&list=PLz-D3xOC0d8-6cZe7bbKs1ItYJHTBaFuP&index=5), which connects scatter plots to histograms and pivots to Part 2 of this lesson.",
@@ -1000,29 +1002,20 @@
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
-                  },
+                  }
+                ]
+              },
+              {
+                "chunkTitle": "Evaluate",
+                "chunkStart": 40,
+                "chunkDur": 5,
+                "steps": [
                   {
                     "Step": 9,
                     "StepTitle": "Reflection",
                     "StepQuickDescription": "Part 1 ends with a customizable reflection slide and review of covered vocabulary, and topics.",
                     "StepDetails": "Reflection Ideas:\n- What types of data have you seen represented as a scatter plot?\n- Why do you think female barn swallow song has been ignored until 2020? (This will be a repeated theme.)\n- 3-2-1: 3 things I learned today; 2 things I found especially interesting; 1 question I still have.",
                     "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": null,
-                "chunkStart": 45,
-                "chunkDur": 5,
-                "steps": [
-                  {
-                    "Step": 7,
-                    "StepTitle": "Pivot to Histograms",
-                    "StepQuickDescription": "Students learn about how the study’s original authors were questioned on their use of scatter plots vs histograms.",
-                    "StepDetails": null,
-                    "Vocab": "- **data visualization:**  a representation of numbers or other types of data in a way that makes it easier to see patterns. Ex: scatter plots, histograms, & other types of graph",
                     "VariantNotes": null,
                     "TeachingTips": null
                   }
