@@ -4897,7 +4897,7 @@
     "Country": "United States",
     "DefaultLanguage": "English",
     "DefaultCountry": "United States",
-    "LastUpdated": "2023-05-03 21:42:11",
+    "LastUpdated": "2023-05-03 21:53:29",
     "FirstPublicationDate": "2021-12-16 16:03:12",
     "MediumTitle": "'Females singing to be heard' |Math| G5\u20138 & 9\u201312 (en-US)",
     "lang": "en",
@@ -4945,7 +4945,7 @@
     "Section": {
       "overview": {
         "__component": "lesson-plan.overview",
-        "LearningSummary": "Students will learn how data visuals tell a story as they analyze real bird song data to try to understand why female singing behavior has been overlooked in one of the most common birds in the world. They will also gain a deeper insight into the scientific peer review process.",
+        "LearningSummary": "Students will learn how data visuals tell a story. They will analyze real bird song data to try to understand why female singing behavior has been overlooked in one of the most common birds in the world. They will also gain a deeper insight into the scientific peer review process.",
         "EstLessonTime": "3 x 45 min",
         "GradesOrYears": "Grades",
         "ForGrades": "5\u20138 & 9\u201312",
@@ -5105,7 +5105,7 @@
             "gradeVariantNotes": [
               {
                 "part": "1",
-                "partGradeVarNotes": "G5-6 & 7-8 receive an easier cipher than G9-12."
+                "partGradeVarNotes": "G5-8 receive an easier cipher than G9-12."
               },
               {
                 "part": "2",
@@ -5113,7 +5113,7 @@
               },
               {
                 "part": "3",
-                "partGradeVarNotes": "For G5-6 & 7-8, Table 1 and 2 data is more straightforward, referring to the sexes as Male and Female. G9-12 students have an added challenge of labeling the male and female graphs based on a data table where the sexes are coded as \"one\" and \"two\". G9-12 students also have to bin data and draw histograms for both sexes, while lower grades are provided the female data as an example."
+                "partGradeVarNotes": "For G5-8, Table 1 and 2 data is more straightforward, referring to the sexes as Male and Female. G9-12 students have an added challenge of labeling the male and female graphs based on a data table where the sexes are coded as \"one\" and \"two\". G9-12 students also have to bin data and draw histograms for both sexes, while lower grades are provided the female data as an example."
               }
             ],
             "resources": [
@@ -5523,7 +5523,7 @@
             "gradeVariantNotes": [
               {
                 "part": "1",
-                "partGradeVarNotes": "G5-6 & 7-8 receive an easier cipher than G9-12."
+                "partGradeVarNotes": "G5-8 receive an easier cipher than G9-12."
               },
               {
                 "part": "2",
@@ -5531,7 +5531,7 @@
               },
               {
                 "part": "3",
-                "partGradeVarNotes": "For G5-6 & 7-8, Table 1 and 2 data is more straightforward, referring to the sexes as Male and Female. G9-12 students have an added challenge of labeling the male and female graphs based on a data table where the sexes are coded as \"one\" and \"two\". G9-12 students also have to bin data and draw histograms for both sexes, while lower grades are provided the female data as an example."
+                "partGradeVarNotes": "For G5-8, Table 1 and 2 data is more straightforward, referring to the sexes as Male and Female. G9-12 students have an added challenge of labeling the male and female graphs based on a data table where the sexes are coded as \"one\" and \"two\". G9-12 students also have to bin data and draw histograms for both sexes, while lower grades are provided the female data as an example."
               }
             ],
             "resources": [
@@ -5838,7 +5838,7 @@
                       "StepQuickDescription": "Students use their new skills to decipher the coded axes of a scatter plot graph representing data from a real scientific study.",
                       "StepDetails": null,
                       "Vocab": null,
-                      "VariantNotes": "Decipher algorithms for grade bands:\n- 5-6, 7-8: (-1 shift)\n- 9-12: (+3 shift)",
+                      "VariantNotes": "Decipher algorithms for grade bands:\n- 5\u20138: (-1 shift)\n- 9\u201312: (+3 shift)",
                       "TeachingTips": "Set a definite time limit (e.g. 5min) to solve and enter deciphered text, and move on. The videos will clear up any misunderstandings."
                     }
                   ]
