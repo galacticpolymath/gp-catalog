@@ -4892,14 +4892,14 @@
     "id": 1,
     "UniqueID": "lesson_1_locale_1",
     "ShortTitle": "FemalesSing",
-    "PublicationStatus": "Draft",
+    "PublicationStatus": "Live",
     "Language": "English",
     "Country": "United States",
     "DefaultLanguage": "English",
     "DefaultCountry": "United States",
-    "LastUpdated": "2023-05-03 21:30:45",
+    "LastUpdated": "2023-05-03 21:42:11",
     "FirstPublicationDate": "2021-12-16 16:03:12",
-    "MediumTitle": "'Females singing to be heard' |Math| GAdapted for 5-6, 7-8, & 9-12 (en-US)",
+    "MediumTitle": "'Females singing to be heard' |Math| G5\u20138 & 9\u201312 (en-US)",
     "lang": "en",
     "lng": "eng",
     "locale": "en-US",
@@ -4910,11 +4910,11 @@
     "GPCatalogURL": "https://gp-catalog.vercel.app/lessons/FemalesSing_en-US/LESSON.json",
     "GPCatalogPath": null,
     "GitHubPath": "git@github.com:galacticpolymath/FemalesSing_en-US.git",
-    "GdriveHome": "GP-Studio",
+    "GdriveHome": "GP-LIVE",
     "GdriveDirName": "FemalesSing_en-US",
-    "GdriveTeachMatPath": "GP-Studio/Edu/Lessons/FemalesSing_en-US/teaching-materials",
-    "GdriveTeachMatID": "1XBmDhUv1dJUR1SL5WZV4P_tJUVOw37P2",
-    "GdrivePublicID": null,
+    "GdriveTeachMatPath": "GalacticPolymath/'Females singing to be heard' |Math| G5\u20138 & 9\u201312 (en-US)",
+    "GdriveTeachMatID": null,
+    "GdrivePublicID": "1XBmDhUv1dJUR1SL5WZV4P_tJUVOw37P2",
     "GdriveDirID": "1ZK_7lIrBBjq3mGoeVkpVS67Ly6h8TaUR",
     "GdriveMetaID": "1e9A_s4y0vddignJ6Pu1Lo0CuFVprR5N5",
     "GdriveTeachItID": "1CfSyunZH29kbIX6R_5OkJ1gI1pX7QR0qq8LnCrLjFWM",
@@ -4934,7 +4934,7 @@
       "Classroom",
       "Remote"
     ],
-    "ForGrades": "Adapted for 5-6, 7-8, & 9-12",
+    "ForGrades": "5\u20138 & 9\u201312",
     "GradesOrYears": "Grades",
     "SponsorImage": {
       "url": "https://gp-catalog.vercel.app/lessons/FemalesSing_en-US/sponsor_logo_41be63750b.png"
@@ -4948,7 +4948,7 @@
         "LearningSummary": "Students will learn how data visuals tell a story as they analyze real bird song data to try to understand why female singing behavior has been overlooked in one of the most common birds in the world. They will also gain a deeper insight into the scientific peer review process.",
         "EstLessonTime": "3 x 45 min",
         "GradesOrYears": "Grades",
-        "ForGrades": "Adapted for 5-6, 7-8, & 9-12",
+        "ForGrades": "5\u20138 & 9\u201312",
         "TargetSubject": "Math",
         "Text": "#### Driving Question(s):\nWhat is the best way to visualize data?\n#### Essential Question(s):\n1. How do our assumptions (biases) affect our conclusions?\n2. What are the pros and cons of scatterplots vs. histograms?\n#### Hook(s):\nThis lesson focuses a lot on puzzles called ciphers and uses a goofy video showing connections between histograms and dot plots to engage students.",
         "Tags": [
@@ -5118,10 +5118,10 @@
             ],
             "resources": [
               {
-                "grades": "Grades 5-6",
-                "gradePrefix": "G5-6",
+                "grades": "Grades 5-8",
+                "gradePrefix": "G5-8",
                 "links": {
-                  "linkText": "Browse & Download All G5-6 Materials",
+                  "linkText": "Browse & Download All G5-8 Materials",
                   "url": "https://drive.google.com/drive/folders/1Kh3JJXGHGYRNhTRceRZUTXeQXwlwl9v7"
                 },
                 "parts": [
@@ -5143,11 +5143,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/1PzHglFcBqhzxJ51dVRaBh2vAupmQ0OXjZoOI_mbitfI/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1PzHglFcBqhzxJ51dVRaBh2vAupmQ0OXjZoOI_mbitfI/template/preview"
                           }
                         ]
@@ -5158,11 +5158,11 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/18KBX0VU0DSrNQQAyvzQZfNUcxGC1IErrQlbpRZyhXhE/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/18KBX0VU0DSrNQQAyvzQZfNUcxGC1IErrQlbpRZyhXhE/template/preview"
                           }
                         ]
@@ -5173,11 +5173,11 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/1M90ZyX1V-nqUC1DXXRXKwSzJSWsRd4a84kUeA9TUOD4/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1M90ZyX1V-nqUC1DXXRXKwSzJSWsRd4a84kUeA9TUOD4/template/preview"
                           }
                         ]
@@ -5201,11 +5201,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/1cKfX9PyBCccWHLuQb-8K90RLsa8BUpNLxZ_ChMjSSu4/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1cKfX9PyBCccWHLuQb-8K90RLsa8BUpNLxZ_ChMjSSu4/template/preview"
                           }
                         ]
@@ -5216,11 +5216,11 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/1HlpIiJevIOcAEDQ7qTyNxhsd7MQsfOF4Gy8SEzzZoYs/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1HlpIiJevIOcAEDQ7qTyNxhsd7MQsfOF4Gy8SEzzZoYs/template/preview"
                           }
                         ]
@@ -5231,11 +5231,11 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/10llmmmtvDkTOQIQofwd_zswkk_rYsaQ9r_BGVVpTvGM/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/10llmmmtvDkTOQIQofwd_zswkk_rYsaQ9r_BGVVpTvGM/template/preview"
                           }
                         ]
@@ -5259,11 +5259,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/1RxLKqmF6A9Va-InSKIis6LqnqgfqH5sMhbAJj1CJneI/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1RxLKqmF6A9Va-InSKIis6LqnqgfqH5sMhbAJj1CJneI/template/preview"
                           }
                         ]
@@ -5274,11 +5274,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Download (DRAFT FILE)",
+                            "linkText": "Download",
                             "url": "https://docs.google.com/presentation/d/15iLaVFX00vDginfqjMOqKAU7SYjzZ83Iyqkd6KiwFVo"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/15iLaVFX00vDginfqjMOqKAU7SYjzZ83Iyqkd6KiwFVo/template/preview"
                           }
                         ]
@@ -5289,11 +5289,11 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/1cfCvzHBlEbpaDp6NV2TV15I6CJTMdQhWoGtFpQrRrJs/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1cfCvzHBlEbpaDp6NV2TV15I6CJTMdQhWoGtFpQrRrJs/template/preview"
                           }
                         ]
@@ -5304,212 +5304,12 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/1tBdSuwW3HmSwmG3_YmLJHXeNQMBiB2XAUE-FfmLFSCM/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1tBdSuwW3HmSwmG3_YmLJHXeNQMBiB2XAUE-FfmLFSCM/template/preview"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "grades": "Grades 7-8",
-                "gradePrefix": "G7-8",
-                "links": {
-                  "linkText": "Browse & Download All G7-8 Materials",
-                  "url": "https://drive.google.com/drive/folders/1hk-gAg8FGckUIJ6jZXZ5qAvZWX_mLsBs"
-                },
-                "parts": [
-                  {
-                    "part": "1",
-                    "title": "Ciphers and Data Visuals",
-                    "tags": [
-                      [
-                        "data literacy",
-                        "puzzles",
-                        "ciphers"
-                      ]
-                    ],
-                    "preface": "Students solve a puzzle to decipher part of a real scientific graph. They then analyze the graph to understand how it helps explain a long-standing scientific misconception about female bird song.",
-                    "itemList": [
-                      {
-                        "itemTitle": "Presentation (Part 1)",
-                        "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                        "itemCat": "presentation",
-                        "links": [
-                          {
-                            "linkText": "Present Now (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1EuJtXHHOt3nfUYgEBDmgCNRFu5Y4wE0H5jOl0TEjiLQ/present"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1EuJtXHHOt3nfUYgEBDmgCNRFu5Y4wE0H5jOl0TEjiLQ/template/preview"
-                          }
-                        ]
-                      },
-                      {
-                        "itemTitle": "Student Worksheet (Part 1)",
-                        "itemDescription": "Print 1 Per Student",
-                        "itemCat": "document",
-                        "links": [
-                          {
-                            "linkText": "PDF (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1xy6Ef_X-ASPUKKbJ9gdEy1fTCH6oRZ2lFotRYaSJ0so/export?format=pdf"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1xy6Ef_X-ASPUKKbJ9gdEy1fTCH6oRZ2lFotRYaSJ0so/template/preview"
-                          }
-                        ]
-                      },
-                      {
-                        "itemTitle": "Teacher (Part 1)",
-                        "itemDescription": null,
-                        "itemCat": "document",
-                        "links": [
-                          {
-                            "linkText": "Download (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1boQWNaZVFvDlhdtWjfMQfYbWsUbxfaSgHVY-N9azS0g"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1boQWNaZVFvDlhdtWjfMQfYbWsUbxfaSgHVY-N9azS0g/template/preview"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "part": "2",
-                    "title": "From Tables to Graphs",
-                    "tags": [
-                      [
-                        "data visualizations",
-                        "data literacy"
-                      ]
-                    ],
-                    "preface": "Students learn how to make dot plots and learn how histograms are made by binning data into ranges. This lesson is slightly shorter than the other two parts.",
-                    "itemList": [
-                      {
-                        "itemTitle": "Presentation (Part 2)",
-                        "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                        "itemCat": "presentation",
-                        "links": [
-                          {
-                            "linkText": "Present Now (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1FVQW0hklr4vQ2gnk7JuMKQ0ViGyP9pIl-j84jbwDJb4/present"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1FVQW0hklr4vQ2gnk7JuMKQ0ViGyP9pIl-j84jbwDJb4/template/preview"
-                          }
-                        ]
-                      },
-                      {
-                        "itemTitle": "Teacher Worksheet (Part 2)",
-                        "itemDescription": "Print 1",
-                        "itemCat": "document",
-                        "links": [
-                          {
-                            "linkText": "PDF (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1HXMaEzCWtwDOjTTOFwzz6I87FwUCekzN9_mL77fjkus/export?format=pdf"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1HXMaEzCWtwDOjTTOFwzz6I87FwUCekzN9_mL77fjkus/template/preview"
-                          }
-                        ]
-                      },
-                      {
-                        "itemTitle": "Student Worksheet (Part 2)",
-                        "itemDescription": "Print 1 Per Student",
-                        "itemCat": "document",
-                        "links": [
-                          {
-                            "linkText": "PDF (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1utLFELIfDAZ8PW5RP4xK-4oiKG61LyBbx4LB6W90pNA/export?format=pdf"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1utLFELIfDAZ8PW5RP4xK-4oiKG61LyBbx4LB6W90pNA/template/preview"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "part": "3",
-                    "title": "Visualizing Song Data",
-                    "tags": [
-                      [
-                        "data visualizations",
-                        "data literacy"
-                      ]
-                    ],
-                    "preface": "Students create a histogram from raw data and use the scatter plot and histogram for reflection and synthesis. They will also synthesize all they have learned about histograms, dot plots, scatter plots, and the barn swallow study to answer big questions about why female song has been missed in this common species and why that matters.",
-                    "itemList": [
-                      {
-                        "itemTitle": "Presentation (Part 3)",
-                        "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                        "itemCat": "presentation",
-                        "links": [
-                          {
-                            "linkText": "Present Now (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1nIdQjeuL2fk2jTjUI6BsGfpXu6U7xdyk6bGLWCYATYc/present"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1nIdQjeuL2fk2jTjUI6BsGfpXu6U7xdyk6bGLWCYATYc/template/preview"
-                          }
-                        ]
-                      },
-                      {
-                        "itemTitle": "Handout/ Table (Part 3)",
-                        "itemDescription": "Print Classroom Set",
-                        "itemCat": "presentation",
-                        "links": [
-                          {
-                            "linkText": "PDF (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1DEKeKrh7O8Dbw-iErJrRbTHIGLMVtoqY0IPBR9mnHg4/export/pdf"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1DEKeKrh7O8Dbw-iErJrRbTHIGLMVtoqY0IPBR9mnHg4/template/preview"
-                          }
-                        ]
-                      },
-                      {
-                        "itemTitle": "Student Worksheet (Part 3)",
-                        "itemDescription": "Print 1 Per Student",
-                        "itemCat": "document",
-                        "links": [
-                          {
-                            "linkText": "PDF (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/16eN26oZHzYopi9GWlL8F516z_CGIwo0ynZeRELlDYOU/export?format=pdf"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/16eN26oZHzYopi9GWlL8F516z_CGIwo0ynZeRELlDYOU/template/preview"
-                          }
-                        ]
-                      },
-                      {
-                        "itemTitle": "Teacher Worksheet (Part 3)",
-                        "itemDescription": "Print 1",
-                        "itemCat": "document",
-                        "links": [
-                          {
-                            "linkText": "PDF (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1rWWqkdRa1iazPID5iDs4fTL18qdgeJaSG9P8QsA4j-0/export?format=pdf"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1rWWqkdRa1iazPID5iDs4fTL18qdgeJaSG9P8QsA4j-0/template/preview"
                           }
                         ]
                       }
@@ -5543,11 +5343,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/1w84HQa6GGAVEGQvSray4BVT9LGdqzjxZN876UKYFDs8/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1w84HQa6GGAVEGQvSray4BVT9LGdqzjxZN876UKYFDs8/template/preview"
                           }
                         ]
@@ -5558,11 +5358,11 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/1Y_PpwtdPh4eveKgUVFpJ_-Qqo9I2KnpTdYzE5OXYBAg/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1Y_PpwtdPh4eveKgUVFpJ_-Qqo9I2KnpTdYzE5OXYBAg/template/preview"
                           }
                         ]
@@ -5573,11 +5373,11 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/1EMTTnTb2IQBwRV5KAhLXDJckNjApMsY_LOzAkiSkDtk/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1EMTTnTb2IQBwRV5KAhLXDJckNjApMsY_LOzAkiSkDtk/template/preview"
                           }
                         ]
@@ -5601,11 +5401,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/1ckWobnlPtPoWKolTOtoQEFtoolPFVXm4j_2ikKU8Ef0/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1ckWobnlPtPoWKolTOtoQEFtoolPFVXm4j_2ikKU8Ef0/template/preview"
                           }
                         ]
@@ -5616,11 +5416,11 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/1UzURPvg7eW6tZ-PmNmNuLWbT9bpJ42UkHUmskSxAXMk/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1UzURPvg7eW6tZ-PmNmNuLWbT9bpJ42UkHUmskSxAXMk/template/preview"
                           }
                         ]
@@ -5631,11 +5431,11 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/1udMKSFWIaTBIPtbOJvqgfwyGNQgVv654wBF-ar7ftbs/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1udMKSFWIaTBIPtbOJvqgfwyGNQgVv654wBF-ar7ftbs/template/preview"
                           }
                         ]
@@ -5659,11 +5459,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/presentation/d/1YfTXp-WyTWsb9pbbAMKB_ejC1JajGNpKNA6M9gEgUCI/export/pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1YfTXp-WyTWsb9pbbAMKB_ejC1JajGNpKNA6M9gEgUCI/template/preview"
                           }
                         ]
@@ -5674,11 +5474,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/1e8QnWBa7n8X20SS7JL6VIeL-4fvIkNb__K8mJLToORI/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1e8QnWBa7n8X20SS7JL6VIeL-4fvIkNb__K8mJLToORI/template/preview"
                           }
                         ]
@@ -5689,11 +5489,11 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/1gr0QyDxoFUNRF42X5E2gBo9uAWjxUrX-FJhcr5LbbzQ/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1gr0QyDxoFUNRF42X5E2gBo9uAWjxUrX-FJhcr5LbbzQ/template/preview"
                           }
                         ]
@@ -5704,11 +5504,11 @@
                         "itemCat": "document",
                         "links": [
                           {
-                            "linkText": "PDF (DRAFT FILE)",
+                            "linkText": "PDF",
                             "url": "https://docs.google.com/document/d/1R_B7yRK-5wvIZ3K13ND3XstrBk__FBsb93d-lTHr29A/export?format=pdf"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1R_B7yRK-5wvIZ3K13ND3XstrBk__FBsb93d-lTHr29A/template/preview"
                           }
                         ]
@@ -5736,10 +5536,10 @@
             ],
             "resources": [
               {
-                "grades": "Grades 5-6",
-                "gradePrefix": "G5-6",
+                "grades": "Grades 5-8",
+                "gradePrefix": "G5-8",
                 "links": {
-                  "linkText": "Browse & Download All G5-6 Materials",
+                  "linkText": "Browse & Download All G5-8 Materials",
                   "url": "https://drive.google.com/drive/folders/1HDeAKR4hoNjAy7HsJqPRCfBqJOOEKCzk"
                 },
                 "parts": [
@@ -5761,11 +5561,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/1hXSC_74mTCcfmRDJ-eUczMYe2Kn4S-knFBpJVZZmwe4/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1hXSC_74mTCcfmRDJ-eUczMYe2Kn4S-knFBpJVZZmwe4/template/preview"
                           }
                         ]
@@ -5789,11 +5589,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/18yN0k8GQ78ZvMSMzVOzIGlIh_itCve4FPSfFeUtrweM/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/18yN0k8GQ78ZvMSMzVOzIGlIh_itCve4FPSfFeUtrweM/template/preview"
                           }
                         ]
@@ -5817,11 +5617,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/1B4NrO4mPN82oLKjaA-SlXXK2DVGNeCbLDULKvbPRIKE/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1B4NrO4mPN82oLKjaA-SlXXK2DVGNeCbLDULKvbPRIKE/template/preview"
                           }
                         ]
@@ -5832,11 +5632,11 @@
                         "itemCat": "docx",
                         "links": [
                           {
-                            "linkText": "Download (DRAFT FILE)",
+                            "linkText": "Download",
                             "url": "https://docs.google.com/document/d/1QYnQtJaFdv2r99FXOvdlPhUzi5ZBXQZe"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1QYnQtJaFdv2r99FXOvdlPhUzi5ZBXQZe"
                           }
                         ]
@@ -5847,137 +5647,12 @@
                         "itemCat": "docx",
                         "links": [
                           {
-                            "linkText": "Download (DRAFT FILE)",
+                            "linkText": "Download",
                             "url": "https://docs.google.com/document/d/1v0K-RgJCaa2JGNWYiX5SrM2nS2IAw-PQ"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1v0K-RgJCaa2JGNWYiX5SrM2nS2IAw-PQ"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "grades": "Grades 7-8",
-                "gradePrefix": "G7-8",
-                "links": {
-                  "linkText": "Browse & Download All G7-8 Materials",
-                  "url": "https://drive.google.com/drive/folders/1yz2xLkjA47SrSpysn_Jw7FOnax_V7NBw"
-                },
-                "parts": [
-                  {
-                    "part": "1",
-                    "title": "Ciphers and Data Visuals",
-                    "tags": [
-                      [
-                        "data literacy",
-                        "puzzles",
-                        "ciphers"
-                      ]
-                    ],
-                    "preface": "Students solve a puzzle to decipher part of a real scientific graph. They then analyze the graph to understand how it helps explain a long-standing scientific misconception about female bird song.",
-                    "itemList": [
-                      {
-                        "itemTitle": "Presentation (Part 1)",
-                        "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                        "itemCat": "presentation",
-                        "links": [
-                          {
-                            "linkText": "Present Now (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1IlVQK2T_UCeQqVPVa7QAaWt-TO60lz5PKMf7gfSkomI/present"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1IlVQK2T_UCeQqVPVa7QAaWt-TO60lz5PKMf7gfSkomI/template/preview"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "part": "2",
-                    "title": "From Tables to Graphs",
-                    "tags": [
-                      [
-                        "data visualizations",
-                        "data literacy"
-                      ]
-                    ],
-                    "preface": "Students learn how to make dot plots and learn how histograms are made by binning data into ranges. This lesson is slightly shorter than the other two parts.",
-                    "itemList": [
-                      {
-                        "itemTitle": "Presentation (Part 2)",
-                        "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                        "itemCat": "presentation",
-                        "links": [
-                          {
-                            "linkText": "Present Now (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1OiO3dYvT16Z3jYsZNZf234Cjnp-N-YwJceWiB5zJ4c8/present"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1OiO3dYvT16Z3jYsZNZf234Cjnp-N-YwJceWiB5zJ4c8/template/preview"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "part": "3",
-                    "title": "Visualizing Song Data",
-                    "tags": [
-                      [
-                        "data visualizations",
-                        "data literacy"
-                      ]
-                    ],
-                    "preface": "Students create a histogram from raw data and use the scatter plot and histogram for reflection and synthesis. They will also synthesize all they have learned about histograms, dot plots, scatter plots, and the barn swallow study to answer big questions about why female song has been missed in this common species and why that matters.",
-                    "itemList": [
-                      {
-                        "itemTitle": "Presentation (Part 3)",
-                        "itemDescription": "Need: WiFi, Computer, Projector, Sound",
-                        "itemCat": "presentation",
-                        "links": [
-                          {
-                            "linkText": "Present Now (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1qIqzDd0k9jiQ-HP9G7xhvogx-XP1YufktRC5XDnnBEE/present"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/presentation/d/1qIqzDd0k9jiQ-HP9G7xhvogx-XP1YufktRC5XDnnBEE/template/preview"
-                          }
-                        ]
-                      },
-                      {
-                        "itemTitle": "Teacher Table (Part 3)",
-                        "itemDescription": null,
-                        "itemCat": "docx",
-                        "links": [
-                          {
-                            "linkText": "Download (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1VQ37AWleAyyVbovuMNF-oEbbR-Bpi5kp"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/1VQ37AWleAyyVbovuMNF-oEbbR-Bpi5kp"
-                          }
-                        ]
-                      },
-                      {
-                        "itemTitle": "Student Table (Part 3)",
-                        "itemDescription": null,
-                        "itemCat": "docx",
-                        "links": [
-                          {
-                            "linkText": "Download (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/10vQf4BlCFGv6KElYgpYzPzMNESFCVhDh"
-                          },
-                          {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
-                            "url": "https://docs.google.com/document/d/10vQf4BlCFGv6KElYgpYzPzMNESFCVhDh"
                           }
                         ]
                       }
@@ -6011,11 +5686,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/1Pr6Oms_QfA0zf-dkY6QEwdOfBo3J5JNrj-MMOCH9Q-E/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1Pr6Oms_QfA0zf-dkY6QEwdOfBo3J5JNrj-MMOCH9Q-E/template/preview"
                           }
                         ]
@@ -6039,11 +5714,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/1TqqWA4pe1aWubjgi2Scys-D6SNO9IexyrDs-rhnP1jo/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1TqqWA4pe1aWubjgi2Scys-D6SNO9IexyrDs-rhnP1jo/template/preview"
                           }
                         ]
@@ -6067,11 +5742,11 @@
                         "itemCat": "presentation",
                         "links": [
                           {
-                            "linkText": "Present Now (DRAFT FILE)",
+                            "linkText": "Present Now",
                             "url": "https://docs.google.com/presentation/d/1yUx0-FlCKrfRwkzIxtf8YK7dFqcKcNLfHbek6R2rPXk/present"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/presentation/d/1yUx0-FlCKrfRwkzIxtf8YK7dFqcKcNLfHbek6R2rPXk/template/preview"
                           }
                         ]
@@ -6082,11 +5757,11 @@
                         "itemCat": "docx",
                         "links": [
                           {
-                            "linkText": "Download (DRAFT FILE)",
+                            "linkText": "Download",
                             "url": "https://docs.google.com/document/d/1AgMEVmRS9xY_zLQOzYv_IcanwVK-wk8Q"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1AgMEVmRS9xY_zLQOzYv_IcanwVK-wk8Q"
                           }
                         ]
@@ -6097,11 +5772,11 @@
                         "itemCat": "docx",
                         "links": [
                           {
-                            "linkText": "Download (DRAFT FILE)",
+                            "linkText": "Download",
                             "url": "https://docs.google.com/document/d/1CTH1uYC-DmfOz7pqA3Nsn7ipU4Sryb8G"
                           },
                           {
-                            "linkText": "Copy/Edit in Google Docs (DRAFT FILE)",
+                            "linkText": "Copy/Edit in Google Docs",
                             "url": "https://docs.google.com/document/d/1CTH1uYC-DmfOz7pqA3Nsn7ipU4Sryb8G"
                           }
                         ]
@@ -6630,13 +6305,7 @@
                     "name": "Measurement, Data, Probability & Statistics",
                     "standardsGroup": [
                       {
-                        "codes": "6.SP.A.2",
-                        "grades": "6",
-                        "statements": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
-                        "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
-                        "subcat": null
-                      },
-                      {
+                        "parts": [],
                         "codes": "8.SP.A.1",
                         "grades": "8",
                         "statements": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
@@ -6644,15 +6313,27 @@
                         "subcat": null
                       },
                       {
-                        "codes": "HSS-ID.B.6",
-                        "grades": "9,10,11,12",
-                        "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
-                        "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
+                        "parts": [],
+                        "codes": "HSS-CP.A.4",
+                        "grades": [
+                          "9",
+                          "10",
+                          "11",
+                          "12"
+                        ],
+                        "statements": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities. *For example, collect data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results.*",
+                        "alignmentNotes": "- Students use real data to construct a frequency table, then use the data to create and compare the results in a scatter plot and histogram. \n  \n- Students evaluate the results of the two graphs, discuss how the two graphs provide similar and different information, and determine possible conditional probabilities with regard to female and male bird songs.",
                         "subcat": null
                       },
                       {
+                        "parts": [],
                         "codes": "HSS-ID.A.1",
-                        "grades": "9,10,11,12",
+                        "grades": [
+                          "9",
+                          "10",
+                          "11",
+                          "12"
+                        ],
                         "statements": "Represent data with plots on the real number line (dot plots, histograms, and box plots).",
                         "alignmentNotes": "- Students create a histogram using raw data from a published research study",
                         "subcat": null
@@ -6676,13 +6357,23 @@
                     "name": "Measurement, Data, Probability & Statistics",
                     "standardsGroup": [
                       {
-                        "codes": "6.SP.B.4",
+                        "parts": [],
+                        "codes": "6.SP.A.2",
                         "grades": "6",
-                        "statements": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
-                        "alignmentNotes": "- Students create a histogram from raw data        ",
+                        "statements": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
+                        "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
                         "subcat": null
                       },
                       {
+                        "parts": [],
+                        "codes": "6.SP.B.4",
+                        "grades": "6",
+                        "statements": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+                        "alignmentNotes": "- Students create a histogram from raw data",
+                        "subcat": null
+                      },
+                      {
+                        "parts": [],
                         "codes": [
                           "6.SP.B.5",
                           "6.SP.B.5a",
@@ -6698,10 +6389,16 @@
                         "subcat": null
                       },
                       {
-                        "codes": "HSS-CP.A.4",
-                        "grades": "9,10,11,12",
-                        "statements": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities. *For example, collect data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results.*",
-                        "alignmentNotes": "- Students use real data to construct a frequency table, then use the data to create and compare the results in a scatter plot and histogram. \n  \n- Students evaluate the results of the two graphs, discuss how the two graphs provide similar and different information, and determine possible conditional probabilities with regard to female and male bird songs. ",
+                        "parts": [],
+                        "codes": "HSS-ID.B.6",
+                        "grades": [
+                          "9",
+                          "10",
+                          "11",
+                          "12"
+                        ],
+                        "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
+                        "alignmentNotes": "- Students are given data represented in a scatter plot and are asked to identify and interpret the graph",
                         "subcat": null
                       }
                     ]
@@ -6723,6 +6420,7 @@
                     "name": "Language, Speaking & Listening",
                     "standardsGroup": [
                       {
+                        "parts": [],
                         "codes": "L.6.6",
                         "grades": "6",
                         "statements": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
@@ -6730,6 +6428,7 @@
                         "subcat": null
                       },
                       {
+                        "parts": [],
                         "codes": "SL.6.2",
                         "grades": "6",
                         "statements": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
@@ -6737,15 +6436,43 @@
                         "subcat": null
                       },
                       {
+                        "parts": [],
                         "codes": "CCRA.L.4",
-                        "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
+                        "grades": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5",
+                          "6",
+                          "7",
+                          "8",
+                          "9",
+                          "10",
+                          "11",
+                          "12"
+                        ],
                         "statements": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
                         "alignmentNotes": "- Students define, use, and reference new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use a real research article to read, interpret, and identify new/unknown words.",
                         "subcat": null
                       },
                       {
+                        "parts": [],
                         "codes": "CCRA.SL.2",
-                        "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
+                        "grades": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5",
+                          "6",
+                          "7",
+                          "8",
+                          "9",
+                          "10",
+                          "11",
+                          "12"
+                        ],
                         "statements": "Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.",
                         "alignmentNotes": "- Students evaluate quantitative information by comparing the same data in the form of a scatter plot and a histogram",
                         "subcat": null
@@ -6757,22 +6484,46 @@
                     "name": "Reading",
                     "standardsGroup": [
                       {
+                        "parts": [],
                         "codes": "RST.6-8.4",
-                        "grades": "6,7,8",
+                        "grades": [
+                          "6",
+                          "7",
+                          "8"
+                        ],
                         "statements": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to *grades 6-8 texts and topics*.",
                         "alignmentNotes": "- Students are taught the definitions of new words including: cipher, encipher, decipher, discern, algorithm, data visualization, dot plot, scatter plot, and histogram  \n- Students use and reference the new words throughout the lesson",
                         "subcat": null
                       },
                       {
+                        "parts": [],
                         "codes": "RST.6-8.7",
-                        "grades": "6,7,8",
+                        "grades": [
+                          "6",
+                          "7",
+                          "8"
+                        ],
                         "statements": "Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, model, graph, or table).",
                         "alignmentNotes": "- Students practice making and reading a histogram from data provided in the lesson                                             - Students make a histogram from data they collect on their own",
                         "subcat": null
                       },
                       {
+                        "parts": [],
                         "codes": "CCRA.R.7",
-                        "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
+                        "grades": [
+                          "1",
+                          "2",
+                          "3",
+                          "4",
+                          "5",
+                          "6",
+                          "7",
+                          "8",
+                          "9",
+                          "10",
+                          "11",
+                          "12"
+                        ],
                         "statements": "Integrate and evaluate content presented in diverse media and formats, including visually and quantitatively, as well as in words.",
                         "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot that was created from raw data in a real research study",
                         "subcat": null
@@ -6796,46 +6547,78 @@
                     "name": "Science & Engineering Practices",
                     "standardsGroup": [
                       {
-                        "codes": "MATH-M3",
-                        "grades": "6,7,8",
-                        "statements": "Create algorithms (a series of ordered steps) to solve a problem.",
-                        "alignmentNotes": "- Students solve a series of ciphers using algorithms   \n- Students create their own algorithms and ciphers",
-                        "subcat": "Using Mathematics & Computational Thinking"
-                      },
-                      {
-                        "codes": "DATA-M1",
-                        "grades": "6,7,8",
-                        "statements": "Construct, analyze, and/or interpret graphical displays of data and/or large data sets to identify linear and nonlinear relationships.",
-                        "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot               \n- Students create a histogram using real data\n- Students analyze and compare the results of scatter plots and histograms",
-                        "subcat": "Analyzing Data"
-                      },
-                      {
-                        "codes": "MATH-M2",
-                        "grades": "6,7,8",
-                        "statements": "Use mathematical representations to describe and/or support scientific conclusions and design solutions.",
-                        "alignmentNotes": "- Students interpret a scatter plot based on real scientific data    \n- Students create a histogram using raw data         - Students draw conclusions based on the scatter plots and histograms",
-                        "subcat": "Using Mathematics & Computational Thinking"
-                      },
-                      {
+                        "parts": [],
                         "codes": "ARG-M3",
-                        "grades": "6,7,8",
+                        "grades": [
+                          "6",
+                          "7",
+                          "8"
+                        ],
                         "statements": "Construct, use, and/or present an oral and written argument supported by empirical evidence and scientific reasoning to support or refute an explanation or a model for a phenomenon or a solution to a problem.",
                         "alignmentNotes": "- Students create and compare results of a scatter plot and histogram using real scientific data",
                         "subcat": "Engaging in Argument from Evidence"
                       },
                       {
-                        "codes": "MATH-H2",
-                        "grades": "9,10,11,12",
-                        "statements": "Use mathematical, computational, and/or algorithmic representations of phenomena or design solutions to describe and/or support claims and/or explanations.",
-                        "alignmentNotes": "- Students use algorithms to solve a series of ciphers\n- Students construct a histogram using raw data from a real research study, interpret the results, and describe the findings",
+                        "parts": [],
+                        "codes": "DATA-M1",
+                        "grades": [
+                          "6",
+                          "7",
+                          "8"
+                        ],
+                        "statements": "Construct, analyze, and/or interpret graphical displays of data and/or large data sets to identify linear and nonlinear relationships.",
+                        "alignmentNotes": "- Students are asked to interpret, discuss, and draw conclusions from a scatter plot               \n- Students create a histogram using real data\n- Students analyze and compare the results of scatter plots and histograms",
+                        "subcat": "Analyzing Data"
+                      },
+                      {
+                        "parts": [],
+                        "codes": "MATH-M2",
+                        "grades": [
+                          "6",
+                          "7",
+                          "8"
+                        ],
+                        "statements": "Use mathematical representations to describe and/or support scientific conclusions and design solutions.",
+                        "alignmentNotes": "- Students interpret a scatter plot based on real scientific data    \n- Students create a histogram using raw data         - Students draw conclusions based on the scatter plots and histograms",
                         "subcat": "Using Mathematics & Computational Thinking"
                       },
                       {
+                        "parts": [],
+                        "codes": "MATH-M3",
+                        "grades": [
+                          "6",
+                          "7",
+                          "8"
+                        ],
+                        "statements": "Create algorithms (a series of ordered steps) to solve a problem.",
+                        "alignmentNotes": "- Students solve a series of ciphers using algorithms   \n- Students create their own algorithms and ciphers",
+                        "subcat": "Using Mathematics & Computational Thinking"
+                      },
+                      {
+                        "parts": [],
                         "codes": "DATA-H4",
-                        "grades": "9,10,11,12",
+                        "grades": [
+                          "9",
+                          "10",
+                          "11",
+                          "12"
+                        ],
                         "statements": "Compare and contrast various types of data sets (e.g., self-generated, archival) to examine consistency of measurements and observations.",
                         "alignmentNotes": "- Students compare and contrast scatter plots and histograms created from empirical and self-generated data sets\n- Students examine the results and interpret their findings",
                         "subcat": "Analyzing Data"
+                      },
+                      {
+                        "parts": [],
+                        "codes": "MATH-H2",
+                        "grades": [
+                          "9",
+                          "10",
+                          "11",
+                          "12"
+                        ],
+                        "statements": "Use mathematical, computational, and/or algorithmic representations of phenomena or design solutions to describe and/or support claims and/or explanations.",
+                        "alignmentNotes": "- Students use algorithms to solve a series of ciphers\n- Students construct a histogram using raw data from a real research study, interpret the results, and describe the findings",
+                        "subcat": "Using Mathematics & Computational Thinking"
                       }
                     ]
                   }
@@ -6856,24 +6639,40 @@
                     "name": "Evaluating Sources, Communicating Conclusions & Taking Action",
                     "standardsGroup": [
                       {
-                        "codes": "D4.2.6-8",
-                        "grades": "6,7,8",
-                        "statements": "Construct explanations using reasoning, correct sequence, examples, and details with relevant information and data, while acknowledging the strengths and weaknesses of the explanations.",
-                        "alignmentNotes": "- Students are introduced to Barn Swallow bird songs and historical scientific findings of female versus male bird calls; students interpret the data presented through scatter plots and histograms to construct explanations for the findings in a new research study",
-                        "subcat": null
-                      },
-                      {
+                        "parts": [],
                         "codes": "D4.1.6-8",
-                        "grades": "6,7,8",
+                        "grades": [
+                          "6",
+                          "7",
+                          "8"
+                        ],
                         "statements": "Construct arguments using claims and evidence from multiple sources, while acknowledging the strengths and limitations of the arguments.",
                         "alignmentNotes": "- Students are asked to compare the information provided in a scatter plot and a histogram   \n- Students discuss how the two graphs provide both similar and different information and how the differences may influence one's interpretation of the results",
                         "subcat": null
                       },
                       {
+                        "parts": [],
+                        "codes": "D4.2.6-8",
+                        "grades": [
+                          "6",
+                          "7",
+                          "8"
+                        ],
+                        "statements": "Construct explanations using reasoning, correct sequence, examples, and details with relevant information and data, while acknowledging the strengths and weaknesses of the explanations.",
+                        "alignmentNotes": "- Students are introduced to Barn Swallow bird songs and historical scientific findings of female versus male bird calls; students interpret the data presented through scatter plots and histograms to construct explanations for the findings in a new research study",
+                        "subcat": null
+                      },
+                      {
+                        "parts": [],
                         "codes": "D4.2.9-12",
-                        "grades": "9,10,11,12",
+                        "grades": [
+                          "9",
+                          "10",
+                          "11",
+                          "12"
+                        ],
                         "statements": "Construct explanations using sound reasoning, correct sequence (linear or non-linear), examples, and details with significant and pertinent information and data, while acknowledging the strengths and weaknesses of the explanation given its purpose (e.g., cause and effect, chronological, procedural, technical).",
-                        "alignmentNotes": "- Students are introduced to a research study on female Barn Swallows and are asked to develop explanations for differences in male and female bird songs based on information in a scatter plot\n- Students compare the information provided in a scatter plot and a histogram\r\n- Students discuss the similarities and differences of the two graphs and construct explanations for the perceived differences in findings about female and male Barn Swallows",
+                        "alignmentNotes": "- Students are introduced to a research study on female Barn Swallows and are asked to develop explanations for differences in male and female bird songs based on information in a scatter plot\n- Students compare the information provided in a scatter plot and a histogram\n- Students discuss the similarities and differences of the two graphs and construct explanations for the perceived differences in findings about female and male Barn Swallows",
                         "subcat": null
                       }
                     ]
