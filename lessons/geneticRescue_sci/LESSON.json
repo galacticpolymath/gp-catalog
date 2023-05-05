@@ -2,22 +2,35 @@
   "id": 3,
   "UniqueID": "lesson3_locale_1",
   "ShortTitle": "geneticRescue",
+  "PublicationStatus": "Live",
   "Language": "English",
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
+  "LastUpdated": "2023-05-05 15:34:32",
+  "FirstPublicationDate": "2021-12-15 17:06:16",
+  "MediumTitle": "'Genetic Rescue to the Rescue' |Science| G9-12 (en-US)",
   "lang": "en",
   "lng": "eng",
   "locale": "en-US",
   "DefaultLocale": "en-US",
-  "TemplateVer": "0.3.8",
-  "galacticPubsVer": "0.9.4",
-  "FirstPublicationDate": "2021-12-15 17:06:16",
-  "LastUpdated": "2022-11-17 12:00:18",
+  "TemplateVer": "0.5.0",
+  "galacticPubsVer": "0.9.6",
   "URL": "https://galacticpolymath.com/lessons/3",
+  "GPCatalogURL": "https://gp-catalog.vercel.app/lessons/geneticRescue_sci/LESSON.json",
   "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/LESSON.json",
   "GitHubPath": "git@github.com:galacticpolymath/geneticRescue_sci.git",
-  "PublicationStatus": "Live",
+  "GdriveHome": "GP-LIVE",
+  "GdriveDirName": "geneticRescue_sci",
+  "GdriveTeachMatPath": "GalacticPolymath/'Genetic Rescue to the Rescue' |Science| G9-12 (en-US)",
+  "GdriveTeachMatID": null,
+  "GdrivePublicID": "1JwsZMLh8s7nd9rI6uJcvCmHkGRuGNj_S",
+  "GdriveDirID": "1NWH6z13CgpVn0bFe1fWloeWw87ycGDti",
+  "GdriveMetaID": "1XAqIyNWH9pdOmJNPV9WLKMMpebQBoXoM",
+  "GdriveTeachItID": "1r2zH1P-fWUOwOtv2vMyL8XTLXxrs-_Xh90lM-meOQgU",
+  "GdriveStandardsID": "176j3wF_Jt_SsTJoP4o8w_FWa2vNWybLIW3Crz0BRq88",
+  "GdrivePublishedID": "1_8YhQHo4LftImt8U_WGVUm0sL3ypzKnD",
+  "GdriveDirURL": "https://drive.google.com/drive/folders/1NWH6z13CgpVn0bFe1fWloeWw87ycGDti",
   "RebuildAllMaterials": false,
   "ReleaseDate": "2021-12-15",
   "PublicationDate": "2021-12-15",
@@ -28,23 +41,33 @@
     "Sarah Fitzpatrick"
   ],
   "SponsoredBy": "- [Sarah Fitzpatrick, PhD](http://swfitz.com/index.php), Department of Integrative Biology at Michigan State University's W. K. Kellogg Biological Station\n- [National Science Foundation](https://www.nsf.gov/) Grant DEB 2016569",
+  "SponsorLogo": [
+    "assets/_banners_logos_etc/Fitzpatrick_lab_logo-transparent.png",
+    "assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo.png"
+  ],
+  "LessonBanner": "assets/_banners_logos_etc/banner.png",
+  "TargetSubject": "Science",
+  "LessonEnvir": "Classroom",
+  "ForGrades": "9-12",
+  "GradesOrYears": "Grades",
   "SponsorImage": {
     "url": [
-      "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/Fitzpatrick_lab_logo-transparent.png",
-      "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/NSF_4-Color_bitmap_Logo.png"
+      "https://gp-catalog.vercel.app/lessons/geneticRescue_sci/Fitzpatrick_lab_logo-transparent.png",
+      "https://gp-catalog.vercel.app/lessons/geneticRescue_sci/NSF_4-Color_bitmap_Logo.png"
     ]
   },
   "CoverImage": {
-    "url": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/banner.png"
+    "url": "https://gp-catalog.vercel.app/lessons/geneticRescue_sci/banner.png"
   },
   "Section": {
     "overview": {
       "__component": "lesson-plan.overview",
+      "LearningSummary": "Students will deepen their understanding of basic genetics concepts as they dive into real data sets from ongoing research. They will hone critical thinking and communication skills and come away with clear examples of how science can lead to positive impacts on wildlife populations.",
       "EstLessonTime": "5 x 45 min",
       "GradesOrYears": "Grades",
       "ForGrades": "9-12",
       "TargetSubject": "Science",
-      "Text": "#### Driving Question(s):\nCan genetic rescue (a conservation strategy involving movement of individuals across populations) prevent the extinction of endangered species?\n#### Essential Question(s):\nHow do we use scientific methods to measure and develop solutions for our negative impacts on the world?\n#### Hook(s):\nNumerous puzzles, group activities, compelling videos, and active discussions draw students into real world problems.\n#### Learning Summary:\nStudents will deepen their understanding of basic genetics concepts as they dive into real data sets from ongoing research. They will hone critical thinking and communication skills and come away with clear examples of how science can lead to positive impacts on wildlife populations.",
+      "Text": "#### Driving Question(s):\nCan genetic rescue (a conservation strategy involving movement of individuals across populations) prevent the extinction of endangered species?\n#### Essential Question(s):\nHow do we use scientific methods to measure and develop solutions for our negative impacts on the world?\n#### Hook(s):\nNumerous puzzles, group activities, compelling videos, and active discussions draw students into real world problems.",
       "Tags": [
         {
           "Value": "genetic rescue"
@@ -75,72 +98,64 @@
         }
       ],
       "SteamEpaulette": {
-        "url": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/GP-Learning-Epaulette.png"
+        "url": "https://gp-catalog.vercel.app/lessons/geneticRescue_sci/GP-Learning-Epaulette.png"
       },
       "SteamEpaulette_vert": {
-        "url": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/GP-Learning-Epaulette_vert.png"
+        "url": "https://gp-catalog.vercel.app/lessons/geneticRescue_sci/GP-Learning-Epaulette_vert.png"
       },
       "Description": "Students learn about genetic rescue, an approach for helping endangered populations recover by introducing closely related individuals from a different population. The lesson is framed around the story of Florida panthers, which are a classic success story for genetic rescue. In Part 1, students explore Florida panther recovery through the lens of different stakeholders (ranchers, city-dwellers, and Native Americans), discussing ways that each group may have positive or negative associations with panthers. \n\nIn Part 2, they then explore different options for helping panther recovery, discussing pros and cons of genetic rescue, captive breeding, or doing nothing. \n\nPart 3 provides necessary scaffolding for a deeper dive into genetic rescue by explaining key concepts in the context of Florida panthers. Students also do a card-based activity simulating matings to better understand why inbreeding and recessive traits are so problematic in small populations.\n\nPart 4, goes deeper into genetic rescue: what can go wrong? Students provide evidence of their understanding of how all the concepts connect through a concept mapping exercise, interspersed with our carefully crafted explainer videos. A key take-home is that even though genetic rescue worked in Florida panthers, it's quite risky to test out conservation strategies on an endangered species. The concluding task is to analyze a table of organisms and their characteristics to determine which would be good models to study the effectiveness of genetic rescue without risking a rare species' extinction. \n\nPart 5 builds on this to reveal Dr. Sarah Fitzpatrick's (this lesson's sponsor) research using Trinidadian guppies as a model of genetic rescue. Students then spend much of the class period analyzing real, paired data collected from Florida panthers and guppies. They are asked to compare and label graphs from both species, and synthesize broader conclusions. The lesson leaves open many options for project-based lessons and independent projects."
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
       "SectionTitle": "Lesson Preview",
-      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Read our easy <AnchorLink href=\"#procedure\"> Procedure <\/AnchorLink>\n4. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>",
+      "QuickPrep": "1. Check out lesson multimedia below\n2. Look over <AnchorLink href=\"#teaching_materials\"> Teaching Materials <\/AnchorLink>\n3. Teach it and <AnchorLink href=\"#feedback\"> let us know what you think! <\/AnchorLink>",
       "Multimedia": [
         {
-          "order": 1,
+          "order": "1",
           "type": "video",
+          "forPart": "1",
           "title": "The Return of The Florida Panther",
-          "description": "Did you know Florida had panthers? The Florida panther, Puma concolor coryi, is a critically endangered species in the southern regions of Florida. Once rare and almost never seen, the Florida panther has bounced back from a brush with extinction to the point where more frequent encounters have people asking questions about this apex predator. There are misconceptions, misinformation, and misunderstandings about the panther and its habitat, so ecologist and filmmaker Chris Morgan travelled to Florida to get to the bottom of it. ",
-          "lessonRelevance": "For Part 1: Gives background on the plight of Florida panthers, and different viewpoints in favor or against them. A starting point for discussions about different strategies for saving endangered species.",
+          "description": "Did you know Florida had panthers? The Florida panther, Puma concolor coryi, is a critically endangered species in the southern regions of Florida. Once rare and almost never seen, the Florida panther has bounced back from a brush with extinction to the point where more frequent encounters have people asking questions about this apex predator. There are misconceptions, misinformation, and misunderstandings about the panther and its habitat, so ecologist and filmmaker Chris Morgan travelled to Florida to get to the bottom of it.",
+          "lessonRelevance": "Emotional engagement hook for the unit. Provides background on the plight of Florida panthers, and fodder for classroom discussion.",
           "by": "Chris Morgan (Wildlife Media)",
           "byLink": "https://www.youtube.com/channel/UC59OLxYOFLRqS_0HDhLs7iQ",
-          "keywords": "endangered species, Florida panther, puma, conservation, success story",
           "mainLink": "https://www.youtube.com/embed/Xr1SstxYW8w",
-          "vimeoLink": null,
-          "filename": null,
           "otherLink": null
         },
         {
-          "order": 2,
+          "order": "2",
           "type": "video",
+          "forPart": "3",
           "title": "Are endangered species worth saving?",
           "description": "Species are going extinct at crazy high rates. Does it matter?",
-          "lessonRelevance": "For Part 3: Gets students thinking about the costs of losing a species to set the stakes for a role play scenario.",
+          "lessonRelevance": "Gets students thinking about the costs of losing a species to set the stakes for a role play scenario.",
           "by": "Above the Noise",
           "byLink": "https://www.youtube.com/channel/UC4K10PNjqgGLKA3lo5V8KdQ",
-          "keywords": null,
           "mainLink": "https://www.youtube.com/embed/h5eTqjzQZDY",
-          "vimeoLink": null,
-          "filename": null,
           "otherLink": null
         },
         {
-          "order": 3,
+          "order": "3",
           "type": "video",
+          "forPart": "4",
           "title": "What is genetic rescue, and can we use it to save endangered species?",
-          "description": "This video is part of \"Genetic Rescue to the Rescue,\" a Galactic Polymath lesson about endangered species, why they matter, what we lose if they go extinct, and what we can do to save them. \nFlorida panthers (Puma concolor coryi) nearly went extinct in the 1990s. Here, we learn what happened and how wildlife managers tried to bring them back. Through this story, we explore connected concepts of how habitat fragmentation affects the flow of genes, and how this can lead to increasing risk of extinction in endangered species (the \"Extinction Vortex\"). The video ends with an open-ended question about what common species we could use to study endangered species recovery so that we don't run the chance of inadvertently destroying what we're trying to save.\nCheck out the lesson at https://www.galacticpolymath.com/lessons",
-          "lessonRelevance": "For Part 4: This video summarizes key learning objectives from Parts 1-3, and provides deeper context around genetic rescue, its potential risks, and benefits.",
+          "description": "This video is part of \"Genetic Rescue to the Rescue,\" a Galactic Polymath lesson about endangered species, why they matter, what we lose if they go extinct, and what we can do to save them. \n\nFlorida panthers (Puma concolor coryi) nearly went extinct in the 1990s. Here, we learn what happened and how wildlife managers tried to bring them back. Through this story, we explore connected concepts of how habitat fragmentation affects the flow of genes, and how this can lead to increasing risk of extinction in endangered species (the \"Extinction Vortex\"). The video ends with an open-ended question about what common species we could use to study endangered species recovery so that we don't run the chance of inadvertently destroying what we're trying to save.\n\nCheck out the lesson at https://www.galacticpolymath.com/lessons",
+          "lessonRelevance": "Summarizes key learning objectives from Parts 1-3, and provides deeper context around genetic rescue, its potential risks, and benefits.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "keywords": "endangered species, Florida panther, puma, conservation, genetic rescue, gene flow, genetic variation, DNA, extinction vortex",
           "mainLink": "https://www.youtube.com/embed/oFQmNq8sJ2Y",
-          "vimeoLink": null,
-          "filename": null,
           "otherLink": null
         },
         {
-          "order": 4,
+          "order": "4",
           "type": "video",
+          "forPart": "5",
           "title": "Saving a species through genetic rescue: Why we need model organisms",
-          "description": "This video is part of \"Genetic Rescue to the Rescue,\" a Galactic Polymath lesson about endangered species, why they matter, what we lose if they go extinct, and what we can do to save them. This video focuses on model organisms—species used to study a problem that is impossible to study in the target organism. In this case, we learn about how Dr. Sarah Fitzpatrick, PhD uses Trinidadian guppies to study genetic rescue—a strategy used to bring back species like endangered Florida panthers from the brink of extinction. \nCheck out the lesson at https://www.galacticpolymath.com/lessons",
-          "lessonRelevance": "For Part 5: Explains why model organisms are necessary to study endangered species. Dr. Sarah Fitzpatrick talks about her guppy research, drawing parallels to Florida panthers and the paired data sets students will analyze.",
+          "description": "This video is part of \"Genetic Rescue to the Rescue,\" a Galactic Polymath lesson about endangered species, why they matter, what we lose if they go extinct, and what we can do to save them. This video focuses on model organisms—species used to study a problem that is impossible to study in the target organism. In this case, we learn about how Dr. Sarah Fitzpatrick, PhD uses Trinidadian guppies to study genetic rescue—a strategy used to bring back species like endangered Florida panthers from the brink of extinction. \n\nCheck out the lesson at https://www.galacticpolymath.com/lessons",
+          "lessonRelevance": "Dr. Sarah Fitzpatrick explains how her research on guppies applies to conservation of endangered species like Florida panthers.",
           "by": "Galactic Polymath",
           "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-          "keywords": "endangered species, Florida panther, puma, guppies, conservation, genetic rescue, gene flow, genetic variation, DNA, extinction vortex, women in STEM, real scientist",
           "mainLink": "https://www.youtube.com/embed/AiXyHxv4Sx4",
-          "vimeoLink": null,
-          "filename": null,
           "otherLink": null
         }
       ],
@@ -150,403 +165,411 @@
       "__component": "teaching-resources.teaching-resources",
       "SectionTitle": "Teaching Materials",
       "Data": {
+        "lessonPreface": null,
+        "lessonDur": "3 x 45 min",
         "classroom": {
-          "resourceSummary": [
+          "gradeVariantNotes": [
             {
-              "nItems": 5,
-              "itemCat": "Digital Items",
-              "itemsGroup": [
-                {
-                  "item": "Presentation",
-                  "itemExplanation": "x 5 Parts"
-                }
-              ]
+              "part": "1",
+              "partGradeVarNotes": "Overall notes on content adaptions across different grade levels"
             },
             {
-              "nItems": 11,
-              "itemCat": "Printed Items",
-              "itemsGroup": [
-                {
-                  "item": "Teacher Worksheet",
-                  "itemExplanation": "x 5 Parts"
-                },
-                {
-                  "item": "Student Worksheet",
-                  "itemExplanation": "x 5 Parts"
-                },
-                {
-                  "item": "(For Part 2) \"Big\" and \"Small\" Population Cards",
-                  "itemExplanation": "(1 set per group)"
-                }
-              ]
+              "part": "2",
+              "partGradeVarNotes": null
             },
             {
-              "nItems": 6,
-              "itemCat": "Other Requirements",
-              "itemsGroup": [
-                {
-                  "item": "(For Part 2) Envelopes",
-                  "itemExplanation": "(i.e. 1 for \"Big\" and another for \"Small\" Population cards for each group)"
-                },
-                {
-                  "item": "(For Part 2) Scissors",
-                  "itemExplanation": "(For cutting out cards)"
-                },
-                {
-                  "item": "Teacher's computer",
-                  "itemExplanation": null
-                },
-                {
-                  "item": "Internet Connection",
-                  "itemExplanation": null
-                },
-                {
-                  "item": "Projector",
-                  "itemExplanation": null
-                },
-                {
-                  "item": "Set of Speakers",
-                  "itemExplanation": null
-                }
-              ]
+              "part": "3",
+              "partGradeVarNotes": null
+            },
+            {
+              "part": "4",
+              "partGradeVarNotes": null
+            },
+            {
+              "part": "5",
+              "partGradeVarNotes": null
             }
           ],
-          "gradeVariantNotes": null,
           "resources": [
             {
               "grades": "Grades 9-12",
               "gradePrefix": "G9-12",
               "links": {
-                "linkText": "Download G9-12 Materials for All Parts",
-                "url": "https://drive.google.com/drive/folders/1-LEgUSzHNVGq59c33AmFZD3mBsFp3MOK"
+                "linkText": "Browse & Download All G9-12 Materials",
+                "url": "https://drive.google.com/drive/folders/1EZGL0OCJ_vp8KxajI0l5xvU4fu7ZETTF"
               },
-              "parts": [
-                {
-                  "part": 1,
+              "parts": {
+                "1": {
+                  "part": "1",
                   "title": "Florida Panthers in Peril",
-                  "preface": "Introduction to the plight of the critically endangered Florida panther.",
+                  "tags": [
+                    [
+                      "empathy-building",
+                      "conservation"
+                    ]
+                  ],
+                  "preface": "Students learn how the Florida panther nearly went extinct. They evaluate and discuss how different stakeholders relate to these wild cats.",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation",
+                      "itemTitle": "Genetic Rescue_P1_G9-12",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
                       "itemCat": "presentation",
                       "links": [
                         {
                           "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/11-0q_jFckw3jo3IrmmGpPRwVsfQ6LOy9OoSMxn5Hvo4/present"
+                          "url": "https://docs.google.com/presentation/d/1G8YuV_U_QSHHA_zrVJ9yzJafDBIr7tOWpMasVBAnQCE/present"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/11-0q_jFckw3jo3IrmmGpPRwVsfQ6LOy9OoSMxn5Hvo4/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1G8YuV_U_QSHHA_zrVJ9yzJafDBIr7tOWpMasVBAnQCE/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Part 1 Student Worksheet",
-                      "itemCat": null,
+                      "itemTitle": "Student Worksheet (Part 1)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1pV0IRpph3dnb8V-o0uKfuNjedNV8BFsdNBoG2BSKK0o/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1rG0ijtWH3j5jok_RmXahyOPrxXyV4pLN_0qbM1o1KJw/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1pV0IRpph3dnb8V-o0uKfuNjedNV8BFsdNBoG2BSKK0o/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1rG0ijtWH3j5jok_RmXahyOPrxXyV4pLN_0qbM1o1KJw/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Part 1 Teacher Worksheet",
-                      "itemCat": null,
+                      "itemTitle": "Teacher Worksheet (Part 1)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1QOCEvwIk8366_VK18TnXMCyqDyy9sx6D12q5xjcGK_U/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1dNwRDQb5lJ_3flGaUEKdunSVaGMTh12utgZ1_jpdry0/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1QOCEvwIk8366_VK18TnXMCyqDyy9sx6D12q5xjcGK_U/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1dNwRDQb5lJ_3flGaUEKdunSVaGMTh12utgZ1_jpdry0/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                {
-                  "part": 2,
+                "2": {
+                  "part": "2",
                   "title": "Genetics of Endangered Species",
-                  "preface": "Reviews relevant genetics topics including dominant/recessive alleles and genotype vs. phenotype.",
+                  "tags": [
+                    [
+                      "cards",
+                      "simulation"
+                    ]
+                  ],
+                  "preface": "Students do a simulated crosses involving 3 genes to understand why small populations have more recessive traits. Includes a quick review of relevant genetic terms like dominant/recessive alleles.",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation",
+                      "itemTitle": "Panther Genotype Cards for Hands On Simulation of Genetics of Inbreeding in Panthers (Part 2)",
+                      "itemDescription": "Print a set for every ~10 students and put Big and Small cards in separate envelopes",
+                      "itemCat": "presentation",
+                      "links": [
+                        {
+                          "linkText": "PDF",
+                          "url": "https://docs.google.com/presentation/d/1S8dNXln6_RjpHbZg8QTMThWS-Yusk1f2_BwcwxNhf3c/export/pdf"
+                        },
+                        {
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1S8dNXln6_RjpHbZg8QTMThWS-Yusk1f2_BwcwxNhf3c/template/preview"
+                        }
+                      ]
+                    },
+                    {
+                      "itemTitle": "Genetic Rescue_P2_G9-12",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
                       "itemCat": "presentation",
                       "links": [
                         {
                           "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/1d5M-QrO2DVYCRGsJys-p6_lmYHmLKUa9-zfkBigQ7ZM/present"
+                          "url": "https://docs.google.com/presentation/d/1ygAA4-0WdSnIoP55ah8POBPFmPzKEPv1AiD65CzH2Y4/present"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1d5M-QrO2DVYCRGsJys-p6_lmYHmLKUa9-zfkBigQ7ZM/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1ygAA4-0WdSnIoP55ah8POBPFmPzKEPv1AiD65CzH2Y4/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Part 2 Student Worksheet",
-                      "itemCat": null,
+                      "itemTitle": "Student Worksheet (Part 2)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1522hLLXRKBO8VzALl6WXv4WyuNa_I1jAJormI5tOuH8/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1yc89U5TD4QRf1fRq3ZTh9u4wo6xX1llhh1lKzktDPIg/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1522hLLXRKBO8VzALl6WXv4WyuNa_I1jAJormI5tOuH8/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1yc89U5TD4QRf1fRq3ZTh9u4wo6xX1llhh1lKzktDPIg/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Part 2 Teacher Worksheet",
-                      "itemCat": null,
+                      "itemTitle": "Teacher Worksheet (Part 2)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1HkWzEQB69xulxAWz2Xh5tnpDa2Uwj9JSZnLIhJuEMFA/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1maeaQdqwv3ymNR_J8_Oh3b7da18RfjwLIHywh7Fsvn8/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1HkWzEQB69xulxAWz2Xh5tnpDa2Uwj9JSZnLIhJuEMFA/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Part 2 Panther Genotype Cards for Hands On Simulation of Genetics of Inbreeding in Panthers",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/presentation/d/1rwgBdQ3W9XKdhfEddiBGs5vRxtTDOthOiSZAgNILqUw/export/pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1rwgBdQ3W9XKdhfEddiBGs5vRxtTDOthOiSZAgNILqUw/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1maeaQdqwv3ymNR_J8_Oh3b7da18RfjwLIHywh7Fsvn8/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                {
-                  "part": 3,
+                "3": {
+                  "part": "3",
                   "title": "The Florida Panther Debate",
-                  "preface": "Delves into what can (or should) be done to help save the Florida Panther. ",
+                  "tags": [
+                    "real world problems"
+                  ],
+                  "preface": "Students play the role of wildlife managers in the 1990s charged with deciding what to do about Florida panthers. Includes collaboration, active movement, and discussions.",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation",
+                      "itemTitle": "Genetic Rescue_P3_G9-12",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
                       "itemCat": "presentation",
                       "links": [
                         {
                           "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/12kuqfuWeBIlxmtp-50o_yp5i3HWENBu5r0QN7ukxJyU/present"
+                          "url": "https://docs.google.com/presentation/d/1LwAzYmxXvSkMCL4bPKuLh2CzHZ25oUsE3377_jZnz9Q/present"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/12kuqfuWeBIlxmtp-50o_yp5i3HWENBu5r0QN7ukxJyU/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1LwAzYmxXvSkMCL4bPKuLh2CzHZ25oUsE3377_jZnz9Q/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Part 3 Student Worksheet",
-                      "itemCat": null,
+                      "itemTitle": "Student Worksheet (Part 3)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/15hzLjht_9G8jfyDMk6ybpdDbJeYMO9O-wvhoOgx9ly8/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1gK1eYtilqMPLbq9vzPzkc3mOrX0N9eV4h8tBlh5JnfQ/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/15hzLjht_9G8jfyDMk6ybpdDbJeYMO9O-wvhoOgx9ly8/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1gK1eYtilqMPLbq9vzPzkc3mOrX0N9eV4h8tBlh5JnfQ/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Part 3 Teacher Worksheet",
-                      "itemCat": null,
+                      "itemTitle": "Teacher Worksheet (Part 3)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1_3YoCjZOVkdEkiiyiAn7cOxIgezulVlYyWT3ChPMYr8/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1Vs5nujrjNkrKOoJq6iWjvOpK3HFxujYML4DM4rRTuKs/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1_3YoCjZOVkdEkiiyiAn7cOxIgezulVlYyWT3ChPMYr8/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1Vs5nujrjNkrKOoJq6iWjvOpK3HFxujYML4DM4rRTuKs/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                {
-                  "part": 4,
+                "4": {
+                  "part": "4",
                   "title": "Deep Dive into Genetic Rescue",
-                  "preface": "Provides an overview of genetic rescue concepts and how it relates to Florida Panther situation. ",
+                  "tags": [
+                    [
+                      "model species",
+                      "nature of science"
+                    ]
+                  ],
+                  "preface": "Students learn about the details of genetic rescue, what can go wrong, and why species (like fruit flies and guppies) are great models for research that don't risk causing the extinction of a rare species.",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation",
+                      "itemTitle": "Genetic Rescue_P4_G9-12",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
                       "itemCat": "presentation",
                       "links": [
                         {
                           "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/1jtBh7fTjo-e7hW3rw70vYNY6JTSHhU3U_jYoppfZEp4/present"
+                          "url": "https://docs.google.com/presentation/d/1UGcWE-yBrrzAnqP5Yohdc47tPgzKnV9hlCrgAUx9Oe8/present"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/1jtBh7fTjo-e7hW3rw70vYNY6JTSHhU3U_jYoppfZEp4/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1UGcWE-yBrrzAnqP5Yohdc47tPgzKnV9hlCrgAUx9Oe8/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Part 4 Student Worksheet",
-                      "itemCat": null,
+                      "itemTitle": "Student Worksheet (Part 4)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1y5be2mif380Ee1XpI3dzyTn2WsrVm4zhe95XcG1XHYg/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1d-nuCTCa_9cbcLNUU2h-REPyazt_HLWRWmZ3s9mVc9A/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1y5be2mif380Ee1XpI3dzyTn2WsrVm4zhe95XcG1XHYg/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1d-nuCTCa_9cbcLNUU2h-REPyazt_HLWRWmZ3s9mVc9A/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Part 4 Teacher Worksheet",
-                      "itemCat": null,
+                      "itemTitle": "Teacher Worksheet (Part 4)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1zgylTvNDPslFcPwWyujTkgJphW7GmLrj-QoiirYJ-MA/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1tq2yueS_j9vXrRArCj1jfsb15j4ihUUiNFL3JzjHAgI/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1zgylTvNDPslFcPwWyujTkgJphW7GmLrj-QoiirYJ-MA/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1tq2yueS_j9vXrRArCj1jfsb15j4ihUUiNFL3JzjHAgI/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                {
-                  "part": 5,
+                "5": {
+                  "part": "5",
                   "title": "Analyzing Real Genetic Rescue Data",
+                  "tags": [
+                    [
+                      "real data",
+                      "conservation",
+                      "data literacy"
+                    ]
+                  ],
                   "preface": "Uses real data from a model species to investigate whether genetic rescue is a viable conservation method for Florida Panthers.",
                   "itemList": [
                     {
-                      "itemTitle": "Presentation",
+                      "itemTitle": "Genetic Rescue_P5_G9-12",
+                      "itemDescription": "Need: WiFi, Computer, Projector, Sound",
                       "itemCat": "presentation",
                       "links": [
                         {
                           "linkText": "Present Now",
-                          "url": "https://docs.google.com/presentation/d/10SMDLi6UturapkNMpq-4qt31H05tOhA3uJY4xamt79Y/present"
+                          "url": "https://docs.google.com/presentation/d/1kNCoWwRGVEnKqyHmbIMJCi6v0cup1LISDofUAvx0qBE/present"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/presentation/d/10SMDLi6UturapkNMpq-4qt31H05tOhA3uJY4xamt79Y/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/presentation/d/1kNCoWwRGVEnKqyHmbIMJCi6v0cup1LISDofUAvx0qBE/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Part 5 Student Worksheet",
-                      "itemCat": null,
+                      "itemTitle": "Student Worksheet (Part 5)",
+                      "itemDescription": "Print 1 Per Student",
+                      "itemCat": "document",
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1ZAoZ_E2Jm6R5zI9fswxCorDS4AiCi9bxlvAZxrFGysY/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/19gicDDdWGSt1QJBFSMxXKjKL8U0UMHU4uV4uCXrDBH0/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1ZAoZ_E2Jm6R5zI9fswxCorDS4AiCi9bxlvAZxrFGysY/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/19gicDDdWGSt1QJBFSMxXKjKL8U0UMHU4uV4uCXrDBH0/template/preview"
                         }
                       ]
                     },
                     {
-                      "itemTitle": "Part 5 Teacher Worksheet",
-                      "itemCat": null,
+                      "itemTitle": "Teacher Worksheet (Part 5)",
+                      "itemDescription": "Print 1",
+                      "itemCat": "document",
                       "links": [
                         {
                           "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/17pVB3Aty3FHTRtH5-3ntvluGNMv_HBBuuruTBezuoQk/export?format=pdf"
+                          "url": "https://docs.google.com/document/d/1ngeuUXhI02BCfnu_5-HLIC-QnbZSI1KNaQBmEVBdaMs/export?format=pdf"
                         },
                         {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/17pVB3Aty3FHTRtH5-3ntvluGNMv_HBBuuruTBezuoQk/template/preview"
+                          "linkText": "Copy/Edit in Google Docs",
+                          "url": "https://docs.google.com/document/d/1ngeuUXhI02BCfnu_5-HLIC-QnbZSI1KNaQBmEVBdaMs/template/preview"
                         }
                       ]
                     }
                   ]
                 },
-                {
-                  "part": "last",
-                  "title": "Assessments",
-                  "preface": "",
-                  "itemList": [
-                    {
-                      "itemTitle": "Grading Rubric",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1xSX2h1Fyl8PxpbNuGuEAiZve1jbb8Pz1_W0ZPqMdBz8/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1xSX2h1Fyl8PxpbNuGuEAiZve1jbb8Pz1_W0ZPqMdBz8/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Pre/Post- Assessment (TEACHER)",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1eLAl5Pq6H-ahoVhH11DkFzGhz_RNyS9PydUGLpNN1Fs/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1eLAl5Pq6H-ahoVhH11DkFzGhz_RNyS9PydUGLpNN1Fs/template/preview"
-                        }
-                      ]
-                    },
-                    {
-                      "itemTitle": "Pre/Post- Assessment (STUDENT)",
-                      "itemCat": null,
-                      "links": [
-                        {
-                          "linkText": "PDF",
-                          "url": "https://docs.google.com/document/d/1QtPOWrI8hs9fxh83mB4Ji2DMyUBXkIl-5SToZ6Et52g/export?format=pdf"
-                        },
-                        {
-                          "linkText": "Copy to My Google Drive",
-                          "url": "https://docs.google.com/document/d/1QtPOWrI8hs9fxh83mB4Ji2DMyUBXkIl-5SToZ6Et52g/template/preview"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
+                "part": "last",
+                "title": "Assessments",
+                "preface": "",
+                "itemList": [
+                  {
+                    "itemTitle": "Student Assessment",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF",
+                        "url": "https://docs.google.com/document/d/1NacFoHGQyxcureOPxYdlAx1raJGidtSqcZicy6G-FOY/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs",
+                        "url": "https://docs.google.com/document/d/1NacFoHGQyxcureOPxYdlAx1raJGidtSqcZicy6G-FOY/template/preview"
+                      }
+                    ]
+                  },
+                  {
+                    "itemTitle": "Teacher Assessment",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF",
+                        "url": "https://docs.google.com/document/d/1Q7QUW0UxMHcMFWJL954r1UBxxHghgfZTPTSuofPKwhU/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs",
+                        "url": "https://docs.google.com/document/d/1Q7QUW0UxMHcMFWJL954r1UBxxHghgfZTPTSuofPKwhU/template/preview"
+                      }
+                    ]
+                  },
+                  {
+                    "itemTitle": "Genetic Rescue Unit Assessment Rubric",
+                    "itemDescription": null,
+                    "itemCat": "document",
+                    "links": [
+                      {
+                        "linkText": "PDF",
+                        "url": "https://docs.google.com/document/d/1sBxfEsKLdDCE5-C3NTU0wcINFwNJdVz_zt-bWfA4nVo/export?format=pdf"
+                      },
+                      {
+                        "linkText": "Copy/Edit in Google Docs",
+                        "url": "https://docs.google.com/document/d/1sBxfEsKLdDCE5-C3NTU0wcINFwNJdVz_zt-bWfA4nVo/template/preview"
+                      }
+                    ]
+                  }
+                ]
+              }
             }
           ]
-        }
-      }
-    },
-    "procedure": {
-      "__component": "lesson-plan.procedure",
-      "SectionTitle": "Procedure",
-      "Data": {
-        "lessonPreface": "Part 2 is perhaps the densest. Everything builds toward interpreting real data from genetic rescue in Florida panthers and Trinidadian guppies (a model for studying endangered species) in Part 5.",
-        "lessonDur": "5 x 45 min",
+        },
         "parts": [
           {
             "partNum": 1,
             "partTitle": "Florida Panthers in Peril",
             "partDur": 45,
-            "partPreface": "Introduction to the plight of the critically endangered Florida panther.",
+            "partPreface": "Students learn how the Florida panther nearly went extinct. They evaluate and discuss how different stakeholders relate to these wild cats.",
+            "partPrep": {
+              "PrepTitle": "Prep",
+              "PrepDur": 5,
+              "PrepQuickDescription": "Print out handouts.",
+              "PrepDetails": null,
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
             "chunks": [
               {
                 "chunkTitle": "Warm-Up",
@@ -573,7 +596,7 @@
                     "Step": 2,
                     "StepTitle": "Scientific vs. Common Names",
                     "StepQuickDescription": "Brief intro to Genus and species and why scientific names avoid confusion around common names.",
-                    "StepDetails": "What we call a \"panther\" actually means a lot of different,  very distinct types of cat. ",
+                    "StepDetails": "What we call a \"panther\" actually means a lot of different,  very distinct types of cat.",
                     "Vocab": "- **scientific name:**  the *Genus* + *species* of an organism\n- **common name:**   a local name for an organism\n- **panther:**  can refer to 1) a dark variety of a jaguar or leopard  or 2) the Florida subspecies of the Puma or mountain lion",
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -598,7 +621,7 @@
                     "Step": 4,
                     "StepTitle": "Watch Video 1",
                     "StepQuickDescription": "How do people feel about the Florida Panther?",
-                    "StepDetails": "[▶'The Return of The Florida Panther'](https://www.youtube.com/watch?v=Xr1SstxYW8w) explores the plight of the panther through the lens of different stakeholders (e.g. urbanites, ranchers, and Native Americans).",
+                    "StepDetails": "[▶ The Return of The Florida Panther](https://www.youtube.com/watch?v=Xr1SstxYW8w) explores the plight of the panther through the lens of different stakeholders (e.g. urbanites, ranchers, and Native Americans).",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -615,7 +638,7 @@
                   {
                     "Step": 6,
                     "StepTitle": "Let's review a scene",
-                    "StepQuickDescription": "Students reflect on a scene where a man compares the loss of panthers to loss of Master Art Works. ",
+                    "StepQuickDescription": "Students reflect on a scene where a man compares the loss of panthers to loss of Master Art Works.",
                     "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
@@ -639,13 +662,22 @@
                   }
                 ]
               }
-            ]
+            ],
+            "partExt": null
           },
           {
             "partNum": 2,
             "partTitle": "Genetics of Endangered Species",
             "partDur": 45,
-            "partPreface": "Reviews relevant genetics topics including dominant/recessive alleles and genotype vs. phenotype.",
+            "partPreface": "Students do a simulated crosses involving 3 genes to understand why small populations have more recessive traits. Includes a quick review of relevant genetic terms like dominant/recessive alleles.",
+            "partPrep": {
+              "PrepTitle": "Prep",
+              "PrepDur": 15,
+              "PrepQuickDescription": "- Print handouts.\n- Cut out cards (can use a class set or 1 per group)\n- Put \"Big Population\" and \"Small Population\" cards in envelopes",
+              "PrepDetails": null,
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
             "chunks": [
               {
                 "chunkTitle": "Warm-Up",
@@ -672,7 +704,7 @@
                     "Step": 2,
                     "StepTitle": "Genetics Mini-Review",
                     "StepQuickDescription": "Students go through a quick review of dominant and recessive alleles.",
-                    "StepDetails": "Spend some time going through the slides with students to ensure a solid understanding of dominant and recessive traits. These form the basis of why the Florida Panther is experiencing genetic crisis. ",
+                    "StepDetails": "Spend some time going through the slides with students to ensure a solid understanding of dominant and recessive traits. These form the basis of why the Florida Panther is experiencing genetic crisis.",
                     "Vocab": "- **nucleotide:** one of 4 chemical building blocks of DNA; abbreviated as A, C, G, and T\n- **allele:** different forms of a gene\n- **dominant:** when a trait is still functional even if one allele is defective\n- **recessive:** when a trait is only expressed when an individual has two copies of the allele\n- **genotype:** the combination of alleles an individual has for a set of genes\n- **phenotype:** the combined effect of genes to produce a trait",
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -696,7 +728,7 @@
                   {
                     "Step": 4,
                     "StepTitle": "Small Population Simulations",
-                    "StepQuickDescription": "Students should work in groups to fill out their worksheets. ",
+                    "StepQuickDescription": "Students should work in groups to fill out their worksheets.",
                     "StepDetails": "Each group should have 2 envelopes with cutouts of 15 panther cards (1 set sampled from a small population; 1 sampled from a big population). Students start by drawing a pair of parents from the small population. They fill in Table 1, practicing with assigning genotypes and phenotypes.",
                     "Vocab": null,
                     "VariantNotes": null,
@@ -740,13 +772,22 @@
                   }
                 ]
               }
-            ]
+            ],
+            "partExt": null
           },
           {
             "partNum": 3,
             "partTitle": "The Florida Panther Debate",
-            "partDur": 45,
-            "partPreface": "Delves into what can (or should) be done to help save the Florida Panther. ",
+            "partDur": null,
+            "partPreface": "Students play the role of wildlife managers in the 1990s charged with deciding what to do about Florida panthers. Includes collaboration, active movement, and discussions.",
+            "partPrep": {
+              "PrepTitle": "Prep",
+              "PrepDur": 5,
+              "PrepQuickDescription": "- Print handouts.\n- Set up areas in room for groups to brainstorm pros and cons (See Step 2)",
+              "PrepDetails": null,
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
             "chunks": [
               {
                 "chunkTitle": "Engagement",
@@ -756,7 +797,7 @@
                   {
                     "Step": 1,
                     "StepTitle": "Watch Video",
-                    "StepQuickDescription": "Students watch [▶'Are endangered species worth saving?'](https://www.youtube.com/watch?v=h5eTqjzQZDY) to get them thinking about what is at stake.",
+                    "StepQuickDescription": "Students watch [▶ Are endangered species worth saving?](https://www.youtube.com/watch?v=h5eTqjzQZDY) to get them thinking about what is at stake.",
                     "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
@@ -773,7 +814,7 @@
                     "Step": 2,
                     "StepTitle": "Brainstorming",
                     "StepQuickDescription": "Students simulate being on a committee in 1994 that will decide what to do about Florida Panthers.",
-                    "StepDetails": "Divide students into 3 groups and assign each a different option to advocate: let nature run its course; start a captive breeding program; or use genetic rescue. Allow groups 5-10 minutes to brainstorm the pros and cons of their arguments and fill out questions 1 & 2 on the worksheet. ",
+                    "StepDetails": "Divide students into 3 groups and assign each a different option to advocate: let nature run its course; start a captive breeding program; or use genetic rescue. Allow groups 5-10 minutes to brainstorm the pros and cons of their arguments and fill out questions 1 & 2 on the worksheet.",
                     "Vocab": "- **captive breeding:** breeding in zoos and aquariums of plants or animals to maintain populations",
                     "VariantNotes": null,
                     "TeachingTips": "For a large class, you can have multiple sets of 3. (e.g. have students number of 1-3, and have 3 group stations for the front half and 3 group stations for the back half of the room)"
@@ -797,7 +838,7 @@
                   {
                     "Step": 4,
                     "StepTitle": "Class Discussion",
-                    "StepQuickDescription": "Each group will have the opportunity to share the pros & cons they brainstormed for each committee scenario. ",
+                    "StepQuickDescription": "Each group will have the opportunity to share the pros & cons they brainstormed for each committee scenario.",
                     "StepDetails": "Write or type the pros & cons on three large charts for each scenario based on the students' input. Once all three options have been discussed, each student gets to vote on a course of action. Ask students to provide evidence and reasoning to support their choice.",
                     "Vocab": null,
                     "VariantNotes": null,
@@ -824,7 +865,7 @@
                   {
                     "Step": 7,
                     "StepTitle": "Students Finish Worksheet on their Own",
-                    "StepQuickDescription": null,
+                    "StepQuickDescription": "Can be assigned for homework",
                     "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
@@ -832,23 +873,32 @@
                   }
                 ]
               }
-            ]
+            ],
+            "partExt": null
           },
           {
             "partNum": 4,
             "partTitle": "Deep Dive into Genetic Rescue",
-            "partDur": 45,
-            "partPreface": "Provides an overview of genetic rescue concepts and how it relates to Florida Panther situation. ",
+            "partDur": null,
+            "partPreface": "Students learn about the details of genetic rescue, what can go wrong, and why species (like fruit flies and guppies) are great models for research that don't risk causing the extinction of a rare species.",
+            "partPrep": {
+              "PrepTitle": "Prep",
+              "PrepDur": 5,
+              "PrepQuickDescription": "Print handouts",
+              "PrepDetails": null,
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
             "chunks": [
               {
-                "chunkTitle": "Genetic Rescue Deep Dive",
+                "chunkTitle": "Background/ Engage",
                 "chunkStart": 0,
                 "chunkDur": 10,
                 "steps": [
                   {
                     "Step": 1,
                     "StepTitle": "Overview",
-                    "StepQuickDescription": "Students watch part of [▶'What is genetic rescue, and can we use it to save endangered species?'](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) to review and go deeper into what genetic rescue is and why it is so important for a population to have genetic variation. ",
+                    "StepQuickDescription": "Students watch part of [▶ What is genetic rescue, and can we use it to save endangered species?](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) to review and go deeper into what genetic rescue is and why it is so important for a population to have genetic variation.",
                     "StepDetails": null,
                     "Vocab": "- **habitat fragmentation:** the process of breaking a habitat up into disconnected pieces",
                     "VariantNotes": null,
@@ -857,14 +907,14 @@
                 ]
               },
               {
-                "chunkTitle": null,
+                "chunkTitle": "Elaborate",
                 "chunkStart": 10,
                 "chunkDur": 20,
                 "steps": [
                   {
                     "Step": 2,
                     "StepTitle": "The Extinction Vortex",
-                    "StepQuickDescription": "Students continue watching [▶'What is genetic rescue, and can we use it to save endangered species?'](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) to learn more about what an extinction vortex is and how populations can be saved from this circumstance.",
+                    "StepQuickDescription": "Students continue watching [▶ What is genetic rescue, and can we use it to save endangered species?](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) to learn more about what an extinction vortex is and how populations can be saved from this circumstance.",
                     "StepDetails": "They are then asked to fill out a concept map to demonstrate understanding of the Extinction Vortex. The slides then walk through a discussion of the logic behind the correct concept map.",
                     "Vocab": "- **extinction:** the dying out of a species due to environmental or evolutionary changes\n- **concept map:** a diagram that shows how different inputs or parts of a system affect each other",
                     "VariantNotes": null,
@@ -906,39 +956,32 @@
                   }
                 ]
               }
-            ]
+            ],
+            "partExt": null
           },
           {
             "partNum": 5,
             "partTitle": "Analyzing Real Genetic Rescue Data",
-            "partDur": 45,
+            "partDur": null,
             "partPreface": "Uses real data from a model species to investigate whether genetic rescue is a viable conservation method for Florida Panthers.",
+            "partPrep": {
+              "PrepTitle": "Genetic Rescue in Action",
+              "PrepDur": 5,
+              "PrepQuickDescription": "Students review the end of [▶ What is genetic rescue, and can we use it to save endangered species?](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) and go over the previous day's worksheet.",
+              "PrepDetails": "Tortoises are the only bad option listed, as they have a slow generation time and are not common. The other species are all actual models for genetic rescue research.",
+              "PrepVariantNotes": null,
+              "PrepTeachingTips": null
+            },
             "chunks": [
               {
-                "chunkTitle": "Review",
+                "chunkTitle": "Dr. Sarah Fitzpatrick Talks About her Research",
                 "chunkStart": 0,
                 "chunkDur": 5,
                 "steps": [
                   {
                     "Step": 1,
-                    "StepTitle": "Genetic Rescue in Action",
-                    "StepQuickDescription": "Students review the end of [▶'What is genetic rescue, and can we use it to save endangered species?'](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2) and go over the previous day's worksheet.",
-                    "StepDetails": "Tortoises are the only bad option listed, as they have a slow generation time and are not common. The other species are all actual models for genetic rescue research.",
-                    "Vocab": null,
-                    "VariantNotes": null,
-                    "TeachingTips": null
-                  }
-                ]
-              },
-              {
-                "chunkTitle": "Dr. Sarah Fitzpatrick Talks About her Research",
-                "chunkStart": 5,
-                "chunkDur": 5,
-                "steps": [
-                  {
-                    "Step": 2,
                     "StepTitle": "Hear it from a Scientist!",
-                    "StepQuickDescription": "Dr. Fitzpatrick, whose research forms the basis of this lesson, discusses how she has studied genetic rescue using Trinidadian Guppies (fish) in [▶'Saving a species through genetic rescue: Why we need model organisms'](https://www.youtube.com/watch?v=AiXyHxv4Sx4&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=3).",
+                    "StepQuickDescription": "Dr. Fitzpatrick, whose research forms the basis of this lesson, discusses how she has studied genetic rescue using Trinidadian Guppies (fish) in [▶ Saving a species through genetic rescue: Why we need model organisms](https://www.youtube.com/watch?v=AiXyHxv4Sx4&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=3).",
                     "StepDetails": null,
                     "Vocab": null,
                     "VariantNotes": null,
@@ -948,11 +991,11 @@
               },
               {
                 "chunkTitle": "Quick Activity",
-                "chunkStart": 10,
+                "chunkStart": 5,
                 "chunkDur": 15,
                 "steps": [
                   {
-                    "Step": 3,
+                    "Step": 2,
                     "StepTitle": "Instant Peer Review",
                     "StepQuickDescription": "Students compare and contrast guppies and panthers on their worksheets (Q1-4).",
                     "StepDetails": "They then switch papers with a partner. They should underline a point they strongly agree with, circle  a point they disagree with or think should be explained better, and discuss. Then revise based on the feedback. Students can then share positive/helpful feedback they received.",
@@ -961,7 +1004,7 @@
                     "TeachingTips": null
                   },
                   {
-                    "Step": 4,
+                    "Step": 3,
                     "StepTitle": "Scaffolding",
                     "StepQuickDescription": "Slides walk through the primary responses students should have come up with.",
                     "StepDetails": null,
@@ -973,11 +1016,11 @@
               },
               {
                 "chunkTitle": "Analyzing Real Data",
-                "chunkStart": 25,
-                "chunkDur": 20,
+                "chunkStart": 20,
+                "chunkDur": 10,
                 "steps": [
                   {
-                    "Step": 5,
+                    "Step": 4,
                     "StepTitle": "Developing Predictions",
                     "StepQuickDescription": "Students revisit the genetic rescue concept map and think about what they could measure to assess success.",
                     "StepDetails": "Specifically, we expect that if genetic rescue is successful:\n1. genetic variation should increase and \n2. as a result population size should increase (because of higher survival and reproduction)",
@@ -986,7 +1029,7 @@
                     "TeachingTips": null
                   },
                   {
-                    "Step": 6,
+                    "Step": 5,
                     "StepTitle": "Independent Analysis",
                     "StepQuickDescription": "Students spend the rest of class filling out the worksheet on their own.",
                     "StepDetails": "They are asked to label graphs from Florida panthers and guppies by carefully studying part of the data table used to generate them.",
@@ -995,8 +1038,8 @@
                     "TeachingTips": "If students are confused, ask them to notice anything at all about the tables. Do some of the numbers or dates seem to match up with any of the graphs?"
                   },
                   {
-                    "Step": 7,
-                    "StepTitle": "Reflection",
+                    "Step": 6,
+                    "StepTitle": "Independent Reflection",
                     "StepQuickDescription": "Students generate a question from the data  and synthesize their findings and observations to make a recommendation.",
                     "StepDetails": "Given the evidence from Florida panther recovery and the study in Trinidadian guppies, should we conduct a second genetic rescue attempt in the panthers?",
                     "Vocab": null,
@@ -1005,7 +1048,90 @@
                   }
                 ]
               }
-            ]
+            ],
+            "partExt": null
+          }
+        ],
+        "gatheredVocab": [
+          {
+            "term": "subspecies",
+            "definition": "a distinct population of a species, typically due to geographic isolation"
+          },
+          {
+            "term": "scientific name",
+            "definition": "the *Genus* + *species* of an organism"
+          },
+          {
+            "term": "common name",
+            "definition": "a local name for an organism"
+          },
+          {
+            "term": "panther",
+            "definition": "can refer to 1) a dark variety of a jaguar or leopard  or 2) the Florida subspecies of the Puma or mountain lion"
+          },
+          {
+            "term": "inbred",
+            "definition": "the product of mating with closely related individuals; often results in individuals with genetic disorders"
+          },
+          {
+            "term": "inbreeding",
+            "definition": "a condition that occurs when genetically closely related animals mate, especially over multiple generations"
+          },
+          {
+            "term": "trait",
+            "definition": "a specific characteristic of an organism"
+          },
+          {
+            "term": "variation",
+            "definition": "any difference in organisms caused by genetic and/or environmental differences"
+          },
+          {
+            "term": "nucleotide",
+            "definition": "one of 4 chemical building blocks of DNA; abbreviated as A, C, G, and T"
+          },
+          {
+            "term": "allele",
+            "definition": "different forms of a gene"
+          },
+          {
+            "term": "dominant",
+            "definition": "when a trait is still functional even if one allele is defective"
+          },
+          {
+            "term": "recessive",
+            "definition": "when a trait is only expressed when an individual has two copies of the allele"
+          },
+          {
+            "term": "genotype",
+            "definition": "the combination of alleles an individual has for a set of genes"
+          },
+          {
+            "term": "phenotype",
+            "definition": "the combined effect of genes to produce a trait"
+          },
+          {
+            "term": "captive breeding",
+            "definition": "breeding in zoos and aquariums of plants or animals to maintain populations"
+          },
+          {
+            "term": "habitat fragmentation",
+            "definition": "the process of breaking a habitat up into disconnected pieces"
+          },
+          {
+            "term": "extinction",
+            "definition": "the dying out of a species due to environmental or evolutionary changes"
+          },
+          {
+            "term": "concept map",
+            "definition": "a diagram that shows how different inputs or parts of a system affect each other"
+          },
+          {
+            "term": "genetic rescue",
+            "definition": "introducing individuals with new genetic variation to help a population recover from inbreeding"
+          },
+          {
+            "term": "model organism",
+            "definition": "a species used to study a problem when it is difficult or impossible to study in a target species"
           }
         ]
       }
@@ -1019,7 +1145,7 @@
     "background": {
       "__component": "lesson-plan.collapsible-text-section",
       "SectionTitle": "Background",
-      "Content": "#### Connection to Research\n How do we save endangered species? This lesson deals with one option called *genetic rescue*—a conservation strategy that involves moving individuals from one population into an endangered population that is highly inbred in order to add genetic variation to enable population recovery. Students learn about two distinct lines of research: one measuring the success of an attempt to save endangered Florida panthers; the other using wild Trinidadian guppies as a model of endangered species in order to better understand details of how genetic rescue can succeed or fail. \n#### Research Background\n Watch this video for a lot of panther background: [▶'What is genetic rescue, and can we use it to save endangered species?'](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2)  \n\nThe Florida panther is a unique subspecies (*Puma concolor coryi*) of the American puma (*Puma concolor*). It's not to be confused with black panthers, which are the dark (melanistic) forms of leopards or jaguars. The Florida panther was nearly driven to extinction by habitat loss, fragmentation, and targeted hunting. In the mid-1990s, there remained only a tiny ~20 individual population of panthers in south Florida, and they were highly inbred. They had a lot of recessive genetic abnormalities, including visible, superficial traits like: kinked tails and cowlicks in their fur, to more significant problems like: cryptorchidism (undescended testicles, causing infertility in males) and heart defects. Wildlife managers decided to relocate 8 female pumas from Texas (*Puma concolor couguar*) into Florida to introduce needed genetic variation.  \n\nStudents will get to analyze 20 years worth of monitoring data to assess whether genetic rescue was successful (it was! There are now over 200 Florida panthers). At the same time, students will compare these results to a paired data set in Trinidadian guppies to understand how model organisms can be used to answer scientific questions that are difficult to answer in an endangered or difficult-to-study species.\n\n#### Related Florida Panther Paper:\n![screenshot of panther study paper](https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/VanDeKerk_paper_screenshot.png)\n[Link to study](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wmon.1041)\n\n\nThis video connects genetic rescue research on Florida panthers to the Trinidadian guppy model species: [▶'Saving a species through genetic rescue: Why we need model organisms'](https://www.youtube.com/watch?v=AiXyHxv4Sx4&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=3)\n\nTo study many details of genetic rescue in a model system where we don't have to worry about inadvertently driving a species extinct, Dr. Sarah Fitzpatrick and colleagues went to Trinidad. They took advantage of previous experiments that had moved guppies from a downstream population that had lots of genetic variation into upstream pools with only a few, highly inbred fish. \n\nThis genetic rescue experiment was indeed successful, and after only a few months, genetic variation increased and the population rebounded from around 20 individuals to over 1,000.\n\n\n#### Related Guppy Paper:\n![screenshot of Scientific Study](https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/fitzpatrick_paper_screenshot.png)\n[Link to study](https://onlinelibrary.wiley.com/doi/10.1111/eva.12356)\n\n#### Further Reading\n- [USFWS Florida Panther Profile](https://www.fws.gov/refuge/florida_panther/wah/panther.html)\n- [Nat Geo: Planned roads could imperil Florida's panthers—and last remaining wilderness](https://www.nationalgeographic.com/animals/article/florida-toll-road-threatens-wildlife-panthers?loggedin=true)\n- [The Florida Panther: Past, Present and Future](https://edis.ifas.ufl.edu/publication/UW402)\n- [America’s cat is on the comeback](https://www.americanscientist.org/article/americas-cat-is-on-the-comeback)\n- [Of kings and Alpine Ibex: the amazing resurrection of a species from near-extinction](https://natureecoevocommunity.nature.com/posts/59792-of-kings-and-alpine-ibex-the-amazing-resurrection-of-a-species-from-near-extinction)\n",
+      "Content": "#### Connection to Research\n How do we save endangered species? This lesson deals with one option called *genetic rescue*—a conservation strategy that involves moving individuals from one population into an endangered population that is highly inbred in order to add genetic variation to enable population recovery. Students learn about two distinct lines of research: one measuring the success of an attempt to save endangered Florida panthers; the other using wild Trinidadian guppies as a model of endangered species in order to better understand details of how genetic rescue can succeed or fail. \n#### Research Background\n Watch this video for a lot of panther background: [▶ What is genetic rescue, and can we use it to save endangered species?](https://www.youtube.com/watch?v=oFQmNq8sJ2Y&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=2)  \n\nThe Florida panther is a unique subspecies (*Puma concolor coryi*) of the American puma (*Puma concolor*). It's not to be confused with black panthers, which are the dark (melanistic) forms of leopards or jaguars. The Florida panther was nearly driven to extinction by habitat loss, fragmentation, and targeted hunting. In the mid-1990s, there remained only a tiny ~20 individual population of panthers in south Florida, and they were highly inbred. They had a lot of recessive genetic abnormalities, including visible, superficial traits like: kinked tails and cowlicks in their fur, to more significant problems like: cryptorchidism (undescended testicles, causing infertility in males) and heart defects. Wildlife managers decided to relocate 8 female pumas from Texas (*Puma concolor couguar*) into Florida to introduce needed genetic variation.  \n\nStudents will get to analyze 20 years worth of monitoring data to assess whether genetic rescue was successful (it was! There are now over 200 Florida panthers). At the same time, students will compare these results to a paired data set in Trinidadian guppies to understand how model organisms can be used to answer scientific questions that are difficult to answer in an endangered or difficult-to-study species.\n\n#### Related Florida Panther Paper:\n![screenshot of panther study paper](https://gp-catalog.vercel.app/lessons/geneticRescue_sci/VanDeKerk_paper_screenshot.png)\n[Link to study](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wmon.1041)\n\n\nThis video connects genetic rescue research on Florida panthers to the Trinidadian guppy model species: [▶ Saving a species through genetic rescue: Why we need model organisms](https://www.youtube.com/watch?v=AiXyHxv4Sx4&list=PLz-D3xOC0d88kLYQLB9xeUz7gAaO1JJZb&index=3)\n\nTo study many details of genetic rescue in a model system where we don't have to worry about inadvertently driving a species extinct, Dr. Sarah Fitzpatrick and colleagues went to Trinidad. They took advantage of previous experiments that had moved guppies from a downstream population that had lots of genetic variation into upstream pools with only a few, highly inbred fish. \n\nThis genetic rescue experiment was indeed successful, and after only a few months, genetic variation increased and the population rebounded from around 20 individuals to over 1,000.\n\n\n#### Related Guppy Paper:\n![screenshot of Scientific Study](https://gp-catalog.vercel.app/lessons/geneticRescue_sci/fitzpatrick_paper_screenshot.png)\n[Link to study](https://onlinelibrary.wiley.com/doi/10.1111/eva.12356)\n\n#### Further Reading\n- [USFWS Florida Panther Profile](https://www.fws.gov/refuge/florida_panther/wah/panther.html)\n- [Nat Geo: Planned roads could imperil Florida's panthers—and last remaining wilderness](https://www.nationalgeographic.com/animals/article/florida-toll-road-threatens-wildlife-panthers?loggedin=true)\n- [The Florida Panther: Past, Present and Future](https://edis.ifas.ufl.edu/publication/UW402)\n- [America’s cat is on the comeback](https://www.americanscientist.org/article/americas-cat-is-on-the-comeback)\n- [Of kings and Alpine Ibex: the amazing resurrection of a species from near-extinction](https://natureecoevocommunity.nature.com/posts/59792-of-kings-and-alpine-ibex-the-amazing-resurrection-of-a-species-from-near-extinction)\n",
       "InitiallyExpanded": true
     },
     "standards-header": {
@@ -1032,7 +1158,7 @@
       "Description": "This Galactic Polymath Learning Chart illustrates the areas of knowledge covered. This lesson targets Science, but it helps teach national learning standards in 4 subjects: \n- [Common Core Math](http://www.corestandards.org/Math/); [Common Core ELA](http://www.corestandards.org/ELA-Literacy/); [Next Generation Science (NGSS)](https://www.nextgenscience.org/); and [College, Career, and Civic Life (C3) Social Studies Standards](https://www.socialstudies.org/standards/c3).\nIn total, there are 21 standards across US grade band(s): 9-12.",
       "Footnote": "",
       "Badge": {
-        "url": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/GP-Learning-Chart.png"
+        "url": "https://gp-catalog.vercel.app/lessons/geneticRescue_sci/GP-Learning-Chart.png"
       }
     },
     "standards": {
@@ -1052,17 +1178,33 @@
                   "name": "Measurement, Data, Probability & Statistics",
                   "standardsGroup": [
                     {
+                      "parts": [
+                        "5"
+                      ],
                       "codes": "HSS-ID.B.6",
-                      "grades": "9,10,11,12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
-                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured. ",
+                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
                       "subcat": null
                     },
                     {
+                      "parts": [
+                        "5"
+                      ],
                       "codes": "HSS-ID.C.7",
-                      "grades": "9,10,11,12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Interpret the slope (rate of change) and the intercept (constant term) of a linear model in the context of the data.",
-                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured. ",
+                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
                       "subcat": null
                     }
                   ]
@@ -1084,15 +1226,27 @@
                   "name": "Writing",
                   "standardsGroup": [
                     {
+                      "parts": [
+                        "1"
+                      ],
                       "codes": "W.9-10.3c",
-                      "grades": "9,10",
+                      "grades": [
+                        "9",
+                        "10"
+                      ],
                       "statements": "Use a variety of techniques to sequence events so that they build on one another to create a coherent whole.",
-                      "alignmentNotes": "- Students use information to complete a logic model depicting genetic rescue. ",
+                      "alignmentNotes": "- Students use information to complete a logic model depicting genetic rescue.",
                       "subcat": null
                     },
                     {
+                      "parts": [
+                        "3"
+                      ],
                       "codes": "W.9-10.7",
-                      "grades": "9,10",
+                      "grades": [
+                        "9",
+                        "10"
+                      ],
                       "statements": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.",
                       "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
                       "subcat": null
@@ -1104,8 +1258,28 @@
                   "name": "Language, Speaking & Listening",
                   "standardsGroup": [
                     {
+                      "parts": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                      ],
                       "codes": "CCRA.SL.5",
-                      "grades": "K,1,2,3,4,5,6,7,8,9,10,11,12",
+                      "grades": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Make strategic use of digital media and visual displays of data to express information and enhance understanding of presentations.",
                       "alignmentNotes": "- Students integrate graphs, video, and classroom discussions and reflections to enhance understanding of genetic rescue.",
                       "subcat": null
@@ -1125,42 +1299,74 @@
               "name": "NGSS",
               "dimensions": [
                 {
-                  "slug": "DCI",
-                  "name": "Disciplinary Core ideas",
-                  "standardsGroup": [
-                    {
-                      "codes": "LS4.D-H2",
-                      "grades": "9,10,11,12",
-                      "statements": "Humans depend on the living world for the resources and other benefits provided by biodiversity. But human activity is also having adverse impacts on biodiversity through overpopulation, overexploitation, habitat destruction, pollution, introduction of invasive species, and climate change. Thus, sustaining biodiversity so that ecosystem functioning and productivity are maintained is essential to supporting and enhancing life on Earth. Sustaining biodiversity also aids humanity by preserving landscapes of recreational or inspirational value.",
-                      "alignmentNotes": "- Students watch videos to learn about the benefits provided by a healthy Florida Panther population and participate in a Think-Pair-Share to discuss the potential impacts of losing Florida Panthers.",
-                      "subcat": "Biodiversity & Humans"
-                    }
-                  ]
-                },
-                {
                   "slug": "SEP",
                   "name": "Science & Engineering Practices",
                   "standardsGroup": [
                     {
-                      "codes": "DATA-H5",
-                      "grades": "9,10,11,12",
-                      "statements": "Evaluate the impact of new data on a working explanation and/or model of a proposed process or system.",
-                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured. ",
-                      "subcat": "Analyzing Data"
-                    },
-                    {
+                      "parts": [
+                        "3"
+                      ],
                       "codes": "ARG-H6",
-                      "grades": "9,10,11,12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Evaluate competing design solutions to a real-world problem based on scientific ideas and principles, empirical evidence, and logical arguments regarding relevant factors (e.g., economic, societal, environmental, ethical considerations).",
                       "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
                       "subcat": "Engaging in Argument from Evidence"
                     },
                     {
+                      "parts": [
+                        "3"
+                      ],
                       "codes": "CEDS-H5",
-                      "grades": "9,10,11,12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Design, evaluate, and/or refine a solution to a complex real-world problem, based on scientific knowledge, student-generated sources of evidence, prioritized criteria, and tradeoff considerations.",
                       "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
                       "subcat": "Constructing Explanations & Designing Solutions"
+                    },
+                    {
+                      "parts": [
+                        "5"
+                      ],
+                      "codes": "DATA-H5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Evaluate the impact of new data on a working explanation and/or model of a proposed process or system.",
+                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
+                      "subcat": "Analyzing Data"
+                    }
+                  ]
+                },
+                {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "1"
+                      ],
+                      "codes": "LS4.D-H2",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Humans depend on the living world for the resources and other benefits provided by biodiversity. But human activity is also having adverse impacts on biodiversity through overpopulation, overexploitation, habitat destruction, pollution, introduction of invasive species, and climate change. Thus, sustaining biodiversity so that ecosystem functioning and productivity are maintained is essential to supporting and enhancing life on Earth. Sustaining biodiversity also aids humanity by preserving landscapes of recreational or inspirational value.",
+                      "alignmentNotes": "- Students watch videos to learn about the benefits provided by a healthy Florida Panther population and participate in a Think-Pair-Share to discuss the potential impacts of losing Florida Panthers.",
+                      "subcat": "Biodiversity & Humans"
                     }
                   ]
                 },
@@ -1169,10 +1375,18 @@
                   "name": "Cross-Cutting Concepts",
                   "standardsGroup": [
                     {
+                      "parts": [
+                        "5"
+                      ],
                       "codes": "SPQ-H5",
-                      "grades": "9,10,11,12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Algebraic thinking is used to examine scientific data and predict the effect of a change in one variable on another (e.g., linear growth vs. exponential growth).",
-                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured. ",
+                      "alignmentNotes": "- Students will interpret population data from Trinidadian guppies and use their findings to explain how it models changes in the Florida Panther population after genetic rescue has occured.",
                       "subcat": "Scale, Proportion, & Quantity"
                     }
                   ]
@@ -1194,8 +1408,16 @@
                   "name": "Civics, Economics, Geography & History",
                   "standardsGroup": [
                     {
+                      "parts": [
+                        "1"
+                      ],
                       "codes": "D2.Geo.6.9-12",
-                      "grades": "9,10,11,12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Evaluate the impact of human settlement activities on the environmental and cultural characteristics of specific places and regions.",
                       "alignmentNotes": "- Students watch a video that highlights how human expansion and development has contributed to fragmentation and they use a worksheet to reflect on how this process has contributed to the issues seen in Florida panthers.",
                       "subcat": null
@@ -1215,63 +1437,121 @@
               "name": "NGSS",
               "dimensions": [
                 {
-                  "slug": "DCI",
-                  "name": "Disciplinary Core ideas",
-                  "standardsGroup": [
-                    {
-                      "codes": "LS4.B-H1",
-                      "grades": "9,10,11,12",
-                      "statements": "Natural selection occurs only if there is both (1) variation in the genetic information between organisms in a population and (2) variation in the expression of that genetic information–that is, trait variation–that leads to differences in performance among individuals.",
-                      "alignmentNotes": "- Students use information to complete a logic model depicting genetic rescue. ",
-                      "subcat": "Natural Selection"
-                    },
-                    {
-                      "codes": "LS4.C-H1",
-                      "grades": "9,10,11,12",
-                      "statements": "Evolution is a consequence of the interaction of four factors: (1) the potential for a species to increase in number, (2) the genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for an environment’s limited supply of the resources that individuals need in order to survive and reproduce, and (4) the ensuing proliferation of those organisms that are better able to survive and reproduce in that environment.",
-                      "alignmentNotes": "- Students participate in a genotype and phenotype activity and discuss the changes they see in Florida panther offspring. ",
-                      "subcat": "Adaptation"
-                    },
-                    {
-                      "codes": "LS4.C-H5",
-                      "grades": "9,10,11,12",
-                      "statements": "Species become extinct because they can no longer survive and reproduce in their altered environment. If members cannot adjust to change that is too fast or drastic, the opportunity for the species’ evolution is lost.",
-                      "alignmentNotes": "- Students explore the extinction vortext concept by reviewing and comparing multiple graphs that show changes in population size (and genetic variation) over time.",
-                      "subcat": "Adaptation"
-                    }
-                  ]
-                },
-                {
                   "slug": "SEP",
                   "name": "Science & Engineering Practices",
                   "standardsGroup": [
                     {
-                      "codes": "CEDS-H1",
-                      "grades": "9,10,11,12",
-                      "statements": "Make a quantitative and/or qualitative claim regarding the relationship between dependent and independent variables.",
-                      "alignmentNotes": "- Students interpret graphs depicting Trinidadian guppies' population size and genetic variation over time to determine success of genetic rescue treatment.",
-                      "subcat": "Constructing Explanations & Designing Solutions"
-                    },
-                    {
-                      "codes": "INFO-H5",
-                      "grades": "9,10,11,12",
-                      "statements": "Communicate scientific and/or technical information or ideas (e.g. about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically).",
-                      "alignmentNotes": "- Students will complete a worksheet that asks them to identify a graph that depicts a population undergoing an extinction vortex and explain their choice by comparing it to another graph. \n- Students also complete concept maps to communicate their understanding of extinction vortex and genetic rescue.",
-                      "subcat": "Obtaining, Evaluating, & Communicating Information"
-                    },
-                    {
+                      "parts": [
+                        "3"
+                      ],
                       "codes": "ARG-H1",
-                      "grades": "9,10,11,12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Compare and evaluate competing arguments or design solutions in light of currently accepted explanations, new evidence, limitations (e.g., trade-offs), constraints, and ethical issues.",
                       "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
                       "subcat": "Engaging in Argument from Evidence"
                     },
                     {
+                      "parts": [
+                        "3"
+                      ],
                       "codes": "ARG-H5",
-                      "grades": "9,10,11,12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Make and defend a claim based on evidence about the natural world or the effectiveness of a design solution that reflects scientific knowledge, and student-generated evidence.",
                       "alignmentNotes": "- Students take part in a role-playing activity where they consider three options for how to address the issues with Florida Panthers and discuss the pros and cons of each.",
                       "subcat": "Engaging in Argument from Evidence"
+                    },
+                    {
+                      "parts": [
+                        "5"
+                      ],
+                      "codes": "CEDS-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Make a quantitative and/or qualitative claim regarding the relationship between dependent and independent variables.",
+                      "alignmentNotes": "- Students interpret graphs depicting Trinidadian guppies' population size and genetic variation over time to determine success of genetic rescue treatment.",
+                      "subcat": "Constructing Explanations & Designing Solutions"
+                    },
+                    {
+                      "parts": [
+                        "4",
+                        "5"
+                      ],
+                      "codes": "INFO-H5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Communicate scientific and/or technical information or ideas (e.g. about phenomena and/or the process of development and the design and performance of a proposed process or system) in multiple formats (including orally, graphically, textually, and mathematically).",
+                      "alignmentNotes": "- Students will complete a worksheet that asks them to identify a graph that depicts a population undergoing an extinction vortex and explain their choice by comparing it to another graph. \n- Students also complete concept maps to communicate their understanding of extinction vortex and genetic rescue.",
+                      "subcat": "Obtaining, Evaluating, & Communicating Information"
+                    }
+                  ]
+                },
+                {
+                  "slug": "DCI",
+                  "name": "Disciplinary Core ideas",
+                  "standardsGroup": [
+                    {
+                      "parts": [
+                        "1",
+                        "2"
+                      ],
+                      "codes": "LS4.B-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Natural selection occurs only if there is both (1) variation in the genetic information between organisms in a population and (2) variation in the expression of that genetic information–that is, trait variation–that leads to differences in performance among individuals.",
+                      "alignmentNotes": "- Look at genetic variation at different scales in Parts 1 and 2.",
+                      "subcat": "Natural Selection"
+                    },
+                    {
+                      "parts": [
+                        "2"
+                      ],
+                      "codes": "LS4.C-H1",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Evolution is a consequence of the interaction of four factors: (1) the potential for a species to increase in number, (2) the genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for an environment’s limited supply of the resources that individuals need in order to survive and reproduce, and (4) the ensuing proliferation of those organisms that are better able to survive and reproduce in that environment.",
+                      "alignmentNotes": "- Students participate in a simulated breeding activity, deepening their understanding of the genotype -> phenotype connection.",
+                      "subcat": "Adaptation"
+                    },
+                    {
+                      "parts": [
+                        "2"
+                      ],
+                      "codes": "LS4.C-H5",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
+                      "statements": "Species become extinct because they can no longer survive and reproduce in their altered environment. If members cannot adjust to change that is too fast or drastic, the opportunity for the species’ evolution is lost.",
+                      "alignmentNotes": "- Students explore the extinction vortext concept by reviewing and comparing multiple graphs that show changes in population size (and genetic variation) over time.",
+                      "subcat": "Adaptation"
                     }
                   ]
                 },
@@ -1280,22 +1560,46 @@
                   "name": "Cross-Cutting Concepts",
                   "standardsGroup": [
                     {
+                      "parts": [
+                        "4"
+                      ],
                       "codes": "SYS-H1",
-                      "grades": "9,10,11,12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Systems can be designed to do specific tasks.",
                       "alignmentNotes": "- Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers",
                       "subcat": "Systems & Systems Models"
                     },
                     {
+                      "parts": [
+                        "4"
+                      ],
                       "codes": "SYS-H3",
-                      "grades": "9,10,11,12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Models (e.g., physical, mathematical, computer models) can be used to simulate systems and interactions–including energy, matter, and information flows– within and between systems at different scales.",
                       "alignmentNotes": "- Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers.",
                       "subcat": "Systems & Systems Models"
                     },
                     {
+                      "parts": [
+                        "4"
+                      ],
                       "codes": "SYS-H4",
-                      "grades": "9,10,11,12",
+                      "grades": [
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                      ],
                       "statements": "Models can be used to predict the behavior of a system, but these predictions have limited precision and reliability due to the assumptions and approximations inherent in models.",
                       "alignmentNotes": "- Students will evaluate the characteristics of a variety of commonly used model organisms and select the ones that best fit for studying the problem in Florida panthers.",
                       "subcat": "Systems & Systems Models"
@@ -1400,44 +1704,51 @@
           "sub_releases": [
             {
               "version": "0.1.0",
-              "date": "Dec 09, 2021",
-              "summary": "Initial lesson build. ",
+              "date": "12/9/2021",
+              "summary": "Initial lesson build.",
               "notes": null,
               "acknowledgments": null
             },
             {
               "version": "0.1.1",
-              "date": "Dec 12, 2021",
+              "date": "12/12/2021",
               "summary": "minor update",
               "notes": "Fixed version number issue & added Video Links to Teach it in 15 Quick Prep",
               "acknowledgments": null
             },
             {
               "version": "0.2.0",
-              "date": "Dec 13, 2021",
+              "date": "12/13/2021",
               "summary": "Updated data & added lesson media browser",
               "notes": null,
               "acknowledgments": "Thanks to [Kenzie Bottoms](https://www.linkedin.com/in/kenzie-bottoms/) for making the media browser magic!"
             },
             {
               "version": "0.3.0",
-              "date": "Feb 17, 2022",
+              "date": "2/17/2022",
               "summary": "Major revisions to Part 3",
               "notes": "Added new Above the Noise video engagement at the beginning & numerous tweaks to presentation and worksheet to improve flow & aid student understanding.",
               "acknowledgments": null
             },
             {
               "version": "0.4.0",
-              "date": "Mar 03, 2022",
+              "date": "3/3/2022",
               "summary": "Major updates to documentation",
               "notes": "Added more background information & the extensions section",
               "acknowledgments": null
             },
             {
               "version": "0.5.0",
-              "date": "Aug 25, 2022",
+              "date": "8/25/2022",
               "summary": "Added assessments to lesson",
               "notes": "A pre-/post- test assessment tool",
+              "acknowledgments": null
+            },
+            {
+              "version": "0.6.0",
+              "date": "5/5/2023",
+              "summary": "Rebuilt for galacticpolymath.com relaunch",
+              "notes": null,
               "acknowledgments": null
             }
           ]
