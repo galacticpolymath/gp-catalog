@@ -2792,7 +2792,7 @@
     "Country": "United States",
     "DefaultLanguage": "English",
     "DefaultCountry": "United States",
-    "LastUpdated": "2023-05-04 18:01:43",
+    "LastUpdated": "2023-05-06 17:45:43",
     "FirstPublicationDate": "2022-04-01 15:16:29",
     "MediumTitle": "'The Guardian Frogs of Borneo' |Science| G5-9 (en-US)",
     "lang": "en",
@@ -2885,7 +2885,7 @@
             "lessonRelevance": "Part of a fun simulated data collection activity. Students \"introduce\" their card (by vocalizing and dancing) and build a data table.",
             "by": "Galactic Polymath",
             "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
-            "mainLink": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/view?usp=sharing",
+            "mainLink": "https://drive.google.com/file/d/18YviuSZR_uxPaOwFUGLyERjwl1P_fNz2/preview?rm=minimal",
             "otherLink": null
           },
           {
@@ -3015,8 +3015,8 @@
                         ]
                       },
                       {
-                        "itemTitle": "\"Role with It\" Activity Cards (Print enough so each student has at least 1)",
-                        "itemDescription": null,
+                        "itemTitle": "\"Role with It\" Activity Cards",
+                        "itemDescription": "Print enough so each student has at least 1",
                         "itemCat": "pdf",
                         "links": [
                           {
