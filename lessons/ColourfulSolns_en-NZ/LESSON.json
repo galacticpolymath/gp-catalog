@@ -7,7 +7,7 @@
   "Country": "New Zealand",
   "DefaultLanguage": "English",
   "DefaultCountry": "New Zealand",
-  "LastUpdated": "2023-05-06 17:40:13",
+  "LastUpdated": "2023-05-06 18:03:14",
   "FirstPublicationDate": "2022-06-26 20:30:21",
   "MediumTitle": "'Colourful Solutions' |Science| Y9-13 (en-NZ)",
   "lang": "en",
@@ -248,7 +248,7 @@
                   "preface": "Using the concept maps they developed in Part 1, students sort a set of cards into 3 ordered processes. This is used to understand the starting costs of each technology.",
                   "itemList": [
                     {
-                      "itemTitle": "Card (Part 2)",
+                      "itemTitle": "Cost Cards for Activity (Part 2)",
                       "itemDescription": null,
                       "itemCat": "presentation",
                       "links": [
@@ -373,7 +373,7 @@
                 "preface": "",
                 "itemList": [
                   {
-                    "itemTitle": "Teacher Assessment (Part /  ())",
+                    "itemTitle": "Assessment (TEACHER)",
                     "itemDescription": null,
                     "itemCat": "document",
                     "links": [
@@ -388,7 +388,7 @@
                     ]
                   },
                   {
-                    "itemTitle": "Student Assessment (Part /  ())",
+                    "itemTitle": "Assessment (STUDENT)",
                     "itemDescription": null,
                     "itemCat": "document",
                     "links": [
