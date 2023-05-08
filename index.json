@@ -2792,7 +2792,7 @@
     "Country": "United States",
     "DefaultLanguage": "English",
     "DefaultCountry": "United States",
-    "LastUpdated": "2023-05-08 16:31:09",
+    "LastUpdated": "2023-05-08 16:35:43",
     "FirstPublicationDate": "2023-04-10 12:14:57",
     "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
     "lang": "en",
@@ -3978,7 +3978,7 @@
       "credits": {
         "__component": "lesson-plan.collapsible-text-section",
         "SectionTitle": "Credits",
-        "Content": "### [Madelyn Leembruggen](https://www.linkedin.com/in/madelyn-leembruggen/)\n*Led the project; developed and researched storylines; drafted all learning materials; developed, filmed and edited supporting videos.*\n\n### [Caroline Hu, PhD](https://www.hudrewthis.com/)\n*Developed and illustrated comic narrative; did background research on devices; helped weave learning activities into the narrative.*\n\n### [Shireen Adenwalla, PhD](https://unlcms.unl.edu/cas/physics/adenwalla/)\n*Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*\n\n### [Xiaoshan Xu, PhD](https://xiaoshanxu.unl.edu/welcome-xu-group)\n*Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*\n\n### [Leigh M. Smith, PhD](https://researchdirectory.uc.edu/p/smithlm)\n*Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*\n\n### [Matt Wilkins, PhD](https://mattwilkinsbio.com)\n*Directed the project; helped develop, edit, and revise all aspects of the lesson*\n",
+        "Content": "#### [Madelyn Leembruggen](https://www.linkedin.com/in/madelyn-leembruggen/)\n*Led the project; developed and researched storylines; drafted all learning materials; developed, filmed and edited supporting videos.*\n\n#### [Caroline Hu, PhD](https://www.hudrewthis.com/)\n*Developed and illustrated comic narrative; did background research on devices; helped weave learning activities into the narrative.*\n\n#### [Shireen Adenwalla, PhD](https://unlcms.unl.edu/cas/physics/adenwalla/)\n*Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*\n\n#### [Xiaoshan Xu, PhD](https://xiaoshanxu.unl.edu/welcome-xu-group)\n*Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*\n\n### [Leigh M. Smith, PhD](https://researchdirectory.uc.edu/p/smithlm)\n*Defined outreach goals; provided feedback throughout development; provided scientific validation of lesson content.*\n\n#### [Matt Wilkins, PhD](https://mattwilkinsbio.com)\n*Directed the project; helped develop, edit, and revise all aspects of the lesson*\n",
         "InitiallyExpanded": true
       },
       "acknowledgments": {
