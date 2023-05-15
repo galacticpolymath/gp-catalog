@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-05-10 20:23:17",
+  "LastUpdated": "2023-05-15 12:12:39",
   "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
@@ -614,7 +614,7 @@
                     "Step": 1,
                     "StepTitle": "Unit Cell Models",
                     "StepQuickDescription": "Cut out and assemble unit cell models from paper.",
-                    "StepDetails": "Following the instructions on the worksheet, cut out the unit cell meshes: [▶ Exploring Crystal Structure and Symmetry (Part 1)](https://youtu.be/M5avLEoWvUI). These models will be used throughout the rest of the lesson.",
+                    "StepDetails": "Following the instructions on the worksheet, cut out the unit cell meshes: [➚ Unit Cell Handout](https://docs.google.com/presentation/d/1im-4JZzjp-Om_oUxNgvuEqDr9quc1Ry7K3PlROMy2gs/edit#slide=id.p). These models will be used throughout the rest of the lesson.",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -630,7 +630,7 @@
                     "Step": 2,
                     "StepTitle": "What's a Symmetry?",
                     "StepQuickDescription": "Definitions of rotational and mirror symmetries.",
-                    "StepDetails": "The worksheet shows some examples of rotational and mirror symmetries. Also, check in with a video where Madelyn explains how to observe the symmetries of our unit cell models: [▶ Exploring Crystal Structure and Symmetry (Part 2)](https://youtu.be/O3Dz3ekEYQQ)",
+                    "StepDetails": "The worksheet shows some examples of rotational and mirror symmetries. Also, check in with a video where Madelyn explains how to observe the symmetries of our unit cell models: [▶ Exploring Crystal Structure and Symmetry (Part 1)](https://youtu.be/M5avLEoWvUI)",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
@@ -648,7 +648,7 @@
                     "Step": 4,
                     "StepTitle": "Build a Crystal",
                     "StepQuickDescription": "Build a crystal structure from unit cells.",
-                    "StepDetails": "Students will work together (or build more unit cell models, if they're working individually) to create a large crystal structure from their paper unit cells. They'll then reflect on the process of building a crystal from unit cells as opposed to individual molecules. Students can check in again with a video where Madelyn explains how symmetry restricts the ways crystals can form.",
+                    "StepDetails": "Students will work together (or build more unit cell models, if they're working individually) to create a large crystal structure from their paper unit cells. They'll then reflect on the process of building a crystal from unit cells as opposed to individual molecules. Students can check in again with a video where Madelyn explains how symmetry restricts the ways crystals can form: [▶ Exploring Crystal Structure and Symmetry (Part 2)](https://youtu.be/O3Dz3ekEYQQ)",
                     "Vocab": null,
                     "VariantNotes": null,
                     "TeachingTips": null
