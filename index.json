@@ -6707,19 +6707,19 @@
     "Country": "United States",
     "DefaultLanguage": "English",
     "DefaultCountry": "United States",
-    "LastUpdated": "2023-05-06 14:29:52",
+    "LastUpdated": "2023-05-17 14:49:55",
     "FirstPublicationDate": "2021-12-15 17:06:16",
     "MediumTitle": "'Genetic Rescue to the Rescue' |Science| G9-12 (en-US)",
     "lang": "en",
     "lng": "eng",
     "locale": "en-US",
     "DefaultLocale": "en-US",
-    "TemplateVer": "0.5.0",
+    "TemplateVer": "0.5.2",
     "galacticPubsVer": "0.9.6",
+    "isTestRepo": false,
     "URL": "https://galacticpolymath.com/lessons/3",
     "GPCatalogURL": "https://gp-catalog.vercel.app/lessons/geneticRescue_sci/LESSON.json",
-    "GPCatalogPath": "https://catalog.galacticpolymath.com/lessons/geneticRescue_sci/LESSON.json",
-    "GitHubPath": "git@github.com:galacticpolymath/geneticRescue_sci.git",
+    "GitHubURL": "git@github.com:galacticpolymath/geneticRescue_sci.git",
     "GdriveHome": "GP-LIVE",
     "GdriveDirName": "geneticRescue_sci",
     "GdriveTeachMatPath": "GalacticPolymath/'Genetic Rescue to the Rescue' |Science| G9-12 (en-US)",
@@ -6731,7 +6731,7 @@
     "GdriveStandardsID": "176j3wF_Jt_SsTJoP4o8w_FWa2vNWybLIW3Crz0BRq88",
     "GdrivePublishedID": "1_8YhQHo4LftImt8U_WGVUm0sL3ypzKnD",
     "GdriveDirURL": "https://drive.google.com/drive/folders/1NWH6z13CgpVn0bFe1fWloeWw87ycGDti",
-    "RebuildAllMaterials": false,
+    "RebuildAllMaterials": true,
     "ReleaseDate": "2021-12-15",
     "PublicationDate": "2021-12-15",
     "Title": "Genetic Rescue to the Rescue",
@@ -6802,8 +6802,7 @@
         },
         "SteamEpaulette_vert": {
           "url": "https://gp-catalog.vercel.app/lessons/geneticRescue_sci/GP-Learning-Epaulette_vert.png"
-        },
-        "Description": "Students learn about genetic rescue, an approach for helping endangered populations recover by introducing closely related individuals from a different population. The lesson is framed around the story of Florida panthers, which are a classic success story for genetic rescue. In Part 1, students explore Florida panther recovery through the lens of different stakeholders (ranchers, city-dwellers, and Native Americans), discussing ways that each group may have positive or negative associations with panthers. \n\nIn Part 2, they then explore different options for helping panther recovery, discussing pros and cons of genetic rescue, captive breeding, or doing nothing. \n\nPart 3 provides necessary scaffolding for a deeper dive into genetic rescue by explaining key concepts in the context of Florida panthers. Students also do a card-based activity simulating matings to better understand why inbreeding and recessive traits are so problematic in small populations.\n\nPart 4, goes deeper into genetic rescue: what can go wrong? Students provide evidence of their understanding of how all the concepts connect through a concept mapping exercise, interspersed with our carefully crafted explainer videos. A key take-home is that even though genetic rescue worked in Florida panthers, it's quite risky to test out conservation strategies on an endangered species. The concluding task is to analyze a table of organisms and their characteristics to determine which would be good models to study the effectiveness of genetic rescue without risking a rare species' extinction. \n\nPart 5 builds on this to reveal Dr. Sarah Fitzpatrick's (this lesson's sponsor) research using Trinidadian guppies as a model of genetic rescue. Students then spend much of the class period analyzing real, paired data collected from Florida panthers and guppies. They are asked to compare and label graphs from both species, and synthesize broader conclusions. The lesson leaves open many options for project-based lessons and independent projects."
+        }
       },
       "preview": {
         "__component": "lesson-plan.lesson-preview",
@@ -6856,6 +6855,18 @@
             "by": "Galactic Polymath",
             "byLink": "https://www.youtube.com/channel/UCfyBNvN3CH4uWmwOCQVhmhg/featured",
             "mainLink": "https://www.youtube.com/embed/AiXyHxv4Sx4",
+            "otherLink": null
+          },
+          {
+            "order": "5",
+            "type": "video",
+            "forPart": null,
+            "title": "A virtual PD/walk-through of the lesson",
+            "description": null,
+            "lessonRelevance": "GP Founder Matt Wilkins breaks down how this lesson can be used in your classroom.",
+            "by": "Kellogg Biological Station",
+            "byLink": "https://www.youtube.com/@KBSLTER",
+            "mainLink": "https://www.youtube.com/embed/vbbJiaKXNt4",
             "otherLink": null
           }
         ],
