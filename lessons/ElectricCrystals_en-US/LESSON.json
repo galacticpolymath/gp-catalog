@@ -7,7 +7,7 @@
   "Country": "United States",
   "DefaultLanguage": "English",
   "DefaultCountry": "United States",
-  "LastUpdated": "2023-05-15 21:29:35",
+  "LastUpdated": "2023-06-01 12:14:57.471912",
   "FirstPublicationDate": "2023-04-10 12:14:57",
   "MediumTitle": "'Electric Crystals' |Science| G7-12 (en-US)",
   "lang": "en",
@@ -40,7 +40,7 @@
     "FunsizePhysics",
     "University of Nebraska-Lincoln"
   ],
-  "SponsoredBy": "- University of Nebraska-Lincoln's [Funsize Physics](https://funsizephysics.com/). Whether you’re 7 or 107, a full-blown science fanatic or simply curious, this is the place for you.\n- National Science Foundation grant DMR 2048959",
+  "SponsoredBy": "- [Funsize Physics](https://funsizephysics.com/), where working scientists invite *you* to share in the joy of scientific discovery.\n- National Science Foundation grant DMR 2048959",
   "SponsorLogo": [
     "assets/_banners_logos_etc/FunSizePhysics_logo.png",
     "assets/_banners_logos_etc/NSF_4-Color_bitmap_Logo@0.25x.png",
@@ -89,8 +89,7 @@
       },
       "SteamEpaulette_vert": {
         "url": "https://gp-catalog.vercel.app/lessons/ElectricCrystals_en-US/GP-Learning-Epaulette_vert.png"
-      },
-      "Description": null
+      }
     },
     "preview": {
       "__component": "lesson-plan.lesson-preview",
